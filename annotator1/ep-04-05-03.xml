@@ -1,0 +1,1323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<europarl_chunk source="../../ep-04-05-03.txt">
+  <turn turn_id="t_04-05-03_21/de" lang="de">
+    <alignUnit al_id="a_04-05-03_21/de.1">
+      <sent sent_id="s_1">
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_1" mate_mother="t_0" mate_rel="--">Herr</tok>
+        <tok mate_lemma="Präsident" mate_morph="nom|sg|masc" mate_pos="NN" id="t_2" mate_mother="t_4" mate_rel="NK">Präsident</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_3" mate_mother="t_5" mate_rel="--">!</tok>
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_4" mate_mother="t_5" mate_rel="SB">Es</tok>
+        <tok mate_lemma="tun" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_5" mate_mother="t_0" mate_rel="--">tut</tok>
+        <tok mate_lemma="sich" mate_morph="dat|sg|*|1" mate_pos="PPER" id="t_6" mate_mother="t_5" mate_rel="DA">mir</tok>
+        <tok mate_lemma="sehr" mate_morph="_" mate_pos="ADV" id="t_7" mate_mother="t_8" mate_rel="MO">sehr</tok>
+        <tok mate_lemma="leid" mate_morph="pos" mate_pos="ADJD" id="t_8" mate_mother="t_5" mate_rel="MO">leid</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_9" mate_mother="t_8" mate_rel="--">,</tok>
+        <tok mate_lemma="dass" mate_morph="_" mate_pos="KOUS" id="t_10" mate_mother="t_28" mate_rel="CP">dass</tok>
+        <tok mate_lemma="wir" mate_morph="nom|pl|*|1" mate_pos="PPER" id="t_11" mate_mother="t_28" mate_rel="SB">wir</tok>
+        <tok mate_lemma="gerade" mate_morph="_" mate_pos="ADV" id="t_12" mate_mother="t_13" mate_rel="MO">gerade</tok>
+        <tok mate_lemma="heute" mate_morph="_" mate_pos="ADV" id="t_13" mate_mother="t_28" mate_rel="MO">heute</tok>
+        <tok mate_lemma="bei" mate_morph="_" mate_pos="APPR" id="t_14" mate_mother="t_28" mate_rel="MO">bei</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|pl|fem" mate_pos="PDAT" id="t_15" mate_mother="t_18" mate_rel="NK">diesen</tok>
+        <tok mate_lemma="besonders" mate_morph="_" mate_pos="ADV" id="t_16" mate_mother="t_17" mate_rel="MO">besonders</tok>
+        <tok mate_lemma="wichtig" mate_morph="dat|pl|fem|pos" mate_pos="ADJA" id="t_17" mate_mother="t_18" mate_rel="NK">wichtigen</tok>
+        <tok mate_lemma="Diskussion" mate_morph="dat|pl|fem" mate_pos="NN" id="t_18" mate_mother="t_14" mate_rel="NK">Diskussionen</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_19" mate_mother="t_18" mate_rel="CD">und</tok>
+        <tok mate_lemma="emotional" mate_morph="pos" mate_pos="ADJD" id="t_20" mate_mother="t_22" mate_rel="MO">emotional</tok>
+        <tok mate_lemma="stark" mate_morph="pos" mate_pos="ADJD" id="t_21" mate_mother="t_22" mate_rel="MO">stark</tok>
+        <tok mate_lemma="aufgeladen" mate_morph="dat|pl|fem|pos" mate_pos="ADJA" id="t_22" mate_mother="t_23" mate_rel="NK">aufgeladenen</tok>
+        <tok mate_lemma="Thema" mate_morph="dat|pl|fem" mate_pos="NN" id="t_23" mate_mother="t_19" mate_rel="CJ">Themen</tok>
+        <tok mate_lemma="auf" mate_morph="_" mate_pos="APPR" id="t_24" mate_mother="t_27" mate_rel="MO">auf</tok>
+        <tok mate_lemma="so" mate_morph="_" mate_pos="ADV" id="t_25" mate_mother="t_26" mate_rel="MO">so</tok>
+        <tok mate_lemma="Banales" mate_morph="acc|pl|fem" mate_pos="NN" id="t_26" mate_mother="t_24" mate_rel="NK">Banales</tok>
+        <tok mate_lemma="zurückkommen" mate_morph="_" mate_pos="VVINF" id="t_27" mate_mother="t_28" mate_rel="OC">zurückkommen</tok>
+        <tok mate_lemma="müssen" mate_morph="_" mate_pos="VMINF" id="t_28" mate_mother="t_5" mate_rel="MO">müssen</tok>
+        <tok mate_lemma="wie" mate_morph="_" mate_pos="KOKOM" id="t_29" mate_mother="t_31" mate_rel="CM">wie</tok>
+        <tok mate_lemma="ein" mate_morph="nom|sg|masc" mate_pos="ART" id="t_30" mate_mother="t_31" mate_rel="NK">ein</tok>
+        <tok mate_lemma="Protokoll" mate_morph="nom|sg|masc" mate_pos="NN" id="t_31" mate_mother="t_25" mate_rel="CC">Protokoll</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_32" mate_mother="t_31" mate_rel="--">,</tok>
+        <tok mate_lemma="aber" mate_morph="_" mate_pos="KON" id="t_33" mate_mother="t_5" mate_rel="CD">aber</tok>
+        <tok mate_lemma="wir" mate_morph="nom|pl|*|1" mate_pos="PPER" id="t_34" mate_mother="t_35" mate_rel="SB">wir</tok>
+        <tok mate_lemma="haben" mate_morph="pl|1|pres|ind" mate_pos="VAFIN" id="t_35" mate_mother="t_33" mate_rel="CJ">haben</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_36" mate_mother="t_35" mate_rel="MO">in</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|masc" mate_pos="PDAT" id="t_37" mate_mother="t_39" mate_rel="NK">diesem</tok>
+        <tok mate_lemma="hoch" mate_morph="gen|sg|fem|pos" mate_pos="ADJA" id="t_38" mate_mother="t_39" mate_rel="NK">hohen</tok>
+        <tok mate_lemma="Haus" mate_morph="dat|sg|neut" mate_pos="NN" id="t_39" mate_mother="t_36" mate_rel="NK">Hause</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|masc" mate_pos="ART" id="t_40" mate_mother="t_43" mate_rel="NK">einen</tok>
+        <tok mate_lemma="selbst" mate_morph="_" mate_pos="ADV" id="t_41" mate_mother="t_42" mate_rel="MO">selbst</tok>
+        <tok mate_lemma="ernannt" mate_morph="acc|sg|masc|pos" mate_pos="ADJA" id="t_42" mate_mother="t_43" mate_rel="NK">ernannten</tok>
+        <tok mate_lemma="Helden" mate_morph="acc|sg|masc" mate_pos="NN" id="t_43" mate_mother="t_35" mate_rel="OA">Helden</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_44" mate_mother="t_43" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.2">
+      <sent sent_id="s_2">
+        <tok mate_lemma="dieser" mate_morph="nom|sg|masc" mate_pos="PDAT" id="t_45" mate_mother="t_57" mate_rel="NK">Dieser</tok>
+        <tok mate_lemma="mutig" mate_morph="nom|sg|masc|pos" mate_pos="ADJA" id="t_46" mate_mother="t_57" mate_rel="NK">mutige</tok>
+        <tok mate_lemma="abgeordneter" mate_morph="nom|sg|masc" mate_pos="NN" id="t_47" mate_mother="t_60" mate_rel="SB">Abgeordnete</tok>
+        <tok mate_lemma="der" mate_morph="gen|sg|fem" mate_pos="ART" id="t_48" mate_mother="t_59" mate_rel="NK">der</tok>
+        <tok mate_lemma="Boulevardpresse" mate_morph="gen|sg|fem" mate_pos="NN" id="t_49" mate_mother="t_57" mate_rel="AG">Boulevardpresse</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_50" mate_mother="t_0" mate_rel="--">ist</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="APPR" id="t_51" mate_mother="t_63" mate_rel="MO">zu</tok>
+        <tok mate_lemma="alle" mate_morph="dat|sg|neut" mate_pos="PIS" id="t_52" mate_mother="t_61" mate_rel="NK">allem</tok>
+        <tok mate_lemma="fähig" mate_morph="pos" mate_pos="ADJD" id="t_53" mate_mother="t_60" mate_rel="PD">fähig</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_54" mate_mother="t_63" mate_rel="--">.</tok>
+        <tok mate_lemma="jetzt" mate_morph="_" mate_pos="ADV" id="t_55" mate_mother="t_56" mate_rel="MO">Jetzt</tok>
+        <tok mate_lemma="fälschen" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_56" mate_mother="t_0" mate_rel="--">fälscht</tok>
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_57" mate_mother="t_56" mate_rel="SB">Herr</tok>
+        <tok mate_lemma="Hans-Peter" mate_morph="nom|sg|masc" mate_pos="NE" id="t_58" mate_mother="t_59" mate_rel="PNC">Hans-Peter</tok>
+        <tok mate_lemma="Martin" mate_morph="nom|sg|masc" mate_pos="NE" id="t_59" mate_mother="t_57" mate_rel="NK">Martin</tok>
+        <tok mate_lemma="sogar" mate_morph="_" mate_pos="ADV" id="t_60" mate_mother="t_56" mate_rel="MO">sogar</tok>
+        <tok mate_lemma="schon" mate_morph="_" mate_pos="ADV" id="t_61" mate_mother="t_56" mate_rel="MO">schon</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|neut" mate_pos="ART" id="t_62" mate_mother="t_63" mate_rel="NK">das</tok>
+        <tok mate_lemma="Protokoll" mate_morph="nom|sg|neut" mate_pos="NN" id="t_63" mate_mother="t_56" mate_rel="SB">Protokoll</tok>
+        <tok mate_lemma="der" mate_morph="gen|sg|neut" mate_pos="ART" id="t_64" mate_mother="t_66" mate_rel="NK">des</tok>
+        <tok mate_lemma="europäisch" mate_morph="gen|sg|neut|pos" mate_pos="ADJA" id="t_65" mate_mother="t_66" mate_rel="NK">Europäischen</tok>
+        <tok mate_lemma="Parlament" mate_morph="gen|sg|neut" mate_pos="NN" id="t_66" mate_mother="t_63" mate_rel="AG">Parlaments</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_67" mate_mother="t_66" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.3">
+      <sent sent_id="s_3">
+        <tok mate_lemma="bei" mate_morph="_" mate_pos="APPR" id="t_68" mate_mother="t_75" mate_rel="MO">Bei</tok>
+        <tok mate_lemma="der" mate_morph="dat|pl|fem" mate_pos="ART" id="t_69" mate_mother="t_70" mate_rel="NK">den</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="dat|pl|fem" mate_pos="NN" id="t_70" mate_mother="t_68" mate_rel="NK">Abstimmungen</tok>
+        <tok mate_lemma="zu" mate_morph="dat|sg|neut" mate_pos="APPRART" id="t_71" mate_mother="t_70" mate_rel="MNR">zum</tok>
+        <tok mate_lemma="Bericht" mate_morph="dat|sg|neut" mate_pos="NN" id="t_72" mate_mother="t_71" mate_rel="NK">Bericht</tok>
+        <tok mate_lemma="van" mate_morph="*|*|*" mate_pos="NE" id="t_73" mate_mother="t_74" mate_rel="PNC">van</tok>
+        <tok mate_lemma="Hulten" mate_morph="nom|sg|*" mate_pos="NE" id="t_74" mate_mother="t_72" mate_rel="NK">Hulten</tok>
+        <tok mate_lemma="lässen" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_75" mate_mother="t_0" mate_rel="--">lässt</tok>
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_76" mate_mother="t_75" mate_rel="SB">Herr</tok>
+        <tok mate_lemma="Martin" mate_morph="nom|sg|masc" mate_pos="NE" id="t_77" mate_mother="t_76" mate_rel="NK">Martin</tok>
+        <tok mate_lemma="13" mate_morph="_" mate_pos="CARD" id="t_78" mate_mother="t_83" mate_rel="MO">13</tok>
+        <tok mate_lemma="Mal" mate_morph="acc|sg|neut" mate_pos="NN" id="t_79" mate_mother="t_83" mate_rel="MO">Mal</tok>
+        <tok mate_lemma="sein" mate_morph="acc|sg|neut" mate_pos="PPOSAT" id="t_80" mate_mother="t_82" mate_rel="NK">sein</tok>
+        <tok mate_lemma="angeblich" mate_morph="acc|sg|neut|pos" mate_pos="ADJA" id="t_81" mate_mother="t_82" mate_rel="NK">angebliches</tok>
+        <tok mate_lemma="Stimmverhalt" mate_morph="acc|sg|neut" mate_pos="NN" id="t_82" mate_mother="t_83" mate_rel="OA">Stimmverhalten</tok>
+        <tok mate_lemma="korrigieren" mate_morph="_" mate_pos="VVINF" id="t_83" mate_mother="t_75" mate_rel="OC">korrigieren</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_84" mate_mother="t_83" mate_rel="--">,</tok>
+        <tok mate_lemma="obwohl" mate_morph="_" mate_pos="KOUS" id="t_85" mate_mother="t_93" mate_rel="CP">obwohl</tok>
+        <tok mate_lemma="er" mate_morph="nom|sg|masc|3" mate_pos="PPER" id="t_86" mate_mother="t_93" mate_rel="SB">er</tok>
+        <tok mate_lemma="bei" mate_morph="_" mate_pos="APPR" id="t_87" mate_mother="t_93" mate_rel="MO">bei</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|fem" mate_pos="PDAT" id="t_88" mate_mother="t_89" mate_rel="NK">dieser</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_89" mate_mother="t_87" mate_rel="NK">Abstimmung</tok>
+        <tok mate_lemma="überhaupt" mate_morph="_" mate_pos="ADV" id="t_90" mate_mother="t_91" mate_rel="MO">überhaupt</tok>
+        <tok mate_lemma="nicht" mate_morph="_" mate_pos="PTKNEG" id="t_91" mate_mother="t_93" mate_rel="NG">nicht</tok>
+        <tok mate_lemma="anwesend" mate_morph="pos" mate_pos="ADJD" id="t_92" mate_mother="t_93" mate_rel="PD">anwesend</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|past|ind" mate_pos="VAFIN" id="t_93" mate_mother="t_83" mate_rel="MO">war</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_94" mate_mother="t_93" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.4">
+      <sent sent_id="s_4">
+        <tok mate_lemma="unter" mate_morph="_" mate_pos="APPR" id="t_95" mate_mother="t_99" mate_rel="MO">Unter</tok>
+        <tok mate_lemma="der" mate_morph="dat|pl|masc" mate_pos="ART" id="t_96" mate_mother="t_98" mate_rel="NK">den</tok>
+        <tok mate_lemma="13" mate_morph="_" mate_pos="CARD" id="t_97" mate_mother="t_98" mate_rel="NK">13</tok>
+        <tok mate_lemma="Fall" mate_morph="dat|pl|masc" mate_pos="NN" id="t_98" mate_mother="t_95" mate_rel="NK">Fällen</tok>
+        <tok mate_lemma="sein" mate_morph="pl|3|pres|ind" mate_pos="VAFIN" id="t_99" mate_mother="t_0" mate_rel="--">sind</tok>
+        <tok mate_lemma="bis" mate_morph="_" mate_pos="APPR" id="t_100" mate_mother="t_102" mate_rel="AC">bis</tok>
+        <tok mate_lemma="hin" mate_morph="_" mate_pos="ADV" id="t_101" mate_mother="t_102" mate_rel="MO">hin</tok>
+        <tok mate_lemma="zu" mate_morph="dat|sg|fem" mate_pos="APPRART" id="t_102" mate_mother="t_105" mate_rel="MO">zur</tok>
+        <tok mate_lemma="Schlussabstimmung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_103" mate_mother="t_102" mate_rel="NK">Schlussabstimmung</tok>
+        <tok mate_lemma="allein" mate_morph="_" mate_pos="ADV" id="t_104" mate_mother="t_105" mate_rel="MO">allein</tok>
+        <tok mate_lemma="sieben" mate_morph="_" mate_pos="CARD" id="t_105" mate_mother="t_107" mate_rel="NK">sieben</tok>
+        <tok mate_lemma="namentlich" mate_morph="nom|pl|fem|pos" mate_pos="ADJA" id="t_106" mate_mother="t_107" mate_rel="NK">namentliche</tok>
+        <tok mate_lemma="Votum" mate_morph="nom|pl|fem" mate_pos="NN" id="t_107" mate_mother="t_99" mate_rel="SB">Voten</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_108" mate_mother="t_107" mate_rel="--">,</tok>
+        <tok mate_lemma="bei" mate_morph="_" mate_pos="APPR" id="t_109" mate_mother="t_118" mate_rel="MO">bei</tok>
+        <tok mate_lemma="der" mate_morph="dat|pl|fem" mate_pos="PRELS" id="t_110" mate_mother="t_109" mate_rel="NK">denen</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|masc" mate_pos="ART" id="t_111" mate_mother="t_112" mate_rel="NK">der</tok>
+        <tok mate_lemma="Name" mate_morph="nom|sg|masc" mate_pos="NN" id="t_112" mate_mother="t_119" mate_rel="SB">Name</tok>
+        <tok mate_lemma="Martin" mate_morph="nom|sg|neut" mate_pos="NE" id="t_113" mate_mother="t_118" mate_rel="OA">Martin</tok>
+        <tok mate_lemma="in" mate_morph="dat|sg|neut" mate_pos="APPRART" id="t_114" mate_mother="t_118" mate_rel="MO">im</tok>
+        <tok mate_lemma="Protokoll" mate_morph="dat|sg|neut" mate_pos="NN" id="t_115" mate_mother="t_114" mate_rel="NK">Protokoll</tok>
+        <tok mate_lemma="nicht" mate_morph="_" mate_pos="PTKNEG" id="t_116" mate_mother="t_118" mate_rel="NG">nicht</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="PTKZU" id="t_117" mate_mother="t_118" mate_rel="PM">zu</tok>
+        <tok mate_lemma="finden" mate_morph="_" mate_pos="VVINF" id="t_118" mate_mother="t_119" mate_rel="OC">finden</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_119" mate_mother="t_107" mate_rel="RC">ist</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_120" mate_mother="t_119" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.5">
+      <sent sent_id="s_5">
+        <tok mate_lemma="an" mate_morph="_" mate_pos="APPR" id="t_121" mate_mother="t_135" mate_rel="MO">An</tok>
+        <tok mate_lemma="keiner" mate_morph="nom|sg|masc" mate_pos="PIS" id="t_122" mate_mother="t_121" mate_rel="NK">keiner</tok>
+        <tok mate_lemma="der" mate_morph="gen|pl|masc" mate_pos="ART" id="t_123" mate_mother="t_126" mate_rel="NK">der</tok>
+        <tok mate_lemma="15" mate_morph="_" mate_pos="CARD" id="t_124" mate_mother="t_126" mate_rel="NK">15</tok>
+        <tok mate_lemma="namentlich" mate_morph="gen|pl|fem|pos" mate_pos="ADJA" id="t_125" mate_mother="t_126" mate_rel="NK">namentlichen</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="gen|pl|fem" mate_pos="NN" id="t_126" mate_mother="t_122" mate_rel="AG">Abstimmungen</tok>
+        <tok mate_lemma="zu" mate_morph="dat|sg|masc" mate_pos="APPRART" id="t_127" mate_mother="t_126" mate_rel="MNR">zum</tok>
+        <tok mate_lemma="Bericht" mate_morph="dat|sg|masc" mate_pos="NN" id="t_128" mate_mother="t_127" mate_rel="NK">Bericht</tok>
+        <tok mate_lemma="van" mate_morph="*|*|*" mate_pos="NE" id="t_129" mate_mother="t_130" mate_rel="PNC">van</tok>
+        <tok mate_lemma="Hulten" mate_morph="nom|sg|*" mate_pos="NE" id="t_130" mate_mother="t_128" mate_rel="NK">Hulten</tok>
+        <tok mate_lemma="haben" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_131" mate_mother="t_0" mate_rel="--">hat</tok>
+        <tok mate_lemma="dieser" mate_morph="nom|sg|masc" mate_pos="PDAT" id="t_132" mate_mother="t_134" mate_rel="NK">dieser</tok>
+        <tok mate_lemma="fein" mate_morph="nom|sg|masc|pos" mate_pos="ADJA" id="t_133" mate_mother="t_134" mate_rel="NK">feine</tok>
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_134" mate_mother="t_135" mate_rel="SB">Herr</tok>
+        <tok mate_lemma="teilnehmen" mate_morph="_" mate_pos="VVPP" id="t_135" mate_mother="t_131" mate_rel="OC">teilgenommen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_136" mate_mother="t_135" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.6">
+      <sent sent_id="s_6">
+        <tok mate_lemma="also" mate_morph="_" mate_pos="ADV" id="t_137" mate_mother="t_138" mate_rel="MO">Also</tok>
+        <tok mate_lemma="muss" mate_morph="sg|3|pres|ind" mate_pos="VMFIN" id="t_138" mate_mother="t_0" mate_rel="--">muss</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|neut" mate_pos="ART" id="t_139" mate_mother="t_140" mate_rel="NK">das</tok>
+        <tok mate_lemma="alle" mate_morph="nom|sg|neut" mate_pos="PIS" id="t_140" mate_mother="t_138" mate_rel="SB">alles</tok>
+        <tok mate_lemma="wieder" mate_morph="_" mate_pos="ADV" id="t_141" mate_mother="t_145" mate_rel="MO">wieder</tok>
+        <tok mate_lemma="aus" mate_morph="_" mate_pos="APPR" id="t_142" mate_mother="t_145" mate_rel="MO">aus</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|neut" mate_pos="ART" id="t_143" mate_mother="t_144" mate_rel="NK">dem</tok>
+        <tok mate_lemma="Protokoll" mate_morph="dat|sg|neut" mate_pos="NN" id="t_144" mate_mother="t_142" mate_rel="NK">Protokoll</tok>
+        <tok mate_lemma="herausstreichen" mate_morph="_" mate_pos="VVPP" id="t_145" mate_mother="t_146" mate_rel="OC">herausgestrichen</tok>
+        <tok mate_lemma="werden" mate_morph="_" mate_pos="VAINF" id="t_146" mate_mother="t_138" mate_rel="OC">werden</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_147" mate_mother="t_146" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.7">
+      <sent sent_id="s_7">
+        <tok mate_lemma="Betrug" mate_morph="acc|sg|masc" mate_pos="NN" id="t_148" mate_mother="t_151" mate_rel="SB">Betrug</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_149" mate_mother="t_148" mate_rel="CD">und</tok>
+        <tok mate_lemma="Fälschung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_150" mate_mother="t_149" mate_rel="CJ">Fälschung</tok>
+        <tok mate_lemma="haben" mate_morph="pl|3|pres|ind" mate_pos="VAFIN" id="t_151" mate_mother="t_0" mate_rel="--">haben</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_152" mate_mother="t_151" mate_rel="MO">in</tok>
+        <tok mate_lemma="ein" mate_morph="dat|sg|neut" mate_pos="ART" id="t_153" mate_mother="t_154" mate_rel="NK">einem</tok>
+        <tok mate_lemma="Dokument" mate_morph="dat|sg|neut" mate_pos="NN" id="t_154" mate_mother="t_152" mate_rel="NK">Dokument</tok>
+        <tok mate_lemma="dieser" mate_morph="gen|sg|neut" mate_pos="PDAT" id="t_155" mate_mother="t_156" mate_rel="NK">dieses</tok>
+        <tok mate_lemma="Parlament" mate_morph="gen|sg|neut" mate_pos="NN" id="t_156" mate_mother="t_154" mate_rel="AG">Parlaments</tok>
+        <tok mate_lemma="kein" mate_morph="acc|sg|masc" mate_pos="PIAT" id="t_157" mate_mother="t_158" mate_rel="NK">keinen</tok>
+        <tok mate_lemma="Platz" mate_morph="acc|sg|masc" mate_pos="NN" id="t_158" mate_mother="t_151" mate_rel="OA">Platz</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_159" mate_mother="t_158" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/de.8">
+      <sent sent_id="s_8">
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_160" mate_mother="t_161" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="muss" mate_morph="sg|1|pres|ind" mate_pos="VMFIN" id="t_161" mate_mother="t_0" mate_rel="--">muss</tok>
+        <tok mate_lemma="ihnen" mate_morph="dat|pl|*|3" mate_pos="PPER" id="t_162" mate_mother="t_165" mate_rel="DA">Ihnen</tok>
+        <tok mate_lemma="kein" mate_morph="acc|sg|masc" mate_pos="PIAT" id="t_163" mate_mother="t_164" mate_rel="NK">keinen</tok>
+        <tok mate_lemma="Rat" mate_morph="acc|sg|masc" mate_pos="NN" id="t_164" mate_mother="t_165" mate_rel="OA">Rat</tok>
+        <tok mate_lemma="geben" mate_morph="_" mate_pos="VVINF" id="t_165" mate_mother="t_161" mate_rel="OC">geben</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_166" mate_mother="t_165" mate_rel="--">,</tok>
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_167" mate_mother="t_164" mate_rel="APP">Herr</tok>
+        <tok mate_lemma="Präsident" mate_morph="nom|sg|masc" mate_pos="NN" id="t_168" mate_mother="t_167" mate_rel="NK">Präsident</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_169" mate_mother="t_168" mate_rel="--">,</tok>
+        <tok mate_lemma="aber" mate_morph="_" mate_pos="KON" id="t_170" mate_mother="t_167" mate_rel="CD">aber</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|masc" mate_pos="ART" id="t_171" mate_mother="t_172" mate_rel="NK">den</tok>
+        <tok mate_lemma="Hinweis" mate_morph="acc|sg|masc" mate_pos="NN" id="t_172" mate_mother="t_170" mate_rel="CJ">Hinweis</tok>
+        <tok mate_lemma="auf" mate_morph="_" mate_pos="APPR" id="t_173" mate_mother="t_172" mate_rel="OP">auf</tok>
+        <tok mate_lemma="Artikel" mate_morph="acc|sg|masc" mate_pos="NN" id="t_174" mate_mother="t_173" mate_rel="NK">Artikel</tok>
+        <tok mate_lemma="124" mate_morph="_" mate_pos="CARD" id="t_175" mate_mother="t_174" mate_rel="NK">124</tok>
+        <tok mate_lemma="unser" mate_morph="dat|sg|fem" mate_pos="PPOSAT" id="t_176" mate_mother="t_177" mate_rel="NK">unserer</tok>
+        <tok mate_lemma="Geschäftsordnung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_177" mate_mother="t_174" mate_rel="AG">Geschäftsordnung</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_178" mate_mother="t_177" mate_rel="CD">und</tok>
+        <tok mate_lemma="sein" mate_morph="acc|pl|fem" mate_pos="PPOSAT" id="t_179" mate_mother="t_180" mate_rel="NK">seine</tok>
+        <tok mate_lemma="Möglichkeit" mate_morph="acc|pl|fem" mate_pos="NN" id="t_180" mate_mother="t_178" mate_rel="CJ">Möglichkeiten</tok>
+        <tok mate_lemma="können" mate_morph="sg|3|pres|ind" mate_pos="VMFIN" id="t_181" mate_mother="t_161" mate_rel="CJ">kann</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_182" mate_mother="t_181" mate_rel="SB">ich</tok>
+        <tok mate_lemma="sich" mate_morph="dat|sg|*|1" mate_pos="PRF" id="t_183" mate_mother="t_186" mate_rel="DA">mir</tok>
+        <tok mate_lemma="doch" mate_morph="_" mate_pos="ADV" id="t_184" mate_mother="t_181" mate_rel="MO">doch</tok>
+        <tok mate_lemma="nicht" mate_morph="_" mate_pos="PTKNEG" id="t_185" mate_mother="t_181" mate_rel="NG">nicht</tok>
+        <tok mate_lemma="verkneifen" mate_morph="_" mate_pos="VVINF" id="t_186" mate_mother="t_181" mate_rel="OC">verkneifen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_187" mate_mother="t_186" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <turn turn_id="t_04-05-03_21/en" lang="en">
+    <alignUnit al_id="a_04-05-03_21/en.1">
+      <sent sent_id="s_9">
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_188" mate_mother="t_189" mate_rel="NMOD">Mr</tok>
+        <tok mate_lemma="president" mate_morph="_" mate_pos="NN" id="t_189" mate_mother="t_211" mate_rel="SBJ">President</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_190" mate_mother="t_189" mate_rel="P">,</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_191" mate_mother="t_189" mate_rel="NMOD">on</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_192" mate_mother="t_193" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="day" mate_morph="_" mate_pos="NN" id="t_193" mate_mother="t_191" mate_rel="PMOD">day</tok>
+        <tok mate_lemma="like" mate_morph="_" mate_pos="IN" id="t_194" mate_mother="t_193" mate_rel="NMOD">like</tok>
+        <tok mate_lemma="today" mate_morph="_" mate_pos="NN" id="t_195" mate_mother="t_194" mate_rel="PMOD">today</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_196" mate_mother="t_189" mate_rel="P">,</tok>
+        <tok mate_lemma="with" mate_morph="_" mate_pos="IN" id="t_197" mate_mother="t_211" mate_rel="ADV">with</tok>
+        <tok mate_lemma="its" mate_morph="_" mate_pos="PRP$" id="t_198" mate_mother="t_201" mate_rel="NMOD">its</tok>
+        <tok mate_lemma="especially" mate_morph="_" mate_pos="RB" id="t_199" mate_mother="t_200" mate_rel="AMOD">especially</tok>
+        <tok mate_lemma="important" mate_morph="_" mate_pos="JJ" id="t_200" mate_mother="t_201" mate_rel="NMOD">important</tok>
+        <tok mate_lemma="debate" mate_morph="_" mate_pos="NNS" id="t_201" mate_mother="t_197" mate_rel="PMOD">debates</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_202" mate_mother="t_201" mate_rel="NMOD">on</tok>
+        <tok mate_lemma="topic" mate_morph="_" mate_pos="NNS" id="t_203" mate_mother="t_202" mate_rel="PMOD">topics</tok>
+        <tok mate_lemma="laden" mate_morph="_" mate_pos="JJ" id="t_204" mate_mother="t_203" mate_rel="APPO">laden</tok>
+        <tok mate_lemma="with" mate_morph="_" mate_pos="IN" id="t_205" mate_mother="t_204" mate_rel="AMOD">with</tok>
+        <tok mate_lemma="emotion" mate_morph="_" mate_pos="NN" id="t_206" mate_mother="t_205" mate_rel="PMOD">emotion</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_207" mate_mother="t_211" mate_rel="P">,</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_208" mate_mother="t_211" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="very" mate_morph="_" mate_pos="RB" id="t_209" mate_mother="t_211" mate_rel="MNR">very</tok>
+        <tok mate_lemma="much" mate_morph="_" mate_pos="RB" id="t_210" mate_mother="t_209" mate_rel="AMOD">much</tok>
+        <tok mate_lemma="regret" mate_morph="_" mate_pos="VB" id="t_211" mate_mother="t_0" mate_rel="ROOT">regret</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_212" mate_mother="t_211" mate_rel="OBJ">that</tok>
+        <tok mate_lemma="we" mate_morph="_" mate_pos="PRP" id="t_213" mate_mother="t_214" mate_rel="SBJ">we</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBP" id="t_214" mate_mother="t_212" mate_rel="SUB">have</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_215" mate_mother="t_214" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="get" mate_morph="_" mate_pos="VB" id="t_216" mate_mother="t_215" mate_rel="IM">get</tok>
+        <tok mate_lemma="back" mate_morph="_" mate_pos="RB" id="t_217" mate_mother="t_216" mate_rel="ADV">back</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_218" mate_mother="t_217" mate_rel="AMOD">to</tok>
+        <tok mate_lemma="something" mate_morph="_" mate_pos="NN" id="t_219" mate_mother="t_218" mate_rel="PMOD">something</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_220" mate_mother="t_221" mate_rel="AMOD">as</tok>
+        <tok mate_lemma="banal" mate_morph="_" mate_pos="JJ" id="t_221" mate_mother="t_219" mate_rel="APPO">banal</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_222" mate_mother="t_221" mate_rel="AMOD">as</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNS" id="t_223" mate_mother="t_222" mate_rel="PMOD">Minutes</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_224" mate_mother="t_214" mate_rel="P">,</tok>
+        <tok mate_lemma="but" mate_morph="_" mate_pos="CC" id="t_225" mate_mother="t_214" mate_rel="COORD">but</tok>
+        <tok mate_lemma="we" mate_morph="_" mate_pos="PRP" id="t_226" mate_mother="t_227" mate_rel="SBJ">we</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBP" id="t_227" mate_mother="t_225" mate_rel="CONJ">have</tok>
+        <tok mate_lemma="among" mate_morph="_" mate_pos="IN" id="t_228" mate_mother="t_227" mate_rel="LOC">among</tok>
+        <tok mate_lemma="us" mate_morph="_" mate_pos="PRP" id="t_229" mate_mother="t_228" mate_rel="PMOD">us</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_230" mate_mother="t_227" mate_rel="LOC">in</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_231" mate_mother="t_232" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="house" mate_morph="_" mate_pos="NNP" id="t_232" mate_mother="t_230" mate_rel="PMOD">House</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_233" mate_mother="t_235" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="self-appointed" mate_morph="_" mate_pos="VBN" id="t_234" mate_mother="t_235" mate_rel="NMOD">self-appointed</tok>
+        <tok mate_lemma="hero" mate_morph="_" mate_pos="NN" id="t_235" mate_mother="t_227" mate_rel="OBJ">hero</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_236" mate_mother="t_235" mate_rel="P">,</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_237" mate_mother="t_239" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="courageous" mate_morph="_" mate_pos="JJ" id="t_238" mate_mother="t_239" mate_rel="NMOD">courageous</tok>
+        <tok mate_lemma="representative" mate_morph="_" mate_pos="NN" id="t_239" mate_mother="t_235" mate_rel="APPO">representative</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_240" mate_mother="t_239" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_241" mate_mother="t_243" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="gutter" mate_morph="_" mate_pos="NN" id="t_242" mate_mother="t_243" mate_rel="NMOD">gutter</tok>
+        <tok mate_lemma="press" mate_morph="_" mate_pos="NN" id="t_243" mate_mother="t_240" mate_rel="PMOD">press</tok>
+        <tok mate_lemma="who" mate_morph="_" mate_pos="WP" id="t_244" mate_mother="t_245" mate_rel="SBJ">who</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_245" mate_mother="t_243" mate_rel="NMOD">is</tok>
+        <tok mate_lemma="capable" mate_morph="_" mate_pos="JJ" id="t_246" mate_mother="t_245" mate_rel="PRD">capable</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_247" mate_mother="t_246" mate_rel="AMOD">of</tok>
+        <tok mate_lemma="anything" mate_morph="_" mate_pos="NN" id="t_248" mate_mother="t_247" mate_rel="PMOD">anything</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_249" mate_mother="t_211" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.2">
+      <sent sent_id="s_10">
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_250" mate_mother="t_252" mate_rel="NAME">Mr</tok>
+        <tok mate_lemma="hans-peter" mate_morph="_" mate_pos="NNP" id="t_251" mate_mother="t_252" mate_rel="NAME">Hans-Peter</tok>
+        <tok mate_lemma="martin" mate_morph="_" mate_pos="NNP" id="t_252" mate_mother="t_253" mate_rel="SBJ">Martin</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBZ" id="t_253" mate_mother="t_0" mate_rel="ROOT">has</tok>
+        <tok mate_lemma="now" mate_morph="_" mate_pos="RB" id="t_254" mate_mother="t_253" mate_rel="TMP">now</tok>
+        <tok mate_lemma="go" mate_morph="_" mate_pos="VBN" id="t_255" mate_mother="t_253" mate_rel="VC">gone</tok>
+        <tok mate_lemma="so" mate_morph="_" mate_pos="RB" id="t_256" mate_mother="t_255" mate_rel="ADV">so</tok>
+        <tok mate_lemma="far" mate_morph="_" mate_pos="RB" id="t_257" mate_mother="t_256" mate_rel="AMOD">far</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_258" mate_mother="t_256" mate_rel="AMOD">as</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_259" mate_mother="t_258" mate_rel="SUB">to</tok>
+        <tok mate_lemma="falsify" mate_morph="_" mate_pos="VB" id="t_260" mate_mother="t_259" mate_rel="IM">falsify</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_261" mate_mother="t_262" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNS" id="t_262" mate_mother="t_260" mate_rel="OBJ">Minutes</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_263" mate_mother="t_262" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_264" mate_mother="t_266" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="european" mate_morph="_" mate_pos="NNP" id="t_265" mate_mother="t_266" mate_rel="NMOD">European</tok>
+        <tok mate_lemma="parliament" mate_morph="_" mate_pos="NNP" id="t_266" mate_mother="t_263" mate_rel="PMOD">Parliament</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_267" mate_mother="t_253" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.3">
+      <sent sent_id="s_11">
+        <tok mate_lemma="although" mate_morph="_" mate_pos="IN" id="t_268" mate_mother="t_285" mate_rel="ADV">Although</tok>
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_269" mate_mother="t_270" mate_rel="NAME">Mr</tok>
+        <tok mate_lemma="martin" mate_morph="_" mate_pos="NNP" id="t_270" mate_mother="t_271" mate_rel="SBJ">Martin</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBD" id="t_271" mate_mother="t_268" mate_rel="SUB">had</tok>
+        <tok mate_lemma="his" mate_morph="_" mate_pos="PRP$" id="t_272" mate_mother="t_273" mate_rel="NMOD">his</tok>
+        <tok mate_lemma="voting" mate_morph="_" mate_pos="NN" id="t_273" mate_mother="t_271" mate_rel="OBJ">voting</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_274" mate_mother="t_273" mate_rel="NMOD">on</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_275" mate_mother="t_278" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="van" mate_morph="_" mate_pos="NNP" id="t_276" mate_mother="t_277" mate_rel="NAME">van</tok>
+        <tok mate_lemma="hulten" mate_morph="_" mate_pos="NNP" id="t_277" mate_mother="t_278" mate_rel="NMOD">Hulten</tok>
+        <tok mate_lemma="report" mate_morph="_" mate_pos="NN" id="t_278" mate_mother="t_274" mate_rel="PMOD">report</tok>
+        <tok mate_lemma="correct" mate_morph="_" mate_pos="VBD" id="t_279" mate_mother="t_271" mate_rel="OPRD">corrected</tok>
+        <tok mate_lemma="13" mate_morph="_" mate_pos="CD" id="t_280" mate_mother="t_281" mate_rel="NMOD">13</tok>
+        <tok mate_lemma="times" mate_morph="_" mate_pos="NNS" id="t_281" mate_mother="t_279" mate_rel="OBJ">times</tok>
+        <tok mate_lemma="over" mate_morph="_" mate_pos="RB" id="t_282" mate_mother="t_279" mate_rel="MNR">over</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_283" mate_mother="t_285" mate_rel="P">,</tok>
+        <tok mate_lemma="he" mate_morph="_" mate_pos="PRP" id="t_284" mate_mother="t_285" mate_rel="SBJ">he</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBD" id="t_285" mate_mother="t_0" mate_rel="ROOT">was</tok>
+        <tok mate_lemma="not" mate_morph="_" mate_pos="RB" id="t_286" mate_mother="t_285" mate_rel="ADV">not</tok>
+        <tok mate_lemma="even" mate_morph="_" mate_pos="RB" id="t_287" mate_mother="t_288" mate_rel="AMOD">even</tok>
+        <tok mate_lemma="present" mate_morph="_" mate_pos="JJ" id="t_288" mate_mother="t_285" mate_rel="PRD">present</tok>
+        <tok mate_lemma="for" mate_morph="_" mate_pos="IN" id="t_289" mate_mother="t_285" mate_rel="ADV">for</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_290" mate_mother="t_291" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NN" id="t_291" mate_mother="t_289" mate_rel="PMOD">vote</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_292" mate_mother="t_285" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.4">
+      <sent sent_id="s_12">
+        <tok mate_lemma="these" mate_morph="_" mate_pos="DT" id="t_293" mate_mother="t_295" mate_rel="NMOD">These</tok>
+        <tok mate_lemma="13" mate_morph="_" mate_pos="CD" id="t_294" mate_mother="t_295" mate_rel="NMOD">13</tok>
+        <tok mate_lemma="instance" mate_morph="_" mate_pos="NNS" id="t_295" mate_mother="t_304" mate_rel="SBJ">instances</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_296" mate_mother="t_304" mate_rel="P">,</tok>
+        <tok mate_lemma="right" mate_morph="_" mate_pos="RB" id="t_297" mate_mother="t_298" mate_rel="DEP">right</tok>
+        <tok mate_lemma="up" mate_morph="_" mate_pos="IN" id="t_298" mate_mother="t_304" mate_rel="ADV">up</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_299" mate_mother="t_298" mate_rel="PMOD">to</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_300" mate_mother="t_302" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="final" mate_morph="_" mate_pos="JJ" id="t_301" mate_mother="t_302" mate_rel="NMOD">final</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NN" id="t_302" mate_mother="t_299" mate_rel="PMOD">vote</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_303" mate_mother="t_304" mate_rel="P">,</tok>
+        <tok mate_lemma="include" mate_morph="_" mate_pos="VBP" id="t_304" mate_mother="t_0" mate_rel="ROOT">include</tok>
+        <tok mate_lemma="no" mate_morph="_" mate_pos="DT" id="t_305" mate_mother="t_306" mate_rel="AMOD">no</tok>
+        <tok mate_lemma="fewer" mate_morph="_" mate_pos="JJR" id="t_306" mate_mother="t_308" mate_rel="DEP">fewer</tok>
+        <tok mate_lemma="than" mate_morph="_" mate_pos="IN" id="t_307" mate_mother="t_308" mate_rel="DEP">than</tok>
+        <tok mate_lemma="seven" mate_morph="_" mate_pos="CD" id="t_308" mate_mother="t_309" mate_rel="NMOD">seven</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NNS" id="t_309" mate_mother="t_304" mate_rel="OBJ">votes</tok>
+        <tok mate_lemma="by" mate_morph="_" mate_pos="IN" id="t_310" mate_mother="t_309" mate_rel="NMOD">by</tok>
+        <tok mate_lemma="roll" mate_morph="_" mate_pos="NN" id="t_311" mate_mother="t_312" mate_rel="NMOD">roll</tok>
+        <tok mate_lemma="call" mate_morph="_" mate_pos="NN" id="t_312" mate_mother="t_310" mate_rel="PMOD">call</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_313" mate_mother="t_312" mate_rel="P">,</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_314" mate_mother="t_324" mate_rel="LOC">in</tok>
+        <tok mate_lemma="which" mate_morph="_" mate_pos="WDT" id="t_315" mate_mother="t_314" mate_rel="PMOD">which</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_316" mate_mother="t_317" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="name" mate_morph="_" mate_pos="NN" id="t_317" mate_mother="t_320" mate_rel="SBJ">name</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_318" mate_mother="t_317" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="martin" mate_morph="_" mate_pos="NNP" id="t_319" mate_mother="t_318" mate_rel="PMOD">Martin</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_320" mate_mother="t_312" mate_rel="NMOD">is</tok>
+        <tok mate_lemma="not" mate_morph="_" mate_pos="RB" id="t_321" mate_mother="t_320" mate_rel="ADV">not</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_322" mate_mother="t_309" mate_rel="NMOD">to</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VB" id="t_323" mate_mother="t_322" mate_rel="IM">be</tok>
+        <tok mate_lemma="found" mate_morph="_" mate_pos="VBN" id="t_324" mate_mother="t_323" mate_rel="VC">found</tok>
+        <tok mate_lemma="anywhere" mate_morph="_" mate_pos="RB" id="t_325" mate_mother="t_324" mate_rel="LOC">anywhere</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_326" mate_mother="t_325" mate_rel="AMOD">in</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_327" mate_mother="t_328" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNP" id="t_328" mate_mother="t_326" mate_rel="PMOD">Minutes</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_329" mate_mother="t_304" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.5">
+      <sent sent_id="s_13">
+        <tok mate_lemma="there" mate_morph="_" mate_pos="EX" id="t_330" mate_mother="t_331" mate_rel="SBJ">There</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBD" id="t_331" mate_mother="t_0" mate_rel="ROOT">were</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_332" mate_mother="t_333" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="total" mate_morph="_" mate_pos="NN" id="t_333" mate_mother="t_331" mate_rel="PRD">total</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_334" mate_mother="t_333" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="15" mate_morph="_" mate_pos="CD" id="t_335" mate_mother="t_338" mate_rel="NMOD">15</tok>
+        <tok mate_lemma="roll" mate_morph="_" mate_pos="NN" id="t_336" mate_mother="t_337" mate_rel="NMOD">roll</tok>
+        <tok mate_lemma="call" mate_morph="_" mate_pos="NN" id="t_337" mate_mother="t_338" mate_rel="NMOD">call</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NNS" id="t_338" mate_mother="t_334" mate_rel="PMOD">votes</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_339" mate_mother="t_331" mate_rel="LOC">on</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_340" mate_mother="t_343" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="van" mate_morph="_" mate_pos="NNP" id="t_341" mate_mother="t_342" mate_rel="NAME">van</tok>
+        <tok mate_lemma="hulten" mate_morph="_" mate_pos="NNP" id="t_342" mate_mother="t_343" mate_rel="NMOD">Hulten</tok>
+        <tok mate_lemma="report" mate_morph="_" mate_pos="NN" id="t_343" mate_mother="t_339" mate_rel="PMOD">report</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_344" mate_mother="t_331" mate_rel="P">,</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_345" mate_mother="t_331" mate_rel="COORD">and</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_346" mate_mother="t_347" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="paragon" mate_morph="_" mate_pos="NN" id="t_347" mate_mother="t_350" mate_rel="SBJ">paragon</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_348" mate_mother="t_347" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="rectitude" mate_morph="_" mate_pos="NN" id="t_349" mate_mother="t_348" mate_rel="PMOD">rectitude</tok>
+        <tok mate_lemma="take" mate_morph="_" mate_pos="VBD" id="t_350" mate_mother="t_345" mate_rel="CONJ">took</tok>
+        <tok mate_lemma="part" mate_morph="_" mate_pos="NN" id="t_351" mate_mother="t_350" mate_rel="OBJ">part</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_352" mate_mother="t_350" mate_rel="ADV">in</tok>
+        <tok mate_lemma="none" mate_morph="_" mate_pos="NN" id="t_353" mate_mother="t_352" mate_rel="PMOD">none</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_354" mate_mother="t_353" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="them" mate_morph="_" mate_pos="PRP" id="t_355" mate_mother="t_354" mate_rel="PMOD">them</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_356" mate_mother="t_331" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.6">
+      <sent sent_id="s_14">
+        <tok mate_lemma="all" mate_morph="_" mate_pos="DT" id="t_357" mate_mother="t_358" mate_rel="NMOD">All</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_358" mate_mother="t_363" mate_rel="SBJ">that</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_359" mate_mother="t_363" mate_rel="P">,</tok>
+        <tok mate_lemma="therefore" mate_morph="_" mate_pos="RB" id="t_360" mate_mother="t_363" mate_rel="ADV">therefore</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_361" mate_mother="t_363" mate_rel="P">,</tok>
+        <tok mate_lemma="now" mate_morph="_" mate_pos="RB" id="t_362" mate_mother="t_363" mate_rel="TMP">now</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBZ" id="t_363" mate_mother="t_0" mate_rel="ROOT">has</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_364" mate_mother="t_363" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VB" id="t_365" mate_mother="t_364" mate_rel="IM">be</tok>
+        <tok mate_lemma="strike" mate_morph="_" mate_pos="VBN" id="t_366" mate_mother="t_365" mate_rel="VC">struck</tok>
+        <tok mate_lemma="out" mate_morph="_" mate_pos="IN" id="t_367" mate_mother="t_366" mate_rel="ADV">out</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_368" mate_mother="t_367" mate_rel="PMOD">of</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_369" mate_mother="t_370" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNPS" id="t_370" mate_mother="t_368" mate_rel="PMOD">Minutes</tok>
+        <tok mate_lemma="all" mate_morph="_" mate_pos="DT" id="t_371" mate_mother="t_372" mate_rel="AMOD">all</tok>
+        <tok mate_lemma="over" mate_morph="_" mate_pos="RB" id="t_372" mate_mother="t_366" mate_rel="TMP">over</tok>
+        <tok mate_lemma="again" mate_morph="_" mate_pos="RB" id="t_373" mate_mother="t_372" mate_rel="AMOD">again</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_374" mate_mother="t_363" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.7">
+      <sent sent_id="s_15">
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_375" mate_mother="t_381" mate_rel="LOC-PRD">In</tok>
+        <tok mate_lemma="no" mate_morph="_" mate_pos="DT" id="t_376" mate_mother="t_377" mate_rel="NMOD">no</tok>
+        <tok mate_lemma="document" mate_morph="_" mate_pos="NN" id="t_377" mate_mother="t_375" mate_rel="PMOD">document</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_378" mate_mother="t_377" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_379" mate_mother="t_380" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="house" mate_morph="_" mate_pos="NNP" id="t_380" mate_mother="t_378" mate_rel="PMOD">House</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_381" mate_mother="t_0" mate_rel="ROOT">is</tok>
+        <tok mate_lemma="there" mate_morph="_" mate_pos="EX" id="t_382" mate_mother="t_381" mate_rel="SBJ">there</tok>
+        <tok mate_lemma="room" mate_morph="_" mate_pos="NN" id="t_383" mate_mother="t_381" mate_rel="PRD">room</tok>
+        <tok mate_lemma="for" mate_morph="_" mate_pos="IN" id="t_384" mate_mother="t_383" mate_rel="NMOD">for</tok>
+        <tok mate_lemma="deception" mate_morph="_" mate_pos="NN" id="t_385" mate_mother="t_384" mate_rel="PMOD">deception</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_386" mate_mother="t_385" mate_rel="COORD">and</tok>
+        <tok mate_lemma="forgery" mate_morph="_" mate_pos="NN" id="t_387" mate_mother="t_386" mate_rel="CONJ">forgery</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_388" mate_mother="t_381" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_21/en.8">
+      <sent sent_id="s_16">
+        <tok mate_lemma="while" mate_morph="_" mate_pos="IN" id="t_389" mate_mother="t_403" mate_rel="ADV">While</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_390" mate_mother="t_391" mate_rel="SBJ">it</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_391" mate_mother="t_389" mate_rel="SUB">is</tok>
+        <tok mate_lemma="not" mate_morph="_" mate_pos="RB" id="t_392" mate_mother="t_391" mate_rel="ADV">not</tok>
+        <tok mate_lemma="for" mate_morph="_" mate_pos="IN" id="t_393" mate_mother="t_391" mate_rel="PRD">for</tok>
+        <tok mate_lemma="me" mate_morph="_" mate_pos="PRP" id="t_394" mate_mother="t_395" mate_rel="SBJ">me</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_395" mate_mother="t_393" mate_rel="SUB">to</tok>
+        <tok mate_lemma="advise" mate_morph="_" mate_pos="VB" id="t_396" mate_mother="t_395" mate_rel="IM">advise</tok>
+        <tok mate_lemma="you" mate_morph="_" mate_pos="PRP" id="t_397" mate_mother="t_396" mate_rel="OBJ">you</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_398" mate_mother="t_400" mate_rel="P">,</tok>
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_399" mate_mother="t_400" mate_rel="NMOD">Mr</tok>
+        <tok mate_lemma="president" mate_morph="_" mate_pos="NN" id="t_400" mate_mother="t_396" mate_rel="OBJ">President</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_401" mate_mother="t_403" mate_rel="P">,</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_402" mate_mother="t_403" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="find" mate_morph="_" mate_pos="VBP" id="t_403" mate_mother="t_0" mate_rel="ROOT">find</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_404" mate_mother="t_403" mate_rel="OBJ">it</tok>
+        <tok mate_lemma="impossible" mate_morph="_" mate_pos="JJ" id="t_405" mate_mother="t_403" mate_rel="OPRD">impossible</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_406" mate_mother="t_405" mate_rel="EXTR">to</tok>
+        <tok mate_lemma="refrain" mate_morph="_" mate_pos="VB" id="t_407" mate_mother="t_406" mate_rel="IM">refrain</tok>
+        <tok mate_lemma="from" mate_morph="_" mate_pos="IN" id="t_408" mate_mother="t_407" mate_rel="ADV">from</tok>
+        <tok mate_lemma="refer" mate_morph="_" mate_pos="VBG" id="t_409" mate_mother="t_408" mate_rel="PMOD">referring</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_410" mate_mother="t_409" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="rule" mate_morph="_" mate_pos="VB" id="t_411" mate_mother="t_410" mate_rel="IM">Rule</tok>
+        <tok mate_lemma="124" mate_morph="_" mate_pos="CD" id="t_412" mate_mother="t_411" mate_rel="OBJ">124</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_413" mate_mother="t_412" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="our" mate_morph="_" mate_pos="PRP$" id="t_414" mate_mother="t_415" mate_rel="NMOD">our</tok>
+        <tok mate_lemma="rule" mate_morph="_" mate_pos="NNS" id="t_415" mate_mother="t_413" mate_rel="PMOD">Rules</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_416" mate_mother="t_415" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="procedure" mate_morph="_" mate_pos="NNP" id="t_417" mate_mother="t_416" mate_rel="PMOD">Procedure</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_418" mate_mother="t_406" mate_rel="COORD">and</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_419" mate_mother="t_418" mate_rel="CONJ">to</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_420" mate_mother="t_421" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="possibility" mate_morph="_" mate_pos="NNS" id="t_421" mate_mother="t_419" mate_rel="PMOD">possibilities</tok>
+        <tok mate_lemma="afford" mate_morph="_" mate_pos="VBN" id="t_422" mate_mother="t_421" mate_rel="APPO">afforded</tok>
+        <tok mate_lemma="by" mate_morph="_" mate_pos="IN" id="t_423" mate_mother="t_422" mate_rel="LGS">by</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_424" mate_mother="t_423" mate_rel="PMOD">it</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_425" mate_mother="t_403" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <turn turn_id="t_04-05-03_26/en" lang="en">
+    <alignUnit al_id="a_04-05-03_26/en.1">
+      <sent sent_id="s_17">
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_426" mate_mother="t_427" mate_rel="NMOD">Mr</tok>
+        <tok mate_lemma="president" mate_morph="_" mate_pos="NN" id="t_427" mate_mother="t_435" mate_rel="NMOD">President</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_428" mate_mother="t_430" mate_rel="P">,</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_429" mate_mother="t_430" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="do" mate_morph="_" mate_pos="VBP" id="t_430" mate_mother="t_0" mate_rel="ROOT">do</tok>
+        <tok mate_lemma="indeed" mate_morph="_" mate_pos="RB" id="t_431" mate_mother="t_430" mate_rel="ADV">indeed</tok>
+        <tok mate_lemma="repudiate" mate_morph="_" mate_pos="VB" id="t_432" mate_mother="t_430" mate_rel="VC">repudiate</tok>
+        <tok mate_lemma="all" mate_morph="_" mate_pos="PDT" id="t_433" mate_mother="t_435" mate_rel="NMOD">all</tok>
+        <tok mate_lemma="these" mate_morph="_" mate_pos="DT" id="t_434" mate_mother="t_435" mate_rel="NMOD">these</tok>
+        <tok mate_lemma="insinuation" mate_morph="_" mate_pos="NNS" id="t_435" mate_mother="t_432" mate_rel="OBJ">insinuations</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_436" mate_mother="t_435" mate_rel="COORD">and</tok>
+        <tok mate_lemma="these" mate_morph="_" mate_pos="DT" id="t_437" mate_mother="t_440" mate_rel="NMOD">these</tok>
+        <tok mate_lemma="utterly" mate_morph="_" mate_pos="RB" id="t_438" mate_mother="t_439" mate_rel="AMOD">utterly</tok>
+        <tok mate_lemma="shabby" mate_morph="_" mate_pos="JJ" id="t_439" mate_mother="t_440" mate_rel="NMOD">shabby</tok>
+        <tok mate_lemma="assertion" mate_morph="_" mate_pos="NNS" id="t_440" mate_mother="t_436" mate_rel="CONJ">assertions</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_441" mate_mother="t_430" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.2">
+      <sent sent_id="s_18">
+        <tok mate_lemma="let" mate_morph="_" mate_pos="VB" id="t_442" mate_mother="t_0" mate_rel="ROOT">Let</tok>
+        <tok mate_lemma="me" mate_morph="_" mate_pos="PRP" id="t_443" mate_mother="t_442" mate_rel="OBJ">me</tok>
+        <tok mate_lemma="repeat" mate_morph="_" mate_pos="VB" id="t_444" mate_mother="t_442" mate_rel="OPRD">repeat</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_445" mate_mother="t_444" mate_rel="OBJ">that</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_446" mate_mother="t_444" mate_rel="P">,</tok>
+        <tok mate_lemma="at" mate_morph="_" mate_pos="IN" id="t_447" mate_mother="t_444" mate_rel="TMP">at</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_448" mate_mother="t_449" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NN" id="t_449" mate_mother="t_450" mate_rel="AMOD">vote</tok>
+        <tok mate_lemma="too" mate_morph="_" mate_pos="RB" id="t_450" mate_mother="t_447" mate_rel="PMOD">too</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_451" mate_mother="t_444" mate_rel="P">,</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_452" mate_mother="t_444" mate_rel="ADV">on</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBG" id="t_453" mate_mother="t_452" mate_rel="PMOD">being</tok>
+        <tok mate_lemma="call" mate_morph="_" mate_pos="VBN" id="t_454" mate_mother="t_453" mate_rel="VC">called</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="RP" id="t_455" mate_mother="t_454" mate_rel="PRT">on</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_456" mate_mother="t_454" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="speak" mate_morph="_" mate_pos="VB" id="t_457" mate_mother="t_456" mate_rel="IM">speak</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_458" mate_mother="t_457" mate_rel="ADV">as</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_459" mate_mother="t_460" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NN" id="t_460" mate_mother="t_461" mate_rel="SBJ">vote</tok>
+        <tok mate_lemma="come" mate_morph="_" mate_pos="VBD" id="t_461" mate_mother="t_458" mate_rel="SUB">came</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_462" mate_mother="t_461" mate_rel="DIR">to</tok>
+        <tok mate_lemma="an" mate_morph="_" mate_pos="DT" id="t_463" mate_mother="t_464" mate_rel="NMOD">an</tok>
+        <tok mate_lemma="end" mate_morph="_" mate_pos="NN" id="t_464" mate_mother="t_462" mate_rel="PMOD">end</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_465" mate_mother="t_464" mate_rel="P">,</tok>
+        <tok mate_lemma="what" mate_morph="_" mate_pos="WP" id="t_466" mate_mother="t_469" mate_rel="SBJ">what</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_467" mate_mother="t_468" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="say" mate_morph="_" mate_pos="VBD" id="t_468" mate_mother="t_464" mate_rel="NMOD">said</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBD" id="t_469" mate_mother="t_468" mate_rel="OBJ">was</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_470" mate_mother="t_469" mate_rel="PRD">that</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_471" mate_mother="t_472" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBD" id="t_472" mate_mother="t_470" mate_rel="SUB">had</tok>
+        <tok mate_lemma="avail" mate_morph="_" mate_pos="VBN" id="t_473" mate_mother="t_472" mate_rel="VC">availed</tok>
+        <tok mate_lemma="myself" mate_morph="_" mate_pos="PRP" id="t_474" mate_mother="t_473" mate_rel="OBJ">myself</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_475" mate_mother="t_473" mate_rel="ADV">of</tok>
+        <tok mate_lemma="my" mate_morph="_" mate_pos="PRP$" id="t_476" mate_mother="t_477" mate_rel="NMOD">my</tok>
+        <tok mate_lemma="right" mate_morph="_" mate_pos="NNS" id="t_477" mate_mother="t_475" mate_rel="PMOD">rights</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_478" mate_mother="t_473" mate_rel="ADV">as</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_479" mate_mother="t_480" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="member" mate_morph="_" mate_pos="NN" id="t_480" mate_mother="t_478" mate_rel="PMOD">Member</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_481" mate_mother="t_480" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_482" mate_mother="t_483" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="house" mate_morph="_" mate_pos="NNP" id="t_483" mate_mother="t_481" mate_rel="PMOD">House</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_484" mate_mother="t_442" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.3">
+      <sent sent_id="s_19">
+        <tok mate_lemma="how" mate_morph="_" mate_pos="WRB" id="t_485" mate_mother="t_490" mate_rel="MNR">How</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_486" mate_mother="t_487" mate_rel="SBJ">that</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_487" mate_mother="t_494" mate_rel="PRD">is</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_488" mate_mother="t_487" mate_rel="VC">to</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VB" id="t_489" mate_mother="t_488" mate_rel="IM">be</tok>
+        <tok mate_lemma="record" mate_morph="_" mate_pos="VBN" id="t_490" mate_mother="t_489" mate_rel="VC">recorded</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_491" mate_mother="t_490" mate_rel="LOC">in</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_492" mate_mother="t_493" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNP" id="t_493" mate_mother="t_491" mate_rel="PMOD">Minutes</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_494" mate_mother="t_0" mate_rel="ROOT">is</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_495" mate_mother="t_496" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="matter" mate_morph="_" mate_pos="NN" id="t_496" mate_mother="t_494" mate_rel="PRD">matter</tok>
+        <tok mate_lemma="for" mate_morph="_" mate_pos="IN" id="t_497" mate_mother="t_496" mate_rel="NMOD">for</tok>
+        <tok mate_lemma="parliament" mate_morph="_" mate_pos="NNP" id="t_498" mate_mother="t_500" mate_rel="NMOD">Parliament</tok>
+        <tok mate_lemma="'s" mate_morph="_" mate_pos="POS" id="t_499" mate_mother="t_498" mate_rel="SUFFIX">'s</tok>
+        <tok mate_lemma="administration" mate_morph="_" mate_pos="NN" id="t_500" mate_mother="t_497" mate_rel="PMOD">administration</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_501" mate_mother="t_494" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.4">
+      <sent sent_id="s_20">
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_502" mate_mother="t_503" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBP" id="t_503" mate_mother="t_0" mate_rel="ROOT">have</tok>
+        <tok mate_lemma="already" mate_morph="_" mate_pos="RB" id="t_504" mate_mother="t_503" mate_rel="ADV">already</tok>
+        <tok mate_lemma="tell" mate_morph="_" mate_pos="VBN" id="t_505" mate_mother="t_503" mate_rel="VC">told</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_506" mate_mother="t_507" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="house" mate_morph="_" mate_pos="NNP" id="t_507" mate_mother="t_505" mate_rel="OBJ">House</tok>
+        <tok mate_lemma="what" mate_morph="_" mate_pos="WP" id="t_508" mate_mother="t_512" mate_rel="PRD">what</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_509" mate_mother="t_511" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="actual" mate_morph="_" mate_pos="JJ" id="t_510" mate_mother="t_511" mate_rel="NMOD">actual</tok>
+        <tok mate_lemma="circumstances" mate_morph="_" mate_pos="NNS" id="t_511" mate_mother="t_512" mate_rel="SBJ">circumstances</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBD" id="t_512" mate_mother="t_505" mate_rel="OBJ">were</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_513" mate_mother="t_503" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.5">
+      <sent sent_id="s_21">
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_514" mate_mother="t_523" mate_rel="ADV">As</tok>
+        <tok mate_lemma="regard" mate_morph="_" mate_pos="NNS" id="t_515" mate_mother="t_518" mate_rel="TITLE">regards</tok>
+        <tok mate_lemma="what" mate_morph="_" mate_pos="WP" id="t_516" mate_mother="t_526" mate_rel="OBJ">what</tok>
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_517" mate_mother="t_518" mate_rel="NAME">Mrs</tok>
+        <tok mate_lemma="gebhardt" mate_morph="_" mate_pos="NNP" id="t_518" mate_mother="t_519" mate_rel="SBJ">Gebhardt</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBZ" id="t_519" mate_mother="t_514" mate_rel="SUB">has</tok>
+        <tok mate_lemma="say" mate_morph="_" mate_pos="VBN" id="t_520" mate_mother="t_519" mate_rel="VC">said</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_521" mate_mother="t_523" mate_rel="P">,</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_522" mate_mother="t_523" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="would" mate_morph="_" mate_pos="MD" id="t_523" mate_mother="t_0" mate_rel="ROOT">would</tok>
+        <tok mate_lemma="like" mate_morph="_" mate_pos="VB" id="t_524" mate_mother="t_523" mate_rel="VC">like</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_525" mate_mother="t_524" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="reiterate" mate_morph="_" mate_pos="VB" id="t_526" mate_mother="t_525" mate_rel="IM">reiterate</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_527" mate_mother="t_524" mate_rel="P">,</tok>
+        <tok mate_lemma="for" mate_morph="_" mate_pos="IN" id="t_528" mate_mother="t_524" mate_rel="ADV">for</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_529" mate_mother="t_530" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="minutes" mate_morph="_" mate_pos="NNPS" id="t_530" mate_mother="t_528" mate_rel="PMOD">Minutes</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_531" mate_mother="t_523" mate_rel="P">,</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_532" mate_mother="t_545" mate_rel="ADV">that</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_533" mate_mother="t_534" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBP" id="t_534" mate_mother="t_532" mate_rel="SUB">have</tok>
+        <tok mate_lemma="receive" mate_morph="_" mate_pos="VBN" id="t_535" mate_mother="t_534" mate_rel="VC">received</tok>
+        <tok mate_lemma="no" mate_morph="_" mate_pos="DT" id="t_536" mate_mother="t_537" mate_rel="NMOD">no</tok>
+        <tok mate_lemma="summons" mate_morph="_" mate_pos="NNS" id="t_537" mate_mother="t_535" mate_rel="OBJ">summons</tok>
+        <tok mate_lemma="from" mate_morph="_" mate_pos="IN" id="t_538" mate_mother="t_535" mate_rel="ADV">from</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_539" mate_mother="t_540" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="court" mate_morph="_" mate_pos="NN" id="t_540" mate_mother="t_538" mate_rel="PMOD">court</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_541" mate_mother="t_540" mate_rel="LOC">in</tok>
+        <tok mate_lemma="question" mate_morph="_" mate_pos="NN" id="t_542" mate_mother="t_541" mate_rel="PMOD">question</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_543" mate_mother="t_545" mate_rel="P">,</tok>
+        <tok mate_lemma="neither" mate_morph="_" mate_pos="DT" id="t_544" mate_mother="t_545" mate_rel="ADV">neither</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBP" id="t_545" mate_mother="t_523" mate_rel="COORD">have</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_546" mate_mother="t_547" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBD" id="t_547" mate_mother="t_545" mate_rel="VC">had</tok>
+        <tok mate_lemma="any" mate_morph="_" mate_pos="DT" id="t_548" mate_mother="t_549" mate_rel="NMOD">any</tok>
+        <tok mate_lemma="sort" mate_morph="_" mate_pos="NN" id="t_549" mate_mother="t_547" mate_rel="OBJ">sort</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_550" mate_mother="t_549" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="direct" mate_morph="_" mate_pos="JJ" id="t_551" mate_mother="t_552" mate_rel="NMOD">direct</tok>
+        <tok mate_lemma="communication" mate_morph="_" mate_pos="NN" id="t_552" mate_mother="t_550" mate_rel="PMOD">communication</tok>
+        <tok mate_lemma="from" mate_morph="_" mate_pos="IN" id="t_553" mate_mother="t_549" mate_rel="NMOD">from</tok>
+        <tok mate_lemma="them" mate_morph="_" mate_pos="PRP" id="t_554" mate_mother="t_553" mate_rel="PMOD">them</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_555" mate_mother="t_545" mate_rel="P">,</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_556" mate_mother="t_545" mate_rel="COORD">and</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_557" mate_mother="t_558" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="can" mate_morph="_" mate_pos="MD" id="t_558" mate_mother="t_556" mate_rel="CONJ">can</tok>
+        <tok mate_lemma="only" mate_morph="_" mate_pos="RB" id="t_559" mate_mother="t_558" mate_rel="ADV">only</tok>
+        <tok mate_lemma="say" mate_morph="_" mate_pos="VB" id="t_560" mate_mother="t_558" mate_rel="VC">say</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_561" mate_mother="t_560" mate_rel="OBJ">that</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_562" mate_mother="t_564" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="never" mate_morph="_" mate_pos="RB" id="t_563" mate_mother="t_564" mate_rel="TMP">never</tok>
+        <tok mate_lemma="make" mate_morph="_" mate_pos="VBD" id="t_564" mate_mother="t_561" mate_rel="SUB">made</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_565" mate_mother="t_566" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="assertion" mate_morph="_" mate_pos="NNS" id="t_566" mate_mother="t_564" mate_rel="OBJ">assertions</tok>
+        <tok mate_lemma="attribute" mate_morph="_" mate_pos="VBN" id="t_567" mate_mother="t_566" mate_rel="APPO">attributed</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_568" mate_mother="t_567" mate_rel="ADV">to</tok>
+        <tok mate_lemma="me" mate_morph="_" mate_pos="PRP" id="t_569" mate_mother="t_568" mate_rel="PMOD">me</tok>
+        <tok mate_lemma="by" mate_morph="_" mate_pos="IN" id="t_570" mate_mother="t_567" mate_rel="LGS">by</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_571" mate_mother="t_572" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="press" mate_morph="_" mate_pos="NNP" id="t_572" mate_mother="t_570" mate_rel="PMOD">Press</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_573" mate_mother="t_523" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.6">
+      <sent sent_id="s_22">
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_574" mate_mother="t_575" mate_rel="SBJ">That</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBG" id="t_575" mate_mother="t_608" mate_rel="SBJ">being</tok>
+        <tok mate_lemma="so" mate_morph="_" mate_pos="RB" id="t_576" mate_mother="t_575" mate_rel="PRD">so</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_577" mate_mother="t_579" mate_rel="P">,</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_578" mate_mother="t_579" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="do" mate_morph="_" mate_pos="VBP" id="t_579" mate_mother="t_0" mate_rel="ROOT">do</tok>
+        <tok mate_lemma="not" mate_morph="_" mate_pos="RB" id="t_580" mate_mother="t_579" mate_rel="ADV">not</tok>
+        <tok mate_lemma="find" mate_morph="_" mate_pos="VB" id="t_581" mate_mother="t_579" mate_rel="VC">find</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_582" mate_mother="t_581" mate_rel="OBJ">it</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_583" mate_mother="t_581" mate_rel="LOC">in</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_584" mate_mother="t_586" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="least" mate_morph="_" mate_pos="JJS" id="t_585" mate_mother="t_586" mate_rel="AMOD">least</tok>
+        <tok mate_lemma="difficult" mate_morph="_" mate_pos="JJ" id="t_586" mate_mother="t_583" mate_rel="PMOD">difficult</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_587" mate_mother="t_586" mate_rel="AMOD">to</tok>
+        <tok mate_lemma="refrain" mate_morph="_" mate_pos="VB" id="t_588" mate_mother="t_587" mate_rel="IM">refrain</tok>
+        <tok mate_lemma="from" mate_morph="_" mate_pos="IN" id="t_589" mate_mother="t_588" mate_rel="ADV">from</tok>
+        <tok mate_lemma="repeat" mate_morph="_" mate_pos="VBG" id="t_590" mate_mother="t_589" mate_rel="PMOD">repeating</tok>
+        <tok mate_lemma="them" mate_morph="_" mate_pos="PRP" id="t_591" mate_mother="t_590" mate_rel="OBJ">them</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_592" mate_mother="t_588" mate_rel="P">,</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_593" mate_mother="t_588" mate_rel="MNR">as</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_594" mate_mother="t_595" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBP" id="t_595" mate_mother="t_593" mate_rel="SUB">am</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_596" mate_mother="t_595" mate_rel="ADV">in</tok>
+        <tok mate_lemma="fact" mate_morph="_" mate_pos="NN" id="t_597" mate_mother="t_596" mate_rel="PMOD">fact</tok>
+        <tok mate_lemma="acquaint" mate_morph="_" mate_pos="VBN" id="t_598" mate_mother="t_597" mate_rel="APPO">acquainted</tok>
+        <tok mate_lemma="with" mate_morph="_" mate_pos="IN" id="t_599" mate_mother="t_598" mate_rel="ADV">with</tok>
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_600" mate_mother="t_601" mate_rel="NAME">Mrs</tok>
+        <tok mate_lemma="gebhardt" mate_morph="_" mate_pos="NNP" id="t_601" mate_mother="t_603" mate_rel="NMOD">Gebhardt</tok>
+        <tok mate_lemma="'s" mate_morph="_" mate_pos="POS" id="t_602" mate_mother="t_601" mate_rel="SUFFIX">'s</tok>
+        <tok mate_lemma="circumstances" mate_morph="_" mate_pos="NNS" id="t_603" mate_mother="t_599" mate_rel="PMOD">circumstances</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_604" mate_mother="t_588" mate_rel="P">,</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_605" mate_mother="t_588" mate_rel="COORD">and</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VB" id="t_606" mate_mother="t_605" mate_rel="CONJ">have</tok>
+        <tok mate_lemma="never" mate_morph="_" mate_pos="RB" id="t_607" mate_mother="t_608" mate_rel="TMP">never</tok>
+        <tok mate_lemma="say" mate_morph="_" mate_pos="VBD" id="t_608" mate_mother="t_606" mate_rel="VC">said</tok>
+        <tok mate_lemma="anything" mate_morph="_" mate_pos="NN" id="t_609" mate_mother="t_608" mate_rel="OBJ">anything</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_610" mate_mother="t_609" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_611" mate_mother="t_612" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="sort" mate_morph="_" mate_pos="NN" id="t_612" mate_mother="t_610" mate_rel="PMOD">sort</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_613" mate_mother="t_579" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/en.7">
+      <sent sent_id="s_23">
+        <tok mate_lemma="all" mate_morph="_" mate_pos="PDT" id="t_614" mate_mother="t_615" mate_rel="NMOD">All</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_615" mate_mother="t_616" mate_rel="SBJ">this</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_616" mate_mother="t_0" mate_rel="ROOT">is</tok>
+        <tok mate_lemma="part" mate_morph="_" mate_pos="NN" id="t_617" mate_mother="t_616" mate_rel="PRD">part</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_618" mate_mother="t_617" mate_rel="COORD">and</tok>
+        <tok mate_lemma="parcel" mate_morph="_" mate_pos="NN" id="t_619" mate_mother="t_618" mate_rel="CONJ">parcel</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_620" mate_mother="t_617" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_621" mate_mother="t_622" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="reaction" mate_morph="_" mate_pos="NN" id="t_622" mate_mother="t_620" mate_rel="PMOD">reaction</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_623" mate_mother="t_622" mate_rel="NMOD">that</tok>
+        <tok mate_lemma="member" mate_morph="_" mate_pos="NNS" id="t_624" mate_mother="t_628" mate_rel="SBJ">Members</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_625" mate_mother="t_624" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_626" mate_mother="t_627" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="house" mate_morph="_" mate_pos="NNP" id="t_627" mate_mother="t_625" mate_rel="PMOD">House</tok>
+        <tok mate_lemma="may" mate_morph="_" mate_pos="MD" id="t_628" mate_mother="t_623" mate_rel="SUB">may</tok>
+        <tok mate_lemma="find" mate_morph="_" mate_pos="VB" id="t_629" mate_mother="t_628" mate_rel="VC">find</tok>
+        <tok mate_lemma="understandable" mate_morph="_" mate_pos="JJ" id="t_630" mate_mother="t_629" mate_rel="OPRD">understandable</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_631" mate_mother="t_628" mate_rel="P">,</tok>
+        <tok mate_lemma="but" mate_morph="_" mate_pos="CC" id="t_632" mate_mother="t_628" mate_rel="COORD">but</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_633" mate_mother="t_634" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="public" mate_morph="_" mate_pos="NN" id="t_634" mate_mother="t_635" mate_rel="SBJ">public</tok>
+        <tok mate_lemma="will" mate_morph="_" mate_pos="MD" id="t_635" mate_mother="t_632" mate_rel="CONJ">will</tok>
+        <tok mate_lemma="certainly" mate_morph="_" mate_pos="RB" id="t_636" mate_mother="t_635" mate_rel="ADV">certainly</tok>
+        <tok mate_lemma="know" mate_morph="_" mate_pos="VB" id="t_637" mate_mother="t_635" mate_rel="VC">know</tok>
+        <tok mate_lemma="what" mate_morph="_" mate_pos="WP" id="t_638" mate_mother="t_639" mate_rel="NMOD">what</tok>
+        <tok mate_lemma="value" mate_morph="_" mate_pos="NN" id="t_639" mate_mother="t_641" mate_rel="OBJ">value</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_640" mate_mother="t_637" mate_rel="OBJ">to</tok>
+        <tok mate_lemma="attach" mate_morph="_" mate_pos="VB" id="t_641" mate_mother="t_640" mate_rel="IM">attach</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_642" mate_mother="t_641" mate_rel="ADV">to</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_643" mate_mother="t_642" mate_rel="PMOD">it</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_644" mate_mother="t_616" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <turn turn_id="t_04-05-03_26/de" lang="de">
+    <alignUnit al_id="a_04-05-03_26/de.1">
+      <sent sent_id="s_24">
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_645" mate_mother="t_0" mate_rel="--">Herr</tok>
+        <tok mate_lemma="Präsident" mate_morph="nom|sg|masc" mate_pos="NN" id="t_646" mate_mother="t_648" mate_rel="NK">Präsident</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_647" mate_mother="t_649" mate_rel="--">!</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_648" mate_mother="t_649" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="weisen" mate_morph="sg|1|pres|ind" mate_pos="VVFIN" id="t_649" mate_mother="t_0" mate_rel="--">weise</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_650" mate_mother="t_649" mate_rel="MO">in</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_651" mate_mother="t_652" mate_rel="NK">der</tok>
+        <tok mate_lemma="Tat" mate_morph="dat|sg|fem" mate_pos="NN" id="t_652" mate_mother="t_650" mate_rel="NK">Tat</tok>
+        <tok mate_lemma="aller" mate_morph="acc|pl|masc" mate_pos="PIAT" id="t_653" mate_mother="t_659" mate_rel="NK">alle</tok>
+        <tok mate_lemma="dieser" mate_morph="acc|pl|masc" mate_pos="PDAT" id="t_654" mate_mother="t_655" mate_rel="NK">diese</tok>
+        <tok mate_lemma="Unterstellung" mate_morph="gen|pl|fem" mate_pos="NN" id="t_655" mate_mother="t_649" mate_rel="OA">Unterstellungen</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_656" mate_mother="t_655" mate_rel="CD">und</tok>
+        <tok mate_lemma="ganz" mate_morph="_" mate_pos="ADV" id="t_657" mate_mother="t_658" mate_rel="MO">ganz</tok>
+        <tok mate_lemma="gemein" mate_morph="dat|pl|fem|pos" mate_pos="ADJA" id="t_658" mate_mother="t_659" mate_rel="NK">gemeinen</tok>
+        <tok mate_lemma="Behauptung" mate_morph="dat|pl|fem" mate_pos="NN" id="t_659" mate_mother="t_656" mate_rel="CJ">Behauptungen</tok>
+        <tok mate_lemma="zurück" mate_morph="_" mate_pos="PTKVZ" id="t_660" mate_mother="t_649" mate_rel="SVP">zurück</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_661" mate_mother="t_660" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.2">
+      <sent sent_id="s_25">
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_662" mate_mother="t_693" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="wiederholen" mate_morph="sg|1|pres|ind" mate_pos="VVFIN" id="t_663" mate_mother="t_0" mate_rel="--">wiederhole</tok>
+        <tok mate_lemma="noch" mate_morph="_" mate_pos="ADV" id="t_664" mate_mother="t_693" mate_rel="MO">noch</tok>
+        <tok mate_lemma="einmal" mate_morph="_" mate_pos="ADV" id="t_665" mate_mother="t_694" mate_rel="MO">einmal</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_666" mate_mother="t_695" mate_rel="--">:</tok>
+        <tok mate_lemma="auch" mate_morph="_" mate_pos="ADV" id="t_667" mate_mother="t_693" mate_rel="MO">Auch</tok>
+        <tok mate_lemma="bei" mate_morph="_" mate_pos="APPR" id="t_668" mate_mother="t_701" mate_rel="MO">bei</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|fem" mate_pos="PDAT" id="t_669" mate_mother="t_695" mate_rel="NK">dieser</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_670" mate_mother="t_693" mate_rel="NK">Abstimmung</tok>
+        <tok mate_lemma="haben" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_671" mate_mother="t_0" mate_rel="--">habe</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_672" mate_mother="t_696" mate_rel="SB">ich</tok>
+        <tok mate_lemma="unmittelbar" mate_morph="pos" mate_pos="ADJD" id="t_673" mate_mother="t_701" mate_rel="PD">unmittelbar</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$(" id="t_674" mate_mother="t_698" mate_rel="--">-</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_675" mate_mother="t_701" mate_rel="SB">ich</tok>
+        <tok mate_lemma="werden" mate_morph="sg|3|past|ind" mate_pos="VAFIN" id="t_676" mate_mother="t_690" mate_rel="MO">wurde</tok>
+        <tok mate_lemma="schon" mate_morph="_" mate_pos="ADV" id="t_677" mate_mother="t_679" mate_rel="MO">schon</tok>
+        <tok mate_lemma="darauf" mate_morph="_" mate_pos="PROAV" id="t_678" mate_mother="t_679" mate_rel="OP">darauf</tok>
+        <tok mate_lemma="ansprechen" mate_morph="_" mate_pos="VVPP" id="t_679" mate_mother="t_701" mate_rel="OC">angesprochen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_680" mate_mother="t_679" mate_rel="--">,</tok>
+        <tok mate_lemma="als" mate_morph="_" mate_pos="KOUS" id="t_681" mate_mother="t_687" mate_rel="CP">als</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|fem" mate_pos="ART" id="t_682" mate_mother="t_683" mate_rel="NK">die</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="nom|sg|fem" mate_pos="NN" id="t_683" mate_mother="t_687" mate_rel="SB">Abstimmung</tok>
+        <tok mate_lemma="gerade" mate_morph="_" mate_pos="ADV" id="t_684" mate_mother="t_687" mate_rel="MO">gerade</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="APPR" id="t_685" mate_mother="t_687" mate_rel="MO">zu</tok>
+        <tok mate_lemma="Ende" mate_morph="dat|sg|neut" mate_pos="NN" id="t_686" mate_mother="t_685" mate_rel="NK">Ende</tok>
+        <tok mate_lemma="gehen" mate_morph="sg|3|past|ind" mate_pos="VVFIN" id="t_687" mate_mother="t_678" mate_rel="RE">ging</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$(" id="t_688" mate_mother="t_687" mate_rel="--">-</tok>
+        <tok mate_lemma="entsprechend" mate_morph="pos" mate_pos="ADJD" id="t_689" mate_mother="t_690" mate_rel="MO">entsprechend</tok>
+        <tok mate_lemma="erklären" mate_morph="_" mate_pos="VVPP" id="t_690" mate_mother="t_696" mate_rel="OC">erklärt</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_691" mate_mother="t_690" mate_rel="--">:</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_692" mate_mother="t_693" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="haben" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_693" mate_mother="t_0" mate_rel="--">habe</tok>
+        <tok mate_lemma="von" mate_morph="_" mate_pos="APPR" id="t_694" mate_mother="t_700" mate_rel="SBP">von</tok>
+        <tok mate_lemma="mein" mate_morph="dat|pl|masc" mate_pos="PPOSAT" id="t_695" mate_mother="t_696" mate_rel="NK">meinen</tok>
+        <tok mate_lemma="rechte" mate_morph="dat|pl|masc" mate_pos="NN" id="t_696" mate_mother="t_694" mate_rel="NK">Rechten</tok>
+        <tok mate_lemma="als" mate_morph="_" mate_pos="APPR" id="t_697" mate_mother="t_700" mate_rel="MO">als</tok>
+        <tok mate_lemma="Parlamentarier" mate_morph="acc|sg|masc" mate_pos="NN" id="t_698" mate_mother="t_697" mate_rel="NK">Parlamentarier</tok>
+        <tok mate_lemma="Gebrauch" mate_morph="acc|sg|masc" mate_pos="NN" id="t_699" mate_mother="t_700" mate_rel="OA">Gebrauch</tok>
+        <tok mate_lemma="machen" mate_morph="_" mate_pos="VVPP" id="t_700" mate_mother="t_693" mate_rel="OC">gemacht</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_701" mate_mother="t_700" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.3">
+      <sent sent_id="s_26">
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_702" mate_mother="t_713" mate_rel="MO">In</tok>
+        <tok mate_lemma="welcher" mate_morph="dat|sg|fem" mate_pos="PWAT" id="t_703" mate_mother="t_704" mate_rel="NK">welcher</tok>
+        <tok mate_lemma="Form" mate_morph="dat|sg|fem" mate_pos="NN" id="t_704" mate_mother="t_702" mate_rel="NK">Form</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|neut" mate_pos="ART" id="t_705" mate_mother="t_711" mate_rel="SB">das</tok>
+        <tok mate_lemma="dann" mate_morph="_" mate_pos="ADV" id="t_706" mate_mother="t_710" mate_rel="MO">dann</tok>
+        <tok mate_lemma="in" mate_morph="dat|sg|masc" mate_pos="APPRART" id="t_707" mate_mother="t_710" mate_rel="MO">im</tok>
+        <tok mate_lemma="Protokoll" mate_morph="dat|sg|masc" mate_pos="NN" id="t_708" mate_mother="t_707" mate_rel="NK">Protokoll</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="PTKZU" id="t_709" mate_mother="t_710" mate_rel="PM">zu</tok>
+        <tok mate_lemma="berücksichtigen" mate_morph="_" mate_pos="VVINF" id="t_710" mate_mother="t_711" mate_rel="OC">berücksichtigen</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_711" mate_mother="t_704" mate_rel="RC">ist</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_712" mate_mother="t_711" mate_rel="--">,</tok>
+        <tok mate_lemma="bleiben" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_713" mate_mother="t_0" mate_rel="--">bleibt</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_714" mate_mother="t_715" mate_rel="NK">der</tok>
+        <tok mate_lemma="Parlamentsverwaltung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_715" mate_mother="t_716" mate_rel="DA">Parlamentsverwaltung</tok>
+        <tok mate_lemma="überlassen" mate_morph="_" mate_pos="VVINF" id="t_716" mate_mother="t_713" mate_rel="PD">überlassen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_717" mate_mother="t_716" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.4">
+      <sent sent_id="s_27">
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_718" mate_mother="t_719" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="haben" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_719" mate_mother="t_0" mate_rel="--">habe</tok>
+        <tok mate_lemma="schon" mate_morph="_" mate_pos="ADV" id="t_720" mate_mother="t_721" mate_rel="MO">schon</tok>
+        <tok mate_lemma="hier" mate_morph="_" mate_pos="ADV" id="t_721" mate_mother="t_725" mate_rel="MO">hier</tok>
+        <tok mate_lemma="in" mate_morph="dat|sg|neut" mate_pos="APPRART" id="t_722" mate_mother="t_725" mate_rel="MO">im</tok>
+        <tok mate_lemma="hoch" mate_morph="dat|sg|neut|pos" mate_pos="ADJA" id="t_723" mate_mother="t_724" mate_rel="NK">Hohen</tok>
+        <tok mate_lemma="Haus" mate_morph="dat|sg|neut" mate_pos="NN" id="t_724" mate_mother="t_722" mate_rel="NK">Haus</tok>
+        <tok mate_lemma="erklären" mate_morph="_" mate_pos="VVPP" id="t_725" mate_mother="t_719" mate_rel="OC">erklärt</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_726" mate_mother="t_725" mate_rel="--">,</tok>
+        <tok mate_lemma="was" mate_morph="nom|sg|neut" mate_pos="PWS" id="t_727" mate_mother="t_731" mate_rel="SB">was</tok>
+        <tok mate_lemma="konkret" mate_morph="pos" mate_pos="ADJD" id="t_728" mate_mother="t_731" mate_rel="MO">konkret</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|masc" mate_pos="ART" id="t_729" mate_mother="t_730" mate_rel="NK">der</tok>
+        <tok mate_lemma="Umstand" mate_morph="nom|sg|masc" mate_pos="NN" id="t_730" mate_mother="t_731" mate_rel="PD">Umstand</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|past|ind" mate_pos="VAFIN" id="t_731" mate_mother="t_725" mate_rel="OC">war</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_732" mate_mother="t_731" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.5">
+      <sent sent_id="s_28">
+        <tok mate_lemma="was" mate_morph="nom|sg|neut" mate_pos="PWS" id="t_733" mate_mother="t_784" mate_rel="SB">Was</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|masc" mate_pos="ART" id="t_734" mate_mother="t_780" mate_rel="NK">den</tok>
+        <tok mate_lemma="Fall" mate_morph="acc|sg|masc" mate_pos="NN" id="t_735" mate_mother="t_784" mate_rel="OA">Fall</tok>
+        <tok mate_lemma="der" mate_morph="gen|sg|fem" mate_pos="ART" id="t_736" mate_mother="t_782" mate_rel="NK">der</tok>
+        <tok mate_lemma="Frau" mate_morph="gen|sg|fem" mate_pos="NN" id="t_737" mate_mother="t_780" mate_rel="AG">Frau</tok>
+        <tok mate_lemma="Gebhardt" mate_morph="nom|sg|*" mate_pos="NE" id="t_738" mate_mother="t_782" mate_rel="NK">Gebhardt</tok>
+        <tok mate_lemma="betreffen" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_739" mate_mother="t_786" mate_rel="RE">betrifft</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_740" mate_mother="t_784" mate_rel="--">,</tok>
+        <tok mate_lemma="so" mate_morph="_" mate_pos="ADV" id="t_741" mate_mother="t_758" mate_rel="MO">so</tok>
+        <tok mate_lemma="möchten" mate_morph="sg|1|pres|ind" mate_pos="VMFIN" id="t_742" mate_mother="t_0" mate_rel="--">möchte</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_743" mate_mother="t_758" mate_rel="SB">ich</tok>
+        <tok mate_lemma="nochmals" mate_morph="_" mate_pos="ADV" id="t_744" mate_mother="t_758" mate_rel="MO">nochmals</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="APPR" id="t_745" mate_mother="t_763" mate_rel="MO">zu</tok>
+        <tok mate_lemma="Protokoll" mate_morph="dat|sg|neut" mate_pos="NN" id="t_746" mate_mother="t_761" mate_rel="NK">Protokoll</tok>
+        <tok mate_lemma="geben" mate_morph="_" mate_pos="VVINF" id="t_747" mate_mother="t_758" mate_rel="OC">geben</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_748" mate_mother="t_763" mate_rel="--">:</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_749" mate_mother="t_779" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="haben" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_750" mate_mother="t_0" mate_rel="--">habe</tok>
+        <tok mate_lemma="von" mate_morph="_" mate_pos="APPR" id="t_751" mate_mother="t_761" mate_rel="SBP">von</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|neut" mate_pos="PDAT" id="t_752" mate_mother="t_782" mate_rel="NK">diesem</tok>
+        <tok mate_lemma="Gericht" mate_morph="dat|sg|neut" mate_pos="NN" id="t_753" mate_mother="t_780" mate_rel="NK">Gericht</tok>
+        <tok mate_lemma="weder" mate_morph="_" mate_pos="KON" id="t_754" mate_mother="t_761" mate_rel="CD">weder</tok>
+        <tok mate_lemma="ein" mate_morph="nom|sg|fem" mate_pos="ART" id="t_755" mate_mother="t_785" mate_rel="NK">eine</tok>
+        <tok mate_lemma="Vorladung" mate_morph="nom|sg|fem" mate_pos="NN" id="t_756" mate_mother="t_761" mate_rel="OA">Vorladung</tok>
+        <tok mate_lemma="noch" mate_morph="_" mate_pos="ADV" id="t_757" mate_mother="t_761" mate_rel="MO">noch</tok>
+        <tok mate_lemma="irgendeiner" mate_morph="nom|sg|fem" mate_pos="PIAT" id="t_758" mate_mother="t_760" mate_rel="NK">irgendeine</tok>
+        <tok mate_lemma="direkt" mate_morph="nom|sg|fem|pos" mate_pos="ADJA" id="t_759" mate_mother="t_760" mate_rel="NK">direkte</tok>
+        <tok mate_lemma="Verständigung" mate_morph="nom|sg|fem" mate_pos="NN" id="t_760" mate_mother="t_761" mate_rel="OA">Verständigung</tok>
+        <tok mate_lemma="bekommen" mate_morph="_" mate_pos="VVFIN" id="t_761" mate_mother="t_779" mate_rel="OC">bekommen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_762" mate_mother="t_761" mate_rel="--">,</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_763" mate_mother="t_779" mate_rel="CD">und</tok>
+        <tok mate_lemma="soweit" mate_morph="_" mate_pos="KOUS" id="t_764" mate_mother="t_771" mate_rel="CP">soweit</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_765" mate_mother="t_771" mate_rel="SB">ich</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|fem" mate_pos="ART" id="t_766" mate_mother="t_767" mate_rel="NK">die</tok>
+        <tok mate_lemma="Sachlage" mate_morph="acc|sg|fem" mate_pos="NN" id="t_767" mate_mother="t_771" mate_rel="OA">Sachlage</tok>
+        <tok mate_lemma="aus" mate_morph="_" mate_pos="APPR" id="t_768" mate_mother="t_771" mate_rel="MO">aus</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_769" mate_mother="t_770" mate_rel="NK">der</tok>
+        <tok mate_lemma="Presse" mate_morph="dat|sg|fem" mate_pos="NN" id="t_770" mate_mother="t_768" mate_rel="NK">Presse</tok>
+        <tok mate_lemma="kennen" mate_morph="sg|1|pres|ind" mate_pos="VVFIN" id="t_771" mate_mother="t_773" mate_rel="MO">kenne</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_772" mate_mother="t_771" mate_rel="--">,</tok>
+        <tok mate_lemma="können" mate_morph="sg|1|pres|ind" mate_pos="VMFIN" id="t_773" mate_mother="t_763" mate_rel="CJ">kann</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_774" mate_mother="t_773" mate_rel="SB">ich</tok>
+        <tok mate_lemma="nur" mate_morph="_" mate_pos="ADV" id="t_775" mate_mother="t_773" mate_rel="MO">nur</tok>
+        <tok mate_lemma="sagen" mate_morph="_" mate_pos="VVINF" id="t_776" mate_mother="t_773" mate_rel="OC">sagen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_777" mate_mother="t_776" mate_rel="--">:</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_778" mate_mother="t_779" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="haben" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_779" mate_mother="t_0" mate_rel="--">habe</tok>
+        <tok mate_lemma="auch" mate_morph="_" mate_pos="ADV" id="t_780" mate_mother="t_783" mate_rel="MO">auch</tok>
+        <tok mate_lemma="der" mate_morph="acc|pl|fem" mate_pos="ART" id="t_781" mate_mother="t_783" mate_rel="NK">die</tok>
+        <tok mate_lemma="angegeben" mate_morph="acc|pl|fem|pos" mate_pos="ADJA" id="t_782" mate_mother="t_783" mate_rel="NK">angegebenen</tok>
+        <tok mate_lemma="Behauptung" mate_morph="acc|pl|fem" mate_pos="NN" id="t_783" mate_mother="t_785" mate_rel="OA">Behauptungen</tok>
+        <tok mate_lemma="nie" mate_morph="_" mate_pos="ADV" id="t_784" mate_mother="t_785" mate_rel="MO">nie</tok>
+        <tok mate_lemma="machen" mate_morph="_" mate_pos="VVPP" id="t_785" mate_mother="t_779" mate_rel="OC">gemacht</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_786" mate_mother="t_785" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.6">
+      <sent sent_id="s_29">
+        <tok mate_lemma="insofern" mate_morph="_" mate_pos="ADV" id="t_787" mate_mother="t_788" mate_rel="MO">Insofern</tok>
+        <tok mate_lemma="fallen" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_788" mate_mother="t_0" mate_rel="--">fällt</tok>
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_789" mate_mother="t_788" mate_rel="SB">es</tok>
+        <tok mate_lemma="sich" mate_morph="dat|sg|*|1" mate_pos="PPER" id="t_790" mate_mother="t_788" mate_rel="DA">mir</tok>
+        <tok mate_lemma="überhaupt" mate_morph="_" mate_pos="ADV" id="t_791" mate_mother="t_792" mate_rel="MO">überhaupt</tok>
+        <tok mate_lemma="nicht" mate_morph="_" mate_pos="PTKNEG" id="t_792" mate_mother="t_788" mate_rel="NG">nicht</tok>
+        <tok mate_lemma="schwer" mate_morph="pos" mate_pos="ADJD" id="t_793" mate_mother="t_788" mate_rel="SVP">schwer</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_794" mate_mother="t_793" mate_rel="--">,</tok>
+        <tok mate_lemma="sie" mate_morph="nom|pl|*|3" mate_pos="PPER" id="t_795" mate_mother="t_798" mate_rel="OA">sie</tok>
+        <tok mate_lemma="nicht" mate_morph="_" mate_pos="PTKNEG" id="t_796" mate_mother="t_798" mate_rel="NG">nicht</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="PTKZU" id="t_797" mate_mother="t_798" mate_rel="PM">zu</tok>
+        <tok mate_lemma="wiederholen" mate_morph="_" mate_pos="VVINF" id="t_798" mate_mother="t_789" mate_rel="RE">wiederholen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_799" mate_mother="t_798" mate_rel="--">,</tok>
+        <tok mate_lemma="weil" mate_morph="_" mate_pos="KOUS" id="t_800" mate_mother="t_810" mate_rel="CP">weil</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_801" mate_mother="t_810" mate_rel="SB">ich</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_802" mate_mother="t_810" mate_rel="MO">in</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_803" mate_mother="t_804" mate_rel="NK">der</tok>
+        <tok mate_lemma="Tat" mate_morph="dat|sg|fem" mate_pos="NN" id="t_804" mate_mother="t_802" mate_rel="NK">Tat</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|fem" mate_pos="ART" id="t_805" mate_mother="t_806" mate_rel="NK">die</tok>
+        <tok mate_lemma="Lebensumstand" mate_morph="acc|sg|fem" mate_pos="NN" id="t_806" mate_mother="t_810" mate_rel="OA">Lebensumstände</tok>
+        <tok mate_lemma="von" mate_morph="_" mate_pos="APPR" id="t_807" mate_mother="t_806" mate_rel="PG">von</tok>
+        <tok mate_lemma="Frau" mate_morph="dat|sg|fem" mate_pos="NN" id="t_808" mate_mother="t_807" mate_rel="NK">Frau</tok>
+        <tok mate_lemma="Gebhardt" mate_morph="dat|sg|*" mate_pos="NE" id="t_809" mate_mother="t_808" mate_rel="NK">Gebhardt</tok>
+        <tok mate_lemma="kennen" mate_morph="sg|3|pres|subj" mate_pos="VVFIN" id="t_810" mate_mother="t_798" mate_rel="MO">kenne</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_811" mate_mother="t_810" mate_rel="--">,</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_812" mate_mother="t_788" mate_rel="CD">und</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|neut" mate_pos="PDS" id="t_813" mate_mother="t_818" mate_rel="SB">das</tok>
+        <tok mate_lemma="so" mate_morph="_" mate_pos="ADV" id="t_814" mate_mother="t_817" mate_rel="MO">so</tok>
+        <tok mate_lemma="auch" mate_morph="_" mate_pos="ADV" id="t_815" mate_mother="t_817" mate_rel="MO">auch</tok>
+        <tok mate_lemma="niemals" mate_morph="_" mate_pos="ADV" id="t_816" mate_mother="t_817" mate_rel="MO">niemals</tok>
+        <tok mate_lemma="äußern" mate_morph="_" mate_pos="VVPP" id="t_817" mate_mother="t_818" mate_rel="OC">geäußert</tok>
+        <tok mate_lemma="haben" mate_morph="sg|3|pres|subj" mate_pos="VAFIN" id="t_818" mate_mother="t_812" mate_rel="CJ">habe</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_819" mate_mother="t_818" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_26/de.7">
+      <sent sent_id="s_30">
+        <tok mate_lemma="der" mate_morph="nom|sg|neut" mate_pos="PDS" id="t_820" mate_mother="t_821" mate_rel="SB">Das</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_821" mate_mother="t_0" mate_rel="--">ist</tok>
+        <tok mate_lemma="Teil" mate_morph="nom|sg|masc" mate_pos="NN" id="t_822" mate_mother="t_821" mate_rel="PD">Teil</tok>
+        <tok mate_lemma="ein" mate_morph="gen|sg|fem" mate_pos="ART" id="t_823" mate_mother="t_824" mate_rel="NK">einer</tok>
+        <tok mate_lemma="Reaktion" mate_morph="gen|sg|fem" mate_pos="NN" id="t_824" mate_mother="t_822" mate_rel="AG">Reaktion</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_825" mate_mother="t_824" mate_rel="--">,</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|fem" mate_pos="PRELS" id="t_826" mate_mother="t_832" mate_rel="SB">die</tok>
+        <tok mate_lemma="aus" mate_morph="_" mate_pos="APPR" id="t_827" mate_mother="t_831" mate_rel="MO">aus</tok>
+        <tok mate_lemma="parlamentarisch" mate_morph="dat|sg|fem|pos" mate_pos="ADJA" id="t_828" mate_mother="t_829" mate_rel="NK">parlamentarischer</tok>
+        <tok mate_lemma="Sicht" mate_morph="dat|sg|fem" mate_pos="NN" id="t_829" mate_mother="t_827" mate_rel="NK">Sicht</tok>
+        <tok mate_lemma="verständlich" mate_morph="pos" mate_pos="ADJD" id="t_830" mate_mother="t_831" mate_rel="PD">verständlich</tok>
+        <tok mate_lemma="sein" mate_morph="_" mate_pos="VAINF" id="t_831" mate_mother="t_832" mate_rel="OC">sein</tok>
+        <tok mate_lemma="mögen" mate_morph="sg|3|pres|ind" mate_pos="VMFIN" id="t_832" mate_mother="t_824" mate_rel="RC">mag</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_833" mate_mother="t_832" mate_rel="--">,</tok>
+        <tok mate_lemma="aber" mate_morph="_" mate_pos="KON" id="t_834" mate_mother="t_832" mate_rel="CD">aber</tok>
+        <tok mate_lemma="von" mate_morph="_" mate_pos="APPR" id="t_835" mate_mother="t_840" mate_rel="SBP">von</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_836" mate_mother="t_837" mate_rel="NK">der</tok>
+        <tok mate_lemma="Öffentlichkeit" mate_morph="dat|sg|fem" mate_pos="NN" id="t_837" mate_mother="t_835" mate_rel="NK">Öffentlichkeit</tok>
+        <tok mate_lemma="sicherlich" mate_morph="_" mate_pos="ADV" id="t_838" mate_mother="t_840" mate_rel="MO">sicherlich</tok>
+        <tok mate_lemma="entsprechend" mate_morph="pos" mate_pos="ADJD" id="t_839" mate_mother="t_840" mate_rel="MO">entsprechend</tok>
+        <tok mate_lemma="werten" mate_morph="_" mate_pos="VVPP" id="t_840" mate_mother="t_841" mate_rel="OC">gewertet</tok>
+        <tok mate_lemma="werden" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_841" mate_mother="t_834" mate_rel="CJ">wird</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_842" mate_mother="t_841" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <turn turn_id="t_04-05-03_32/de" lang="de">
+    <alignUnit al_id="a_04-05-03_32/de.1">
+      <sent sent_id="s_31">
+        <tok mate_lemma="Herr" mate_morph="nom|sg|masc" mate_pos="NN" id="t_843" mate_mother="t_846" mate_rel="CJ">Herr</tok>
+        <tok mate_lemma="Präsident" mate_morph="nom|sg|masc" mate_pos="NN" id="t_844" mate_mother="t_843" mate_rel="NK">Präsident</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_845" mate_mother="t_844" mate_rel="--">,</tok>
+        <tok mate_lemma="können" mate_morph="pl|3|past|subj" mate_pos="VMFIN" id="t_846" mate_mother="t_0" mate_rel="--">könnten</tok>
+        <tok mate_lemma="sie" mate_morph="nom|pl|*|3" mate_pos="PPER" id="t_847" mate_mother="t_846" mate_rel="SB">Sie</tok>
+        <tok mate_lemma="uns" mate_morph="dat|pl|*|1" mate_pos="PPER" id="t_848" mate_mother="t_852" mate_rel="DA">uns</tok>
+        <tok mate_lemma="vor" mate_morph="_" mate_pos="APPR" id="t_849" mate_mother="t_852" mate_rel="MO">vor</tok>
+        <tok mate_lemma="der" mate_morph="dat|sg|fem" mate_pos="ART" id="t_850" mate_mother="t_851" mate_rel="NK">der</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_851" mate_mother="t_849" mate_rel="NK">Abstimmung</tok>
+        <tok mate_lemma="erklären" mate_morph="_" mate_pos="VVINF" id="t_852" mate_mother="t_846" mate_rel="OC">erklären</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_853" mate_mother="t_852" mate_rel="--">,</tok>
+        <tok mate_lemma="ob" mate_morph="_" mate_pos="KOUS" id="t_854" mate_mother="t_858" mate_rel="CP">ob</tok>
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_855" mate_mother="t_858" mate_rel="SB">es</tok>
+        <tok mate_lemma="von" mate_morph="_" mate_pos="APPR" id="t_856" mate_mother="t_858" mate_rel="MO">von</tok>
+        <tok mate_lemma="Bedeutung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_857" mate_mother="t_856" mate_rel="NK">Bedeutung</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_858" mate_mother="t_852" mate_rel="OC">ist</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_859" mate_mother="t_858" mate_rel="--">,</tok>
+        <tok mate_lemma="dass" mate_morph="_" mate_pos="KOUS" id="t_860" mate_mother="t_870" mate_rel="CP">dass</tok>
+        <tok mate_lemma="der" mate_morph="acc|sg|fem" mate_pos="ART" id="t_861" mate_mother="t_862" mate_rel="NK">die</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_862" mate_mother="t_870" mate_rel="SB">Abstimmung</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="APPR" id="t_863" mate_mother="t_870" mate_rel="OP">zu</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|fem" mate_pos="PDAT" id="t_864" mate_mother="t_865" mate_rel="NK">dieser</tok>
+        <tok mate_lemma="Frage" mate_morph="dat|sg|fem" mate_pos="NN" id="t_865" mate_mother="t_863" mate_rel="NK">Frage</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_866" mate_mother="t_870" mate_rel="MO">in</tok>
+        <tok mate_lemma="ein" mate_morph="dat|sg|neut" mate_pos="ART" id="t_867" mate_mother="t_869" mate_rel="NK">einem</tok>
+        <tok mate_lemma="anderer" mate_morph="dat|sg|neut|pos" mate_pos="ADJA" id="t_868" mate_mother="t_869" mate_rel="NK">anderen</tok>
+        <tok mate_lemma="Personenkreis" mate_morph="dat|sg|neut" mate_pos="NN" id="t_869" mate_mother="t_866" mate_rel="NK">Personenkreis</tok>
+        <tok mate_lemma="stattfinden" mate_morph="sg|3|pres|ind" mate_pos="VVFIN" id="t_870" mate_mother="t_858" mate_rel="MO">stattfindet</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_871" mate_mother="t_870" mate_rel="--">?</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.2">
+      <sent sent_id="s_32">
+        <tok mate_lemma="vor" mate_morph="_" mate_pos="APPR" id="t_872" mate_mother="t_881" mate_rel="MO">Vor</tok>
+        <tok mate_lemma="zwei" mate_morph="_" mate_pos="CARD" id="t_873" mate_mother="t_874" mate_rel="NK">zwei</tok>
+        <tok mate_lemma="Woche" mate_morph="dat|pl|fem" mate_pos="NN" id="t_874" mate_mother="t_872" mate_rel="NK">Wochen</tok>
+        <tok mate_lemma="haben" mate_morph="sg|3|past|ind" mate_pos="VAFIN" id="t_875" mate_mother="t_0" mate_rel="--">hatte</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|neut" mate_pos="ART" id="t_876" mate_mother="t_878" mate_rel="NK">das</tok>
+        <tok mate_lemma="europäisch" mate_morph="nom|sg|neut|pos" mate_pos="ADJA" id="t_877" mate_mother="t_878" mate_rel="NK">Europäische</tok>
+        <tok mate_lemma="Parlament" mate_morph="nom|sg|neut" mate_pos="NN" id="t_878" mate_mother="t_875" mate_rel="SB">Parlament</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|fem" mate_pos="ART" id="t_879" mate_mother="t_881" mate_rel="NK">eine</tok>
+        <tok mate_lemma="anderer" mate_morph="acc|sg|fem|pos" mate_pos="ADJA" id="t_880" mate_mother="t_881" mate_rel="NK">andere</tok>
+        <tok mate_lemma="Zusammensetzung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_881" mate_mother="t_875" mate_rel="OA">Zusammensetzung</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_882" mate_mother="t_881" mate_rel="--">,</tok>
+        <tok mate_lemma="als" mate_morph="_" mate_pos="KOKOM" id="t_883" mate_mother="t_888" mate_rel="CM">als</tok>
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_884" mate_mother="t_888" mate_rel="SB">es</tok>
+        <tok mate_lemma="sie" mate_morph="acc|sg|fem|3" mate_pos="PPER" id="t_885" mate_mother="t_887" mate_rel="OA">sie</tok>
+        <tok mate_lemma="morgen" mate_morph="_" mate_pos="ADV" id="t_886" mate_mother="t_887" mate_rel="MO">morgen</tok>
+        <tok mate_lemma="haben" mate_morph="_" mate_pos="VAINF" id="t_887" mate_mother="t_888" mate_rel="OC">haben</tok>
+        <tok mate_lemma="werden" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_888" mate_mother="t_880" mate_rel="CC">wird</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_889" mate_mother="t_888" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.3">
+      <sent sent_id="s_33">
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_890" mate_mother="t_0" mate_rel="--">Ist</tok>
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_891" mate_mother="t_890" mate_rel="SB">es</tok>
+        <tok mate_lemma="rechtens" mate_morph="_" mate_pos="ADV" id="t_892" mate_mother="t_890" mate_rel="MO">rechtens</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_893" mate_mother="t_892" mate_rel="--">,</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|fem" mate_pos="ART" id="t_894" mate_mother="t_895" mate_rel="NK">eine</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_895" mate_mother="t_900" mate_rel="OA">Abstimmung</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_896" mate_mother="t_900" mate_rel="MO">in</tok>
+        <tok mate_lemma="anderer" mate_morph="dat|sg|fem|pos" mate_pos="ADJA" id="t_897" mate_mother="t_898" mate_rel="NK">anderer</tok>
+        <tok mate_lemma="Zusammensetzung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_898" mate_mother="t_896" mate_rel="NK">Zusammensetzung</tok>
+        <tok mate_lemma="zu" mate_morph="_" mate_pos="PTKZU" id="t_899" mate_mother="t_900" mate_rel="PM">zu</tok>
+        <tok mate_lemma="wiederholen" mate_morph="_" mate_pos="VVINF" id="t_900" mate_mother="t_891" mate_rel="RE">wiederholen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_901" mate_mother="t_900" mate_rel="--">?</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.4">
+      <sent sent_id="s_34">
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_902" mate_mother="t_925" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="haben" mate_morph="sg|3|past|subj" mate_pos="VAFIN" id="t_903" mate_mother="t_0" mate_rel="--">hätte</tok>
+        <tok mate_lemma="denken" mate_morph="_" mate_pos="VVPP" id="t_904" mate_mother="t_925" mate_rel="OC">gedacht</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_905" mate_mother="t_926" mate_rel="--">,</tok>
+        <tok mate_lemma="dass" mate_morph="_" mate_pos="KOUS" id="t_906" mate_mother="t_911" mate_rel="CP">dass</tok>
+        <tok mate_lemma="dieser" mate_morph="nom|sg|neut" mate_pos="PDS" id="t_907" mate_mother="t_911" mate_rel="SB">dies</tok>
+        <tok mate_lemma="zumindest" mate_morph="_" mate_pos="ADV" id="t_908" mate_mother="t_931" mate_rel="MO">zumindest</tok>
+        <tok mate_lemma="hinterfragen" mate_morph="_" mate_pos="VVPP" id="t_909" mate_mother="t_910" mate_rel="OC">hinterfragt</tok>
+        <tok mate_lemma="werden" mate_morph="_" mate_pos="VAINF" id="t_910" mate_mother="t_911" mate_rel="OC">werden</tok>
+        <tok mate_lemma="muss" mate_morph="_" mate_pos="VMFIN" id="t_911" mate_mother="t_926" mate_rel="MO">muss</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_912" mate_mother="t_911" mate_rel="--">,</tok>
+        <tok mate_lemma="und" mate_morph="_" mate_pos="KON" id="t_913" mate_mother="t_925" mate_rel="CD">und</tok>
+        <tok mate_lemma="beantragen" mate_morph="sg|3|pres|subj" mate_pos="VVFIN" id="t_914" mate_mother="t_913" mate_rel="CJ">beantrage</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|fem" mate_pos="ART" id="t_915" mate_mother="t_917" mate_rel="NK">eine</tok>
+        <tok mate_lemma="formell" mate_morph="acc|sg|fem|pos" mate_pos="ADJA" id="t_916" mate_mother="t_917" mate_rel="NK">formelle</tok>
+        <tok mate_lemma="Beratung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_917" mate_mother="t_914" mate_rel="OA">Beratung</tok>
+        <tok mate_lemma="noch" mate_morph="_" mate_pos="ADV" id="t_918" mate_mother="t_914" mate_rel="MO">noch</tok>
+        <tok mate_lemma="vor" mate_morph="_" mate_pos="APPR" id="t_919" mate_mother="t_914" mate_rel="MO">vor</tok>
+        <tok mate_lemma="unser" mate_morph="dat|sg|fem" mate_pos="PPOSAT" id="t_920" mate_mother="t_922" mate_rel="NK">unserer</tok>
+        <tok mate_lemma="morgig" mate_morph="dat|sg|fem|pos" mate_pos="ADJA" id="t_921" mate_mother="t_922" mate_rel="NK">morgigen</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_922" mate_mother="t_919" mate_rel="NK">Abstimmung</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_923" mate_mother="t_922" mate_rel="--">.</tok>
+        <tok mate_lemma="ich" mate_morph="nom|sg|*|1" mate_pos="PPER" id="t_924" mate_mother="t_925" mate_rel="SB">Ich</tok>
+        <tok mate_lemma="sein" mate_morph="sg|1|pres|ind" mate_pos="VAFIN" id="t_925" mate_mother="t_0" mate_rel="--">bin</tok>
+        <tok mate_lemma="derselbe" mate_morph="dat|sg|fem" mate_pos="PDAT" id="t_926" mate_mother="t_927" mate_rel="NK">derselben</tok>
+        <tok mate_lemma="Auffassung" mate_morph="dat|sg|fem" mate_pos="NN" id="t_927" mate_mother="t_925" mate_rel="SB">Auffassung</tok>
+        <tok mate_lemma="wie" mate_morph="_" mate_pos="KOKOM" id="t_928" mate_mother="t_929" mate_rel="CM">wie</tok>
+        <tok mate_lemma="Frau" mate_morph="nom|sg|fem" mate_pos="NN" id="t_929" mate_mother="t_927" mate_rel="CC">Frau</tok>
+        <tok mate_lemma="Buitenweg" mate_morph="nom|sg|fem" mate_pos="NE" id="t_930" mate_mother="t_929" mate_rel="NK">Buitenweg</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_931" mate_mother="t_930" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.5">
+      <sent sent_id="s_35">
+        <tok mate_lemma="mein" mate_morph="nom|sg|fem" mate_pos="PPOSAT" id="t_932" mate_mother="t_933" mate_rel="NK">Meine</tok>
+        <tok mate_lemma="Fraktion" mate_morph="nom|sg|fem" mate_pos="NN" id="t_933" mate_mother="t_934" mate_rel="SB">Fraktion</tok>
+        <tok mate_lemma="haben" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_934" mate_mother="t_0" mate_rel="--">hat</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|fem" mate_pos="ART" id="t_935" mate_mother="t_937" mate_rel="NK">eine</tok>
+        <tok mate_lemma="nochmalig" mate_morph="acc|sg|fem|pos" mate_pos="ADJA" id="t_936" mate_mother="t_937" mate_rel="NK">nochmalige</tok>
+        <tok mate_lemma="Abstimmung" mate_morph="acc|sg|fem" mate_pos="NN" id="t_937" mate_mother="t_941" mate_rel="OA">Abstimmung</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="APPR" id="t_938" mate_mother="t_937" mate_rel="MNR">in</tok>
+        <tok mate_lemma="dieser" mate_morph="dat|sg|fem" mate_pos="PDAT" id="t_939" mate_mother="t_940" mate_rel="NK">dieser</tok>
+        <tok mate_lemma="Angelegenheit" mate_morph="dat|sg|fem" mate_pos="NN" id="t_940" mate_mother="t_938" mate_rel="NK">Angelegenheit</tok>
+        <tok mate_lemma="ablehnen" mate_morph="_" mate_pos="VVPP" id="t_941" mate_mother="t_934" mate_rel="OC">abgelehnt</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_942" mate_mother="t_941" mate_rel="--">,</tok>
+        <tok mate_lemma="weil" mate_morph="_" mate_pos="KOUS" id="t_943" mate_mother="t_949" mate_rel="CP">weil</tok>
+        <tok mate_lemma="dazu" mate_morph="_" mate_pos="PROAV" id="t_944" mate_mother="t_948" mate_rel="MO">dazu</tok>
+        <tok mate_lemma="bereits" mate_morph="_" mate_pos="ADV" id="t_945" mate_mother="t_948" mate_rel="MO">bereits</tok>
+        <tok mate_lemma="ein" mate_morph="nom|sg|neut" mate_pos="ART" id="t_946" mate_mother="t_947" mate_rel="NK">ein</tok>
+        <tok mate_lemma="Beschluss" mate_morph="nom|sg|neut" mate_pos="NN" id="t_947" mate_mother="t_949" mate_rel="SB">Beschluss</tok>
+        <tok mate_lemma="fassen" mate_morph="_" mate_pos="VVPP" id="t_948" mate_mother="t_949" mate_rel="OC">gefasst</tok>
+        <tok mate_lemma="werden" mate_morph="sg|3|past|ind" mate_pos="VAFIN" id="t_949" mate_mother="t_941" mate_rel="MO">wurde</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_950" mate_mother="t_949" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.6">
+      <sent sent_id="s_36">
+        <tok mate_lemma="für" mate_morph="_" mate_pos="APPR" id="t_951" mate_mother="t_954" mate_rel="MO">Für</tok>
+        <tok mate_lemma="dieser" mate_morph="nom|sg|fem" mate_pos="PDAT" id="t_952" mate_mother="t_953" mate_rel="NK">diese</tok>
+        <tok mate_lemma="Frage" mate_morph="nom|sg|fem" mate_pos="NN" id="t_953" mate_mother="t_951" mate_rel="NK">Frage</tok>
+        <tok mate_lemma="sein" mate_morph="sg|3|pres|ind" mate_pos="VAFIN" id="t_954" mate_mother="t_0" mate_rel="--">ist</tok>
+        <tok mate_lemma="der" mate_morph="nom|sg|masc" mate_pos="ART" id="t_955" mate_mother="t_956" mate_rel="NK">der</tok>
+        <tok mate_lemma="Gerichtshof" mate_morph="nom|sg|masc" mate_pos="NN" id="t_956" mate_mother="t_954" mate_rel="SB">Gerichtshof</tok>
+        <tok mate_lemma="zuständig" mate_morph="pos" mate_pos="ADJD" id="t_957" mate_mother="t_954" mate_rel="PD">zuständig</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_958" mate_mother="t_957" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/de.7">
+      <sent sent_id="s_37">
+        <tok mate_lemma="es" mate_morph="nom|sg|neut|3" mate_pos="PPER" id="t_959" mate_mother="t_960" mate_rel="SB">Es</tok>
+        <tok mate_lemma="muss" mate_morph="sg|3|past|ind" mate_pos="VMFIN" id="t_960" mate_mother="t_0" mate_rel="--">muss</tok>
+        <tok mate_lemma="klären" mate_morph="_" mate_pos="VVPP" id="t_961" mate_mother="t_962" mate_rel="OC">geklärt</tok>
+        <tok mate_lemma="werden" mate_morph="_" mate_pos="VAINF" id="t_962" mate_mother="t_960" mate_rel="OC">werden</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_963" mate_mother="t_962" mate_rel="--">,</tok>
+        <tok mate_lemma="ob" mate_morph="_" mate_pos="KOUS" id="t_964" mate_mother="t_968" mate_rel="CP">ob</tok>
+        <tok mate_lemma="wir" mate_morph="nom|pl|*|1" mate_pos="PPER" id="t_965" mate_mother="t_968" mate_rel="SB">wir</tok>
+        <tok mate_lemma="verfahrensrechtlich" mate_morph="pos" mate_pos="ADJD" id="t_966" mate_mother="t_968" mate_rel="MO">verfahrensrechtlich</tok>
+        <tok mate_lemma="befugen" mate_morph="_" mate_pos="ADJD" id="t_967" mate_mother="t_968" mate_rel="PD">befugt</tok>
+        <tok mate_lemma="sein" mate_morph="pl|1|pres|ind" mate_pos="VAFIN" id="t_968" mate_mother="t_959" mate_rel="RE">sind</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$," id="t_969" mate_mother="t_968" mate_rel="--">,</tok>
+        <tok mate_lemma="ein" mate_morph="acc|sg|neut" mate_pos="ART" id="t_970" mate_mother="t_972" mate_rel="NK">ein</tok>
+        <tok mate_lemma="zweiter" mate_morph="acc|sg|neut|pos" mate_pos="ADJA" id="t_971" mate_mother="t_972" mate_rel="NK">zweites</tok>
+        <tok mate_lemma="Mal" mate_morph="acc|sg|neut" mate_pos="NN" id="t_972" mate_mother="t_973" mate_rel="OA">Mal</tok>
+        <tok mate_lemma="abstimmen" mate_morph="_" mate_pos="VVIZU" id="t_973" mate_mother="t_967" mate_rel="OC">abzustimmen</tok>
+        <tok mate_lemma="--" mate_morph="_" mate_pos="$." id="t_974" mate_mother="t_973" mate_rel="--">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <turn turn_id="t_04-05-03_32/en" lang="en">
+    <alignUnit al_id="a_04-05-03_32/en.1">
+      <sent sent_id="s_38">
+        <tok mate_lemma="mr" mate_morph="_" mate_pos="NNP" id="t_975" mate_mother="t_978" mate_rel="SBJ">Mr</tok>
+        <tok mate_lemma="president" mate_morph="_" mate_pos="NN" id="t_976" mate_mother="t_975" mate_rel="APPO">President</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_977" mate_mother="t_975" mate_rel="P">,</tok>
+        <tok mate_lemma="could" mate_morph="_" mate_pos="MD" id="t_978" mate_mother="t_0" mate_rel="ROOT">could</tok>
+        <tok mate_lemma="you" mate_morph="_" mate_pos="PRP" id="t_979" mate_mother="t_978" mate_rel="SBJ">you</tok>
+        <tok mate_lemma="advise" mate_morph="_" mate_pos="VB" id="t_980" mate_mother="t_978" mate_rel="VC">advise</tok>
+        <tok mate_lemma="us" mate_morph="_" mate_pos="PRP" id="t_981" mate_mother="t_980" mate_rel="OBJ">us</tok>
+        <tok mate_lemma="before" mate_morph="_" mate_pos="IN" id="t_982" mate_mother="t_980" mate_rel="TMP">before</tok>
+        <tok mate_lemma="we" mate_morph="_" mate_pos="PRP" id="t_983" mate_mother="t_984" mate_rel="SBJ">we</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="VBP" id="t_984" mate_mother="t_982" mate_rel="SUB">vote</tok>
+        <tok mate_lemma="as" mate_morph="_" mate_pos="IN" id="t_985" mate_mother="t_984" mate_rel="ADV">as</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_986" mate_mother="t_985" mate_rel="PMOD">to</tok>
+        <tok mate_lemma="whether" mate_morph="_" mate_pos="IN" id="t_987" mate_mother="t_986" mate_rel="PMOD">whether</tok>
+        <tok mate_lemma="there" mate_morph="_" mate_pos="EX" id="t_988" mate_mother="t_989" mate_rel="SBJ">there</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_989" mate_mother="t_987" mate_rel="SUB">is</tok>
+        <tok mate_lemma="any" mate_morph="_" mate_pos="DT" id="t_990" mate_mother="t_991" mate_rel="NMOD">any</tok>
+        <tok mate_lemma="significance" mate_morph="_" mate_pos="NN" id="t_991" mate_mother="t_989" mate_rel="PRD">significance</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_992" mate_mother="t_989" mate_rel="LOC">in</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_993" mate_mother="t_994" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="fact" mate_morph="_" mate_pos="NN" id="t_994" mate_mother="t_992" mate_rel="PMOD">fact</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_995" mate_mother="t_994" mate_rel="NMOD">that</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_996" mate_mother="t_997" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="electorate" mate_morph="_" mate_pos="NN" id="t_997" mate_mother="t_1001" mate_rel="SBJ">electorate</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_998" mate_mother="t_997" mate_rel="NMOD">on</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_999" mate_mother="t_1000" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="issue" mate_morph="_" mate_pos="NN" id="t_1000" mate_mother="t_998" mate_rel="PMOD">issue</tok>
+        <tok mate_lemma="will" mate_morph="_" mate_pos="MD" id="t_1001" mate_mother="t_995" mate_rel="SUB">will</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VB" id="t_1002" mate_mother="t_1001" mate_rel="VC">be</tok>
+        <tok mate_lemma="different" mate_morph="_" mate_pos="JJ" id="t_1003" mate_mother="t_1002" mate_rel="PRD">different</tok>
+        <tok mate_lemma="?" mate_morph="_" mate_pos="." id="t_1004" mate_mother="t_978" mate_rel="P">?</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.2">
+      <sent sent_id="s_39">
+        <tok mate_lemma="two" mate_morph="_" mate_pos="CD" id="t_1005" mate_mother="t_1006" mate_rel="NMOD">Two</tok>
+        <tok mate_lemma="week" mate_morph="_" mate_pos="NNS" id="t_1006" mate_mother="t_1007" mate_rel="AMOD">weeks</tok>
+        <tok mate_lemma="ago" mate_morph="_" mate_pos="IN" id="t_1007" mate_mother="t_1011" mate_rel="TMP">ago</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_1008" mate_mother="t_1010" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="european" mate_morph="_" mate_pos="NNP" id="t_1009" mate_mother="t_1010" mate_rel="NAME">European</tok>
+        <tok mate_lemma="parliament" mate_morph="_" mate_pos="NNP" id="t_1010" mate_mother="t_1011" mate_rel="SBJ">Parliament</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBD" id="t_1011" mate_mother="t_0" mate_rel="ROOT">had</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_1012" mate_mother="t_1014" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="different" mate_morph="_" mate_pos="JJ" id="t_1013" mate_mother="t_1014" mate_rel="NMOD">different</tok>
+        <tok mate_lemma="composition" mate_morph="_" mate_pos="NN" id="t_1014" mate_mother="t_1011" mate_rel="OBJ">composition</tok>
+        <tok mate_lemma="from" mate_morph="_" mate_pos="IN" id="t_1015" mate_mother="t_1014" mate_rel="NMOD">from</tok>
+        <tok mate_lemma="what" mate_morph="_" mate_pos="WP" id="t_1016" mate_mother="t_1019" mate_rel="OBJ">what</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_1017" mate_mother="t_1018" mate_rel="SBJ">it</tok>
+        <tok mate_lemma="will" mate_morph="_" mate_pos="MD" id="t_1018" mate_mother="t_1015" mate_rel="PMOD">will</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VB" id="t_1019" mate_mother="t_1018" mate_rel="VC">have</tok>
+        <tok mate_lemma="tomorrow" mate_morph="_" mate_pos="NN" id="t_1020" mate_mother="t_1019" mate_rel="TMP">tomorrow</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_1021" mate_mother="t_1011" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.3">
+      <sent sent_id="s_40">
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_1022" mate_mother="t_0" mate_rel="ROOT">Is</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_1023" mate_mother="t_1022" mate_rel="SBJ">it</tok>
+        <tok mate_lemma="right" mate_morph="_" mate_pos="JJ" id="t_1024" mate_mother="t_1022" mate_rel="PRD">right</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_1025" mate_mother="t_1022" mate_rel="EXTR">to</tok>
+        <tok mate_lemma="re-run" mate_morph="_" mate_pos="VB" id="t_1026" mate_mother="t_1025" mate_rel="IM">re-run</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_1027" mate_mother="t_1028" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="NN" id="t_1028" mate_mother="t_1026" mate_rel="OBJ">vote</tok>
+        <tok mate_lemma="with" mate_morph="_" mate_pos="IN" id="t_1029" mate_mother="t_1028" mate_rel="NMOD">with</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_1030" mate_mother="t_1032" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="different" mate_morph="_" mate_pos="JJ" id="t_1031" mate_mother="t_1032" mate_rel="NMOD">different</tok>
+        <tok mate_lemma="electorate" mate_morph="_" mate_pos="JJ" id="t_1032" mate_mother="t_1029" mate_rel="PMOD">electorate</tok>
+        <tok mate_lemma="?" mate_morph="_" mate_pos="." id="t_1033" mate_mother="t_1022" mate_rel="P">?</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.4">
+      <sent sent_id="s_41">
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_1034" mate_mother="t_1035" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="would" mate_morph="_" mate_pos="MD" id="t_1035" mate_mother="t_0" mate_rel="ROOT">would</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VB" id="t_1036" mate_mother="t_1035" mate_rel="VC">have</tok>
+        <tok mate_lemma="think" mate_morph="_" mate_pos="VBN" id="t_1037" mate_mother="t_1036" mate_rel="VC">thought</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="IN" id="t_1038" mate_mother="t_1037" mate_rel="OBJ">that</tok>
+        <tok mate_lemma="there" mate_morph="_" mate_pos="EX" id="t_1039" mate_mother="t_1040" mate_rel="SBJ">there</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_1040" mate_mother="t_1038" mate_rel="SUB">is</tok>
+        <tok mate_lemma="at" mate_morph="_" mate_pos="IN" id="t_1041" mate_mother="t_1045" mate_rel="NMOD">at</tok>
+        <tok mate_lemma="least" mate_morph="_" mate_pos="JJS" id="t_1042" mate_mother="t_1041" mate_rel="AMOD">least</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_1043" mate_mother="t_1045" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="question" mate_morph="_" mate_pos="NN" id="t_1044" mate_mother="t_1045" mate_rel="NMOD">question</tok>
+        <tok mate_lemma="mark" mate_morph="_" mate_pos="NN" id="t_1045" mate_mother="t_1040" mate_rel="PRD">mark</tok>
+        <tok mate_lemma="over" mate_morph="_" mate_pos="IN" id="t_1046" mate_mother="t_1045" mate_rel="NMOD">over</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_1047" mate_mother="t_1048" mate_rel="NMOD">that</tok>
+        <tok mate_lemma="issue" mate_morph="_" mate_pos="NN" id="t_1048" mate_mother="t_1046" mate_rel="PMOD">issue</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_1049" mate_mother="t_1035" mate_rel="COORD">and</tok>
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_1050" mate_mother="t_1051" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="request" mate_morph="_" mate_pos="VBP" id="t_1051" mate_mother="t_1049" mate_rel="CONJ">request</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_1052" mate_mother="t_1054" mate_rel="NMOD">that</tok>
+        <tok mate_lemma="formal" mate_morph="_" mate_pos="JJ" id="t_1053" mate_mother="t_1054" mate_rel="NMOD">formal</tok>
+        <tok mate_lemma="advice" mate_morph="_" mate_pos="NN" id="t_1054" mate_mother="t_1051" mate_rel="OBJ">advice</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VB" id="t_1055" mate_mother="t_1051" mate_rel="OPRD">be</tok>
+        <tok mate_lemma="provide" mate_morph="_" mate_pos="VBN" id="t_1056" mate_mother="t_1055" mate_rel="VC">provided</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_1057" mate_mother="t_1056" mate_rel="ADV">on</tok>
+        <tok mate_lemma="that" mate_morph="_" mate_pos="DT" id="t_1058" mate_mother="t_1059" mate_rel="NMOD">that</tok>
+        <tok mate_lemma="point" mate_morph="_" mate_pos="NN" id="t_1059" mate_mother="t_1057" mate_rel="PMOD">point</tok>
+        <tok mate_lemma="before" mate_morph="_" mate_pos="IN" id="t_1060" mate_mother="t_1056" mate_rel="TMP">before</tok>
+        <tok mate_lemma="we" mate_morph="_" mate_pos="PRP" id="t_1061" mate_mother="t_1062" mate_rel="SBJ">we</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="VBP" id="t_1062" mate_mother="t_1060" mate_rel="SUB">vote</tok>
+        <tok mate_lemma="tomorrow" mate_morph="_" mate_pos="NN" id="t_1063" mate_mother="t_1062" mate_rel="TMP">tomorrow</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_1064" mate_mother="t_1035" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.5">
+      <sent sent_id="s_42">
+        <tok mate_lemma="i" mate_morph="_" mate_pos="PRP" id="t_1065" mate_mother="t_1066" mate_rel="SBJ">I</tok>
+        <tok mate_lemma="agree" mate_morph="_" mate_pos="VBP" id="t_1066" mate_mother="t_0" mate_rel="ROOT">agree</tok>
+        <tok mate_lemma="with" mate_morph="_" mate_pos="IN" id="t_1067" mate_mother="t_1066" mate_rel="ADV">with</tok>
+        <tok mate_lemma="mrs" mate_morph="_" mate_pos="NNP" id="t_1068" mate_mother="t_1069" mate_rel="NAME">Mrs</tok>
+        <tok mate_lemma="buitenweg" mate_morph="_" mate_pos="NNP" id="t_1069" mate_mother="t_1067" mate_rel="PMOD">Buitenweg</tok>
+        <tok mate_lemma="," mate_morph="_" mate_pos="," id="t_1070" mate_mother="t_1066" mate_rel="P">,</tok>
+        <tok mate_lemma="and" mate_morph="_" mate_pos="CC" id="t_1071" mate_mother="t_1066" mate_rel="COORD">and</tok>
+        <tok mate_lemma="my" mate_morph="_" mate_pos="PRP$" id="t_1072" mate_mother="t_1073" mate_rel="NAME">my</tok>
+        <tok mate_lemma="group" mate_morph="_" mate_pos="NNP" id="t_1073" mate_mother="t_1074" mate_rel="SBJ">Group</tok>
+        <tok mate_lemma="oppose" mate_morph="_" mate_pos="VBD" id="t_1074" mate_mother="t_1071" mate_rel="CONJ">opposed</tok>
+        <tok mate_lemma="re-vote" mate_morph="_" mate_pos="VBG" id="t_1075" mate_mother="t_1074" mate_rel="OPRD">re-voting</tok>
+        <tok mate_lemma="on" mate_morph="_" mate_pos="IN" id="t_1076" mate_mother="t_1075" mate_rel="ADV">on</tok>
+        <tok mate_lemma="this" mate_morph="_" mate_pos="DT" id="t_1077" mate_mother="t_1078" mate_rel="NMOD">this</tok>
+        <tok mate_lemma="matter" mate_morph="_" mate_pos="NN" id="t_1078" mate_mother="t_1076" mate_rel="PMOD">matter</tok>
+        <tok mate_lemma="because" mate_morph="_" mate_pos="IN" id="t_1079" mate_mother="t_1074" mate_rel="PRP">because</tok>
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_1080" mate_mother="t_1081" mate_rel="SBJ">it</tok>
+        <tok mate_lemma="have" mate_morph="_" mate_pos="VBD" id="t_1081" mate_mother="t_1079" mate_rel="SUB">had</tok>
+        <tok mate_lemma="already" mate_morph="_" mate_pos="RB" id="t_1082" mate_mother="t_1081" mate_rel="TMP">already</tok>
+        <tok mate_lemma="decide" mate_morph="_" mate_pos="VBN" id="t_1083" mate_mother="t_1081" mate_rel="VC">decided</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_1084" mate_mother="t_1066" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.6">
+      <sent sent_id="s_43">
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_1085" mate_mother="t_1086" mate_rel="NMOD">The</tok>
+        <tok mate_lemma="question" mate_morph="_" mate_pos="NN" id="t_1086" mate_mother="t_1087" mate_rel="SBJ">question</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_1087" mate_mother="t_0" mate_rel="ROOT">is</tok>
+        <tok mate_lemma="in" mate_morph="_" mate_pos="IN" id="t_1088" mate_mother="t_1087" mate_rel="LOC-PRD">in</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_1089" mate_mother="t_1090" mate_rel="NMOD">the</tok>
+        <tok mate_lemma="lap" mate_morph="_" mate_pos="NN" id="t_1090" mate_mother="t_1088" mate_rel="PMOD">lap</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_1091" mate_mother="t_1090" mate_rel="NMOD">of</tok>
+        <tok mate_lemma="the" mate_morph="_" mate_pos="DT" id="t_1092" mate_mother="t_1095" mate_rel="NAME">the</tok>
+        <tok mate_lemma="court" mate_morph="_" mate_pos="NNP" id="t_1093" mate_mother="t_1095" mate_rel="NAME">Court</tok>
+        <tok mate_lemma="of" mate_morph="_" mate_pos="IN" id="t_1094" mate_mother="t_1095" mate_rel="NAME">of</tok>
+        <tok mate_lemma="justice" mate_morph="_" mate_pos="NNP" id="t_1095" mate_mother="t_1091" mate_rel="PMOD">Justice</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_1096" mate_mother="t_1087" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+    <alignUnit al_id="a_04-05-03_32/en.7">
+      <sent sent_id="s_44">
+        <tok mate_lemma="it" mate_morph="_" mate_pos="PRP" id="t_1097" mate_mother="t_1098" mate_rel="SBJ">It</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBZ" id="t_1098" mate_mother="t_0" mate_rel="ROOT">is</tok>
+        <tok mate_lemma="important" mate_morph="_" mate_pos="JJ" id="t_1099" mate_mother="t_1098" mate_rel="PRD">important</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_1100" mate_mother="t_1098" mate_rel="EXTR">to</tok>
+        <tok mate_lemma="know" mate_morph="_" mate_pos="VB" id="t_1101" mate_mother="t_1100" mate_rel="IM">know</tok>
+        <tok mate_lemma="whether" mate_morph="_" mate_pos="IN" id="t_1102" mate_mother="t_1101" mate_rel="OBJ">whether</tok>
+        <tok mate_lemma="procedurally" mate_morph="_" mate_pos="RB" id="t_1103" mate_mother="t_1105" mate_rel="ADV">procedurally</tok>
+        <tok mate_lemma="we" mate_morph="_" mate_pos="PRP" id="t_1104" mate_mother="t_1105" mate_rel="SBJ">we</tok>
+        <tok mate_lemma="be" mate_morph="_" mate_pos="VBP" id="t_1105" mate_mother="t_1102" mate_rel="SUB">are</tok>
+        <tok mate_lemma="entitle" mate_morph="_" mate_pos="VBN" id="t_1106" mate_mother="t_1105" mate_rel="VC">entitled</tok>
+        <tok mate_lemma="to" mate_morph="_" mate_pos="TO" id="t_1107" mate_mother="t_1106" mate_rel="OPRD">to</tok>
+        <tok mate_lemma="vote" mate_morph="_" mate_pos="VB" id="t_1108" mate_mother="t_1107" mate_rel="IM">vote</tok>
+        <tok mate_lemma="a" mate_morph="_" mate_pos="DT" id="t_1109" mate_mother="t_1111" mate_rel="NMOD">a</tok>
+        <tok mate_lemma="second" mate_morph="_" mate_pos="JJ" id="t_1110" mate_mother="t_1111" mate_rel="NMOD">second</tok>
+        <tok mate_lemma="time" mate_morph="_" mate_pos="NN" id="t_1111" mate_mother="t_1108" mate_rel="TMP">time</tok>
+        <tok mate_lemma="." mate_morph="_" mate_pos="." id="t_1112" mate_mother="t_1098" mate_rel="P">.</tok>
+      </sent>
+    </alignUnit>
+  </turn>
+  <shellnouns>
+    <shellnoun align_unit="empty" content="" content_phrases="" id="sn_1" span="t_927" value="false"/>
+    <shellnoun align_unit="empty" content="" content_phrases="" id="sn_2" span="t_947" value="false"/>
+    <shellnoun align_unit="align_1" content="external" content_phrases="" id="sn_3" span="t_953" value="true"/>
+    <shellnoun align_unit="empty" content="given" content_phrases="snc_1" id="sn_4" span="t_994" value="true"/>
+    <shellnoun align_unit="align_2" content="" content_phrases="" id="sn_5" span="t_597" value="false"/>
+    <shellnoun align_unit="align_3" content="" content_phrases="" id="sn_6" span="t_730" value="false"/>
+    <shellnoun align_unit="align_4" content="external" content_phrases="" id="sn_7" span="t_865" value="true"/>
+    <shellnoun align_unit="" content="" content_phrases="" id="sn_8" span="t_172" value="false"/>
+    <shellnoun align_unit="align_5" content="" content_phrases="" id="sn_9" span="t_421" value="false"/>
+    <shellnoun align_unit="align_5" content="" content_phrases="" id="sn_10" span="t_180" value="false"/>
+    <shellnoun align_unit="align_2" content="" content_phrases="" id="sn_11" span="t_804" value="false"/>
+    <shellnoun align_unit="align_3" content="" content_phrases="" id="sn_12" span="t_511" value="false"/>
+    <shellnoun align_unit="align_4" content="external" content_phrases="" id="sn_13" span="t_1000" value="true"/>
+    <shellnoun align_unit="align_1" content="external" content_phrases="" id="sn_14" span="t_1086" value="true"/>
+  </shellnouns>
+  <content_phrases>
+    <content_phrase align_unit="align_6" id="snc_1" nominal="false" span="t_995..t_1003"/>
+    <content_phrase align_unit="align_6" id="snc_2" nominal="false" span="t_860..t_870"/>
+  </content_phrases>
+</europarl_chunk>
