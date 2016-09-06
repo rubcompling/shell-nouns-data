@@ -2,7 +2,7 @@
 
 German/English parallel text from the [Europarl Corpus][europarl] with manually annotated shell noun complexes.
 
-Annotations contain a series of noncontiguous turns (`turn`) from the Europarl corpus, grouped according to plenary session (`europarl_chunk`). The turns are presented in English/German pairs, with the language of a particular turn marked both in `turn_id` and in the `lang` attribute. The pairs were presented to annotators in random order, either German first or English first, in order to minimize bias towards one language or the other.
+Annotations contain a series of noncontiguous turns (`turn`) from the Europarl corpus, grouped according to plenary session (`europarl_chunk`). The turns are presented in English/German pairs, with the language of a particular turn marked both in `turn_id` and in the `lang` attribute. The pairs were presented to annotators in random order, either German first or English first, in order to minimize bias towards one language or the other, and this is the order they occur in here as well.
 
 The following excerpt shows how the data is organized:
 ```xml
@@ -16,26 +16,20 @@ The following excerpt shows how the data is organized:
 After the corpus base data there are two elements containing the actual shell noun–related data, `shellnouns` and `content_phrase`.
 
 Each `shellnoun` element contains the following attributes:
-
 `align_unit`
 	: Identifier which all elements aligned to one another will share.
-	
 `content`
 	: Either `given` (content is marked), `external` (content is
 	probably present, but not in this turn), or, in rare cases
 	`unclear` (unclear whether marked phrase is part of shell noun
 	complex).
-	
 `content_phrases`
 	: Reference to `id` of `content_phrase` element containing content
     of this shell noun instance.
-	
 `id`
 	: Identifier for this shell noun instance.
-	
 `span`
 	: Reference to token span corresponding to this shell noun instance.
-	
 `value`
 	: Either `true` (this is a shell noun), `false` (not a shell
     noun), `undefined` (not annotated), or `unclear` (not clear
@@ -43,16 +37,12 @@ Each `shellnoun` element contains the following attributes:
 	
 	
 Each `content_phrase` element has the following attributes:
-
 `align_unit`
 	: As above.
-	
 `id`
 	: Identifier for this content phrase instance.
-	
 `nominal`
 	: If `true`, then this instance is nominal; if `false`, then sentential.
-	
 `span`
 	: Reference to tokens. (See above.)
 
