@@ -34,7 +34,6 @@ Each `shellnoun` element contains the following attributes:
 	: Identifier for this shell noun instance.
 	
 `span`
-
 	: Reference to token span corresponding to this shell noun instance.
 	
 `value`
@@ -52,7 +51,7 @@ Each `content_phrase` element has the following attributes:
 	: Identifier for this content phrase instance.
 	
 `nominal`
-	: If `true`, then this instance is nominal; if `false`, then sentential.
+	: If `true`, then this instance is nominal; if `false`, then clausal.
 	
 `span`
 	: Reference to tokens. (See above.)
