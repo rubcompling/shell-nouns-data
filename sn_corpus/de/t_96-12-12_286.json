@@ -1,0 +1,2238 @@
+{
+  "name": "t_96-12-12_286",
+  "lang": "de",
+  "tokens": [
+    {
+      "index": "36202",
+      "text": "Frau",
+      "lemma": "Frau",
+      "pos": "NN",
+      "morph": "nom|sg|fem",
+      "mother": "36201",
+      "rel": "--"
+    },
+    {
+      "index": "36203",
+      "text": "Pr\u00e4sidentin",
+      "lemma": "Pr\u00e4sidentin",
+      "pos": "NN",
+      "morph": "nom|sg|fem",
+      "mother": "36202",
+      "rel": "NK"
+    },
+    {
+      "index": "36204",
+      "text": "!",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36203",
+      "rel": "--"
+    },
+    {
+      "index": "36205",
+      "text": "Ihnen",
+      "lemma": "ihnen",
+      "pos": "PPER",
+      "morph": "dat|pl|*|3",
+      "mother": "36207",
+      "rel": "DA"
+    },
+    {
+      "index": "36206",
+      "text": "ist",
+      "lemma": "sein",
+      "pos": "VAFIN",
+      "morph": "sg|3|pres|ind",
+      "mother": "36204",
+      "rel": "--"
+    },
+    {
+      "index": "36207",
+      "text": "bekannt",
+      "lemma": "bekannt",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36206",
+      "rel": "PD"
+    },
+    {
+      "index": "36208",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36207",
+      "rel": "--"
+    },
+    {
+      "index": "36209",
+      "text": "da\u00df",
+      "lemma": "da\u00df",
+      "pos": "KOUS",
+      "morph": "_",
+      "mother": "36228",
+      "rel": "CP"
+    },
+    {
+      "index": "36210",
+      "text": "viele",
+      "lemma": "vieler",
+      "pos": "PIS",
+      "morph": "nom|pl|*",
+      "mother": "36228",
+      "rel": "SB"
+    },
+    {
+      "index": "36211",
+      "text": "von",
+      "lemma": "von",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36210",
+      "rel": "PG"
+    },
+    {
+      "index": "36212",
+      "text": "uns",
+      "lemma": "uns",
+      "pos": "PPER",
+      "morph": "dat|pl|*|1",
+      "mother": "36211",
+      "rel": "NK"
+    },
+    {
+      "index": "36213",
+      "text": "dieses",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "acc|sg|neut",
+      "mother": "36215",
+      "rel": "NK"
+    },
+    {
+      "index": "36214",
+      "text": "Europ\u00e4ische",
+      "lemma": "europ\u00e4isch",
+      "pos": "ADJA",
+      "morph": "nom|sg|masc|pos",
+      "mother": "36215",
+      "rel": "NK"
+    },
+    {
+      "index": "36215",
+      "text": "Parlament",
+      "lemma": "Parlament",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36228",
+      "rel": "OA"
+    },
+    {
+      "index": "36216",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36215",
+      "rel": "CD"
+    },
+    {
+      "index": "36217",
+      "text": "sein",
+      "lemma": "sein",
+      "pos": "PPOSAT",
+      "morph": "acc|sg|neut",
+      "mother": "36218",
+      "rel": "NK"
+    },
+    {
+      "index": "36218",
+      "text": "Engagement",
+      "lemma": "Engagement",
+      "pos": "NN",
+      "morph": "acc|sg|neut",
+      "mother": "36216",
+      "rel": "CJ"
+    },
+    {
+      "index": "36219",
+      "text": "f\u00fcr",
+      "lemma": "f\u00fcr",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36218",
+      "rel": "MNR"
+    },
+    {
+      "index": "36220",
+      "text": "demokratische",
+      "lemma": "demokratisch",
+      "pos": "ADJA",
+      "morph": "acc|pl|fem|pos",
+      "mother": "36221",
+      "rel": "NK"
+    },
+    {
+      "index": "36221",
+      "text": "Werte",
+      "lemma": "Wert",
+      "pos": "NN",
+      "morph": "acc|pl|fem",
+      "mother": "36219",
+      "rel": "NK"
+    },
+    {
+      "index": "36222",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36221",
+      "rel": "CD"
+    },
+    {
+      "index": "36223",
+      "text": "demokratisches",
+      "lemma": "demokratisch",
+      "pos": "ADJA",
+      "morph": "acc|sg|neut|pos",
+      "mother": "36224",
+      "rel": "NK"
+    },
+    {
+      "index": "36224",
+      "text": "Verhalten",
+      "lemma": "verhalten",
+      "pos": "NN",
+      "morph": "acc|sg|neut",
+      "mother": "36222",
+      "rel": "CJ"
+    },
+    {
+      "index": "36225",
+      "text": "wirklich",
+      "lemma": "wirklich",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36228",
+      "rel": "MO"
+    },
+    {
+      "index": "36226",
+      "text": "sehr",
+      "lemma": "sehr",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36227",
+      "rel": "MO"
+    },
+    {
+      "index": "36227",
+      "text": "ernst",
+      "lemma": "ernst",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36228",
+      "rel": "MO"
+    },
+    {
+      "index": "36228",
+      "text": "nehmen",
+      "lemma": "nehmen",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36206",
+      "rel": "SB"
+    },
+    {
+      "index": "36229",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36228",
+      "rel": "--"
+    },
+    {
+      "index": "36230",
+      "text": "Ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36231",
+      "rel": "SB"
+    },
+    {
+      "index": "36231",
+      "text": "wei\u00df",
+      "lemma": "wei\u00dfn",
+      "pos": "VVFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36229",
+      "rel": "--"
+    },
+    {
+      "index": "36232",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36231",
+      "rel": "--"
+    },
+    {
+      "index": "36233",
+      "text": "da\u00df",
+      "lemma": "da\u00df",
+      "pos": "KOUS",
+      "morph": "_",
+      "mother": "36237",
+      "rel": "CP"
+    },
+    {
+      "index": "36234",
+      "text": "Sie",
+      "lemma": "sie",
+      "pos": "PPER",
+      "morph": "nom|sg|fem|3",
+      "mother": "36237",
+      "rel": "SB"
+    },
+    {
+      "index": "36235",
+      "text": "ebenso",
+      "lemma": "ebenso",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36237",
+      "rel": "MO"
+    },
+    {
+      "index": "36236",
+      "text": "dazu",
+      "lemma": "dazu",
+      "pos": "PROAV",
+      "morph": "_",
+      "mother": "36237",
+      "rel": "OP"
+    },
+    {
+      "index": "36237",
+      "text": "z\u00e4hlen",
+      "lemma": "z\u00e4hlen",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36231",
+      "rel": "OC"
+    },
+    {
+      "index": "36238",
+      "text": "wie",
+      "lemma": "wie",
+      "pos": "KOKOM",
+      "morph": "_",
+      "mother": "36241",
+      "rel": "CM"
+    },
+    {
+      "index": "36239",
+      "text": "die",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "nom|sg|fem",
+      "mother": "36241",
+      "rel": "NK"
+    },
+    {
+      "index": "36240",
+      "text": "gro\u00dfe",
+      "lemma": "gro\u00df",
+      "pos": "ADJA",
+      "morph": "nom|sg|fem|pos",
+      "mother": "36241",
+      "rel": "NK"
+    },
+    {
+      "index": "36241",
+      "text": "Mehrzahl",
+      "lemma": "Mehrzahl",
+      "pos": "NN",
+      "morph": "nom|sg|fem",
+      "mother": "36235",
+      "rel": "CC"
+    },
+    {
+      "index": "36242",
+      "text": "der",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "gen|pl|*",
+      "mother": "36244",
+      "rel": "NK"
+    },
+    {
+      "index": "36243",
+      "text": "\u00fcbrigen",
+      "lemma": "\u00fcbrig",
+      "pos": "ADJA",
+      "morph": "gen|pl|*|pos",
+      "mother": "36244",
+      "rel": "NK"
+    },
+    {
+      "index": "36244",
+      "text": "Abgeordneten",
+      "lemma": "abgeordneter",
+      "pos": "NN",
+      "morph": "gen|pl|*",
+      "mother": "36241",
+      "rel": "AG"
+    },
+    {
+      "index": "36245",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36244",
+      "rel": "--"
+    },
+    {
+      "index": "36246",
+      "text": "Zu",
+      "lemma": "zu",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36250",
+      "rel": "OP"
+    },
+    {
+      "index": "36247",
+      "text": "den",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "dat|pl|neut",
+      "mother": "36249",
+      "rel": "NK"
+    },
+    {
+      "index": "36248",
+      "text": "demokratischen",
+      "lemma": "demokratisch",
+      "pos": "ADJA",
+      "morph": "dat|pl|neut|pos",
+      "mother": "36249",
+      "rel": "NK"
+    },
+    {
+      "index": "36249",
+      "text": "Werten",
+      "lemma": "Wert",
+      "pos": "NN",
+      "morph": "dat|pl|neut",
+      "mother": "36246",
+      "rel": "NK"
+    },
+    {
+      "index": "36250",
+      "text": "geh\u00f6rt",
+      "lemma": "geh\u00f6ren",
+      "pos": "VVPP",
+      "morph": "sg|3|pres|ind",
+      "mother": "36245",
+      "rel": "--"
+    },
+    {
+      "index": "36251",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36250",
+      "rel": "--"
+    },
+    {
+      "index": "36252",
+      "text": "was",
+      "lemma": "was",
+      "pos": "PRELS",
+      "morph": "nom|sg|neut",
+      "mother": "36256",
+      "rel": "SB"
+    },
+    {
+      "index": "36253",
+      "text": "Abstimmungen",
+      "lemma": "Abstimmung",
+      "pos": "NN",
+      "morph": "acc|pl|fem",
+      "mother": "36256",
+      "rel": "OA"
+    },
+    {
+      "index": "36254",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36253",
+      "rel": "CD"
+    },
+    {
+      "index": "36255",
+      "text": "Wahlen",
+      "lemma": "Wahl",
+      "pos": "NN",
+      "morph": "acc|pl|fem",
+      "mother": "36254",
+      "rel": "CJ"
+    },
+    {
+      "index": "36256",
+      "text": "anbelangt",
+      "lemma": "anbelangen",
+      "pos": "VVFIN",
+      "morph": "sg|3|pres|ind",
+      "mother": "36249",
+      "rel": "RC"
+    },
+    {
+      "index": "36257",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36256",
+      "rel": "--"
+    },
+    {
+      "index": "36258",
+      "text": "die",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "acc|sg|fem",
+      "mother": "36259",
+      "rel": "NK"
+    },
+    {
+      "index": "36259",
+      "text": "Respektierung",
+      "lemma": "Respektierung",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36253",
+      "rel": "CJ"
+    },
+    {
+      "index": "36260",
+      "text": "des",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "gen|sg|masc",
+      "mother": "36261",
+      "rel": "NK"
+    },
+    {
+      "index": "36261",
+      "text": "Prinzips",
+      "lemma": "Prinzip",
+      "pos": "NN",
+      "morph": "gen|sg|masc",
+      "mother": "36259",
+      "rel": "AG"
+    },
+    {
+      "index": "36262",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36261",
+      "rel": "--"
+    },
+    {
+      "index": "36263",
+      "text": "ein",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "nom|sg|masc",
+      "mother": "36264",
+      "rel": "NK"
+    },
+    {
+      "index": "36264",
+      "text": "Mann",
+      "lemma": "Mann",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36259",
+      "rel": "CJ"
+    },
+    {
+      "index": "36265",
+      "text": "-",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36264",
+      "rel": "--"
+    },
+    {
+      "index": "36266",
+      "text": "eine",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "acc|sg|fem",
+      "mother": "36267",
+      "rel": "NK"
+    },
+    {
+      "index": "36267",
+      "text": "Stimme",
+      "lemma": "Stimme",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36264",
+      "rel": "PD"
+    },
+    {
+      "index": "36268",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36267",
+      "rel": "--"
+    },
+    {
+      "index": "36269",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36268",
+      "rel": "--"
+    },
+    {
+      "index": "36270",
+      "text": "Heute",
+      "lemma": "heute",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36271",
+      "rel": "MO"
+    },
+    {
+      "index": "36271",
+      "text": "abend",
+      "lemma": "abend",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36275",
+      "rel": "MO"
+    },
+    {
+      "index": "36272",
+      "text": "ist",
+      "lemma": "sein",
+      "pos": "VAFIN",
+      "morph": "sg|3|pres|ind",
+      "mother": "36269",
+      "rel": "--"
+    },
+    {
+      "index": "36273",
+      "text": "der",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "nom|sg|masc",
+      "mother": "36274",
+      "rel": "NK"
+    },
+    {
+      "index": "36274",
+      "text": "Fall",
+      "lemma": "Fall",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36272",
+      "rel": "SB"
+    },
+    {
+      "index": "36275",
+      "text": "eingetreten",
+      "lemma": "eintreten",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36272",
+      "rel": "OC"
+    },
+    {
+      "index": "36276",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36275",
+      "rel": "--"
+    },
+    {
+      "index": "36277",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36272",
+      "rel": "CD"
+    },
+    {
+      "index": "36278",
+      "text": "ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36279",
+      "rel": "SB"
+    },
+    {
+      "index": "36279",
+      "text": "habe",
+      "lemma": "haben",
+      "pos": "VAFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36277",
+      "rel": "CJ"
+    },
+    {
+      "index": "36280",
+      "text": "die",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "acc|sg|fem",
+      "mother": "36282",
+      "rel": "NK"
+    },
+    {
+      "index": "36281",
+      "text": "betreffende",
+      "lemma": "betreffend",
+      "pos": "ADJA",
+      "morph": "acc|sg|fem|pos",
+      "mother": "36282",
+      "rel": "NK"
+    },
+    {
+      "index": "36282",
+      "text": "Person",
+      "lemma": "Person",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36283",
+      "rel": "OA"
+    },
+    {
+      "index": "36283",
+      "text": "genannt",
+      "lemma": "nennen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36279",
+      "rel": "OC"
+    },
+    {
+      "index": "36284",
+      "text": "-",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36283",
+      "rel": "--"
+    },
+    {
+      "index": "36285",
+      "text": "wie",
+      "lemma": "wie",
+      "pos": "PWAV",
+      "morph": "_",
+      "mother": "36293",
+      "rel": "CM"
+    },
+    {
+      "index": "36286",
+      "text": "ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36293",
+      "rel": "SB"
+    },
+    {
+      "index": "36287",
+      "text": "das",
+      "lemma": "der",
+      "pos": "PDS",
+      "morph": "nom|sg|neut",
+      "mother": "36292",
+      "rel": "OA"
+    },
+    {
+      "index": "36288",
+      "text": "seit",
+      "lemma": "seit",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36292",
+      "rel": "MO"
+    },
+    {
+      "index": "36289",
+      "text": "zehn",
+      "lemma": "zehn",
+      "pos": "CARD",
+      "morph": "_",
+      "mother": "36290",
+      "rel": "NK"
+    },
+    {
+      "index": "36290",
+      "text": "Jahren",
+      "lemma": "Jahr",
+      "pos": "NN",
+      "morph": "dat|pl|neut",
+      "mother": "36288",
+      "rel": "NK"
+    },
+    {
+      "index": "36291",
+      "text": "zu",
+      "lemma": "zu",
+      "pos": "PTKZU",
+      "morph": "_",
+      "mother": "36292",
+      "rel": "PM"
+    },
+    {
+      "index": "36292",
+      "text": "tun",
+      "lemma": "tun",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36293",
+      "rel": "OC"
+    },
+    {
+      "index": "36293",
+      "text": "pflege",
+      "lemma": "pflegen",
+      "pos": "VVFIN",
+      "morph": "sg|3|pres|subj",
+      "mother": "36283",
+      "rel": "MO"
+    },
+    {
+      "index": "36294",
+      "text": "-",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36293",
+      "rel": "--"
+    },
+    {
+      "index": "36295",
+      "text": "die",
+      "lemma": "der",
+      "pos": "PRELS",
+      "morph": "nom|pl|masc",
+      "mother": "36300",
+      "rel": "SB"
+    },
+    {
+      "index": "36296",
+      "text": "gegen",
+      "lemma": "gegen",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36299",
+      "rel": "OP"
+    },
+    {
+      "index": "36297",
+      "text": "dieses",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "acc|sg|neut",
+      "mother": "36298",
+      "rel": "NK"
+    },
+    {
+      "index": "36298",
+      "text": "Prinzip",
+      "lemma": "Prinzip",
+      "pos": "NN",
+      "morph": "acc|sg|neut",
+      "mother": "36296",
+      "rel": "NK"
+    },
+    {
+      "index": "36299",
+      "text": "versto\u00dfen",
+      "lemma": "versto\u00dfen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36300",
+      "rel": "OC"
+    },
+    {
+      "index": "36300",
+      "text": "hat",
+      "lemma": "haben",
+      "pos": "VAFIN",
+      "morph": "sg|3|pres|ind",
+      "mother": "36282",
+      "rel": "RC"
+    },
+    {
+      "index": "36301",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36300",
+      "rel": "--"
+    },
+    {
+      "index": "36302",
+      "text": "Ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36303",
+      "rel": "SB"
+    },
+    {
+      "index": "36303",
+      "text": "schlie\u00dfe",
+      "lemma": "schlie\u00dfen",
+      "pos": "VVFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36301",
+      "rel": "--"
+    },
+    {
+      "index": "36304",
+      "text": "mich",
+      "lemma": "mich",
+      "pos": "PRF",
+      "morph": "acc|sg|1",
+      "mother": "36303",
+      "rel": "OA"
+    },
+    {
+      "index": "36305",
+      "text": "Ihrer",
+      "lemma": "ihr",
+      "pos": "PPOSAT",
+      "morph": "dat|sg|fem",
+      "mother": "36306",
+      "rel": "NK"
+    },
+    {
+      "index": "36306",
+      "text": "Empfehlung",
+      "lemma": "Empfehlung",
+      "pos": "NN",
+      "morph": "dat|sg|fem",
+      "mother": "36303",
+      "rel": "DA"
+    },
+    {
+      "index": "36307",
+      "text": "an",
+      "lemma": "an",
+      "pos": "PTKVZ",
+      "morph": "_",
+      "mother": "36303",
+      "rel": "SVP"
+    },
+    {
+      "index": "36308",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36307",
+      "rel": "--"
+    },
+    {
+      "index": "36309",
+      "text": "diesen",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "acc|sg|masc",
+      "mother": "36310",
+      "rel": "NK"
+    },
+    {
+      "index": "36310",
+      "text": "Vorfall",
+      "lemma": "Vorfall",
+      "pos": "NN",
+      "morph": "acc|sg|masc",
+      "mother": "36311",
+      "rel": "OA"
+    },
+    {
+      "index": "36311",
+      "text": "ernstzunehmen",
+      "lemma": "ernstzunehmen",
+      "pos": "VVIZU",
+      "morph": "_",
+      "mother": "36303",
+      "rel": "OC"
+    },
+    {
+      "index": "36312",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36311",
+      "rel": "CD"
+    },
+    {
+      "index": "36313",
+      "text": "weiterzuverfolgen",
+      "lemma": "weiterzuverfolgen",
+      "pos": "VVFIN",
+      "morph": "_",
+      "mother": "36312",
+      "rel": "CJ"
+    },
+    {
+      "index": "36314",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36313",
+      "rel": "--"
+    },
+    {
+      "index": "36315",
+      "text": "Zudem",
+      "lemma": "zudem",
+      "pos": "PROAV",
+      "morph": "_",
+      "mother": "36316",
+      "rel": "MO"
+    },
+    {
+      "index": "36316",
+      "text": "darf",
+      "lemma": "d\u00fcrfen",
+      "pos": "VMFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36314",
+      "rel": "--"
+    },
+    {
+      "index": "36317",
+      "text": "ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36316",
+      "rel": "SB"
+    },
+    {
+      "index": "36318",
+      "text": "daran",
+      "lemma": "daran",
+      "pos": "PROAV",
+      "morph": "_",
+      "mother": "36319",
+      "rel": "OP"
+    },
+    {
+      "index": "36319",
+      "text": "erinnern",
+      "lemma": "erinnern",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36316",
+      "rel": "OC"
+    },
+    {
+      "index": "36320",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36319",
+      "rel": "--"
+    },
+    {
+      "index": "36321",
+      "text": "da\u00df",
+      "lemma": "da\u00df",
+      "pos": "KOUS",
+      "morph": "_",
+      "mother": "36330",
+      "rel": "CP"
+    },
+    {
+      "index": "36322",
+      "text": "wir",
+      "lemma": "wir",
+      "pos": "PPER",
+      "morph": "nom|pl|*|1",
+      "mother": "36330",
+      "rel": "SB"
+    },
+    {
+      "index": "36323",
+      "text": "in",
+      "lemma": "in",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36329",
+      "rel": "MO"
+    },
+    {
+      "index": "36324",
+      "text": "der",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "dat|sg|fem",
+      "mother": "36326",
+      "rel": "NK"
+    },
+    {
+      "index": "36325",
+      "text": "internationalen",
+      "lemma": "international",
+      "pos": "ADJA",
+      "morph": "dat|sg|fem|pos",
+      "mother": "36326",
+      "rel": "NK"
+    },
+    {
+      "index": "36326",
+      "text": "V\u00f6lkergemeinschaft",
+      "lemma": "V\u00f6lkergemeinschaft",
+      "pos": "NN",
+      "morph": "dat|sg|fem",
+      "mother": "36323",
+      "rel": "NK"
+    },
+    {
+      "index": "36327",
+      "text": "so",
+      "lemma": "so",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36328",
+      "rel": "MO"
+    },
+    {
+      "index": "36328",
+      "text": "ernst",
+      "lemma": "ernst",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36329",
+      "rel": "MO"
+    },
+    {
+      "index": "36329",
+      "text": "genommen",
+      "lemma": "nehmen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36330",
+      "rel": "OC"
+    },
+    {
+      "index": "36330",
+      "text": "werden",
+      "lemma": "werden",
+      "pos": "VAINF",
+      "morph": "_",
+      "mother": "36319",
+      "rel": "OC"
+    },
+    {
+      "index": "36331",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36330",
+      "rel": "--"
+    },
+    {
+      "index": "36332",
+      "text": "da\u00df",
+      "lemma": "da\u00df",
+      "pos": "KOUS",
+      "morph": "_",
+      "mother": "36335",
+      "rel": "CP"
+    },
+    {
+      "index": "36333",
+      "text": "wir",
+      "lemma": "wir",
+      "pos": "PPER",
+      "morph": "nom|pl|*|1",
+      "mother": "36335",
+      "rel": "SB"
+    },
+    {
+      "index": "36334",
+      "text": "eingeladen",
+      "lemma": "einladen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36335",
+      "rel": "OC"
+    },
+    {
+      "index": "36335",
+      "text": "werden",
+      "lemma": "werden",
+      "pos": "VAFIN",
+      "morph": "pl|1|pres|ind",
+      "mother": "36327",
+      "rel": "CC"
+    },
+    {
+      "index": "36336",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36335",
+      "rel": "--"
+    },
+    {
+      "index": "36337",
+      "text": "Beobachter",
+      "lemma": "Beobachter",
+      "pos": "NN",
+      "morph": "nom|pl|masc",
+      "mother": "36343",
+      "rel": "OA"
+    },
+    {
+      "index": "36338",
+      "text": "in",
+      "lemma": "in",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36343",
+      "rel": "MO"
+    },
+    {
+      "index": "36339",
+      "text": "die",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "acc|pl|fem",
+      "mother": "36341",
+      "rel": "NK"
+    },
+    {
+      "index": "36340",
+      "text": "verschiedensten",
+      "lemma": "verschieden",
+      "pos": "ADJA",
+      "morph": "dat|pl|*|sup",
+      "mother": "36341",
+      "rel": "NK"
+    },
+    {
+      "index": "36341",
+      "text": "L\u00e4nder",
+      "lemma": "Land",
+      "pos": "NN",
+      "morph": "gen|pl|neut",
+      "mother": "36338",
+      "rel": "NK"
+    },
+    {
+      "index": "36342",
+      "text": "zu",
+      "lemma": "zu",
+      "pos": "PTKZU",
+      "morph": "_",
+      "mother": "36343",
+      "rel": "PM"
+    },
+    {
+      "index": "36343",
+      "text": "entsenden",
+      "lemma": "entsenden",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36318",
+      "rel": "RE"
+    },
+    {
+      "index": "36344",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36343",
+      "rel": "--"
+    },
+    {
+      "index": "36345",
+      "text": "um",
+      "lemma": "um",
+      "pos": "KOUI",
+      "morph": "_",
+      "mother": "36348",
+      "rel": "CP"
+    },
+    {
+      "index": "36346",
+      "text": "Wahlen",
+      "lemma": "Wahl",
+      "pos": "NN",
+      "morph": "acc|pl|fem",
+      "mother": "36348",
+      "rel": "OA"
+    },
+    {
+      "index": "36347",
+      "text": "zu",
+      "lemma": "zu",
+      "pos": "PTKZU",
+      "morph": "_",
+      "mother": "36348",
+      "rel": "PM"
+    },
+    {
+      "index": "36348",
+      "text": "beaufsichtigen",
+      "lemma": "beaufsichtigen",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36343",
+      "rel": "MO"
+    },
+    {
+      "index": "36349",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36348",
+      "rel": "--"
+    },
+    {
+      "index": "36350",
+      "text": "Im",
+      "lemma": "in",
+      "pos": "APPRART",
+      "morph": "dat|sg|neut",
+      "mother": "36368",
+      "rel": "MO"
+    },
+    {
+      "index": "36351",
+      "text": "Zeitraum",
+      "lemma": "Zeitraum",
+      "pos": "NN",
+      "morph": "dat|sg|neut",
+      "mother": "36350",
+      "rel": "NK"
+    },
+    {
+      "index": "36352",
+      "text": "bis",
+      "lemma": "bis",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36353",
+      "rel": "AC"
+    },
+    {
+      "index": "36353",
+      "text": "zu",
+      "lemma": "zu",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36351",
+      "rel": "MNR"
+    },
+    {
+      "index": "36354",
+      "text": "n\u00e4chsten",
+      "lemma": "n\u00e4chster",
+      "pos": "ADJA",
+      "morph": "dat|sg|fem|pos",
+      "mother": "36355",
+      "rel": "NK"
+    },
+    {
+      "index": "36355",
+      "text": "Tagung",
+      "lemma": "Tagung",
+      "pos": "NN",
+      "morph": "dat|sg|fem",
+      "mother": "36353",
+      "rel": "NK"
+    },
+    {
+      "index": "36356",
+      "text": "im",
+      "lemma": "in",
+      "pos": "APPRART",
+      "morph": "dat|sg|masc",
+      "mother": "36355",
+      "rel": "MNR"
+    },
+    {
+      "index": "36357",
+      "text": "Januar",
+      "lemma": "Januar",
+      "pos": "NN",
+      "morph": "dat|sg|masc",
+      "mother": "36356",
+      "rel": "NK"
+    },
+    {
+      "index": "36358",
+      "text": "bin",
+      "lemma": "sein",
+      "pos": "VAFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36349",
+      "rel": "--"
+    },
+    {
+      "index": "36359",
+      "text": "ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36358",
+      "rel": "SB"
+    },
+    {
+      "index": "36360",
+      "text": "zusammen",
+      "lemma": "zusammen",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36361",
+      "rel": "MO"
+    },
+    {
+      "index": "36361",
+      "text": "mit",
+      "lemma": "mit",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36368",
+      "rel": "MO"
+    },
+    {
+      "index": "36362",
+      "text": "anderen",
+      "lemma": "anderer",
+      "pos": "ADJA",
+      "morph": "dat|pl|neut|pos",
+      "mother": "36363",
+      "rel": "NK"
+    },
+    {
+      "index": "36363",
+      "text": "Abgeordneten",
+      "lemma": "abgeordneter",
+      "pos": "NN",
+      "morph": "dat|pl|neut",
+      "mother": "36361",
+      "rel": "NK"
+    },
+    {
+      "index": "36364",
+      "text": "als",
+      "lemma": "als",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36368",
+      "rel": "MO"
+    },
+    {
+      "index": "36365",
+      "text": "Wahlbeobachter",
+      "lemma": "Wahlbeobachter",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36364",
+      "rel": "NK"
+    },
+    {
+      "index": "36366",
+      "text": "nach",
+      "lemma": "nach",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36368",
+      "rel": "MO"
+    },
+    {
+      "index": "36367",
+      "text": "Afrika",
+      "lemma": "Afrika",
+      "pos": "NE",
+      "morph": "dat|sg|neut",
+      "mother": "36366",
+      "rel": "NK"
+    },
+    {
+      "index": "36368",
+      "text": "eingeladen",
+      "lemma": "einladen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36358",
+      "rel": "OC"
+    },
+    {
+      "index": "36369",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36368",
+      "rel": "--"
+    },
+    {
+      "index": "36370",
+      "text": "wo",
+      "lemma": "wo",
+      "pos": "PWAV",
+      "morph": "_",
+      "mother": "36374",
+      "rel": "MO"
+    },
+    {
+      "index": "36371",
+      "text": "wir",
+      "lemma": "wir",
+      "pos": "PPER",
+      "morph": "nom|pl|*|1",
+      "mother": "36374",
+      "rel": "SB"
+    },
+    {
+      "index": "36372",
+      "text": "dazu",
+      "lemma": "dazu",
+      "pos": "PROAV",
+      "morph": "_",
+      "mother": "36373",
+      "rel": "OP"
+    },
+    {
+      "index": "36373",
+      "text": "beitragen",
+      "lemma": "beitragen",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36374",
+      "rel": "OC"
+    },
+    {
+      "index": "36374",
+      "text": "sollen",
+      "lemma": "sollen",
+      "pos": "VMFIN",
+      "morph": "pl|1|pres|ind",
+      "mother": "36363",
+      "rel": "RC"
+    },
+    {
+      "index": "36375",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36374",
+      "rel": "--"
+    },
+    {
+      "index": "36376",
+      "text": "da\u00df",
+      "lemma": "da\u00df",
+      "pos": "KOUS",
+      "morph": "_",
+      "mother": "36392",
+      "rel": "CP"
+    },
+    {
+      "index": "36377",
+      "text": "die",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "nom|pl|masc",
+      "mother": "36378",
+      "rel": "NK"
+    },
+    {
+      "index": "36378",
+      "text": "Regeln",
+      "lemma": "Regel",
+      "pos": "NN",
+      "morph": "nom|pl|masc",
+      "mother": "36392",
+      "rel": "SB"
+    },
+    {
+      "index": "36379",
+      "text": "der",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "gen|sg|fem",
+      "mother": "36380",
+      "rel": "NK"
+    },
+    {
+      "index": "36380",
+      "text": "Demokratie",
+      "lemma": "Demokratie",
+      "pos": "NN",
+      "morph": "gen|sg|fem",
+      "mother": "36378",
+      "rel": "AG"
+    },
+    {
+      "index": "36381",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36380",
+      "rel": "CD"
+    },
+    {
+      "index": "36382",
+      "text": "das",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "nom|sg|neut",
+      "mother": "36383",
+      "rel": "NK"
+    },
+    {
+      "index": "36383",
+      "text": "Prinzip",
+      "lemma": "Prinzip",
+      "pos": "NN",
+      "morph": "nom|sg|neut",
+      "mother": "36381",
+      "rel": "CJ"
+    },
+    {
+      "index": "36384",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36383",
+      "rel": "--"
+    },
+    {
+      "index": "36385",
+      "text": "ein",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "nom|sg|masc",
+      "mother": "36386",
+      "rel": "NK"
+    },
+    {
+      "index": "36386",
+      "text": "Mann",
+      "lemma": "Mann",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36383",
+      "rel": "PD"
+    },
+    {
+      "index": "36387",
+      "text": "-",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36386",
+      "rel": "--"
+    },
+    {
+      "index": "36388",
+      "text": "eine",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "acc|sg|fem",
+      "mother": "36389",
+      "rel": "NK"
+    },
+    {
+      "index": "36389",
+      "text": "Stimme",
+      "lemma": "Stimme",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36391",
+      "rel": "OA"
+    },
+    {
+      "index": "36390",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36389",
+      "rel": "--"
+    },
+    {
+      "index": "36391",
+      "text": "eingehalten",
+      "lemma": "einhalten",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36392",
+      "rel": "OC"
+    },
+    {
+      "index": "36392",
+      "text": "werden",
+      "lemma": "werden",
+      "pos": "VAINF",
+      "morph": "_",
+      "mother": "36372",
+      "rel": "RE"
+    },
+    {
+      "index": "36393",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36392",
+      "rel": "--"
+    },
+    {
+      "index": "36394",
+      "text": "Ich",
+      "lemma": "ich",
+      "pos": "PPER",
+      "morph": "nom|sg|*|1",
+      "mother": "36395",
+      "rel": "SB"
+    },
+    {
+      "index": "36395",
+      "text": "unterst\u00fctze",
+      "lemma": "unterst\u00fctzen",
+      "pos": "VVFIN",
+      "morph": "sg|1|pres|ind",
+      "mother": "36393",
+      "rel": "--"
+    },
+    {
+      "index": "36396",
+      "text": "daher",
+      "lemma": "daher",
+      "pos": "PROAV",
+      "morph": "_",
+      "mother": "36395",
+      "rel": "MO"
+    },
+    {
+      "index": "36397",
+      "text": "Ihre",
+      "lemma": "ihr",
+      "pos": "PPOSAT",
+      "morph": "acc|pl|fem|pos",
+      "mother": "36398",
+      "rel": "NK"
+    },
+    {
+      "index": "36398",
+      "text": "Bem\u00fchungen",
+      "lemma": "Bem\u00fchung",
+      "pos": "NN",
+      "morph": "acc|pl|fem",
+      "mother": "36395",
+      "rel": "OA"
+    },
+    {
+      "index": "36399",
+      "text": "sehr",
+      "lemma": "sehr",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36395",
+      "rel": "MO"
+    },
+    {
+      "index": "36400",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36399",
+      "rel": "--"
+    },
+    {
+      "index": "36401",
+      "text": "Wir",
+      "lemma": "wir",
+      "pos": "PPER",
+      "morph": "nom|pl|*|1",
+      "mother": "36402",
+      "rel": "SB"
+    },
+    {
+      "index": "36402",
+      "text": "d\u00fcrfen",
+      "lemma": "d\u00fcrfen",
+      "pos": "VMFIN",
+      "morph": "pl|1|pres|ind",
+      "mother": "36400",
+      "rel": "--"
+    },
+    {
+      "index": "36403",
+      "text": "hier",
+      "lemma": "hier",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36402",
+      "rel": "MO"
+    },
+    {
+      "index": "36404",
+      "text": "nicht",
+      "lemma": "nicht",
+      "pos": "PTKNEG",
+      "morph": "_",
+      "mother": "36402",
+      "rel": "NG"
+    },
+    {
+      "index": "36405",
+      "text": "leichtfertig",
+      "lemma": "leichtfertig",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36406",
+      "rel": "PD"
+    },
+    {
+      "index": "36406",
+      "text": "sein",
+      "lemma": "sein",
+      "pos": "VAINF",
+      "morph": "_",
+      "mother": "36402",
+      "rel": "OC"
+    },
+    {
+      "index": "36407",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36406",
+      "rel": "--"
+    },
+    {
+      "index": "36408",
+      "text": "sondern",
+      "lemma": "sondern",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36402",
+      "rel": "CD"
+    },
+    {
+      "index": "36409",
+      "text": "m\u00fcssen",
+      "lemma": "m\u00fcssen",
+      "pos": "VMFIN",
+      "morph": "pl|3|pres|ind",
+      "mother": "36408",
+      "rel": "CJ"
+    },
+    {
+      "index": "36410",
+      "text": "diese",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "acc|sg|fem",
+      "mother": "36411",
+      "rel": "NK"
+    },
+    {
+      "index": "36411",
+      "text": "Praktik",
+      "lemma": "Praktik",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36442",
+      "rel": "OA"
+    },
+    {
+      "index": "36412",
+      "text": "des",
+      "lemma": "der",
+      "pos": "ART",
+      "morph": "gen|sg|neut",
+      "mother": "36414",
+      "rel": "NK"
+    },
+    {
+      "index": "36413",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36412",
+      "rel": "--"
+    },
+    {
+      "index": "36414",
+      "text": "Auf-der-Klaviatur-Spielens",
+      "lemma": "Auf-der-Klaviatur-Spielen",
+      "pos": "NN",
+      "morph": "gen|sg|neut",
+      "mother": "36411",
+      "rel": "AG"
+    },
+    {
+      "index": "36415",
+      "text": "\"",
+      "lemma": "--",
+      "pos": "$(",
+      "morph": "_",
+      "mother": "36414",
+      "rel": "--"
+    },
+    {
+      "index": "36416",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36415",
+      "rel": "--"
+    },
+    {
+      "index": "36417",
+      "text": "die",
+      "lemma": "der",
+      "pos": "PRELS",
+      "morph": "nom|sg|fem",
+      "mother": "36424",
+      "rel": "SB"
+    },
+    {
+      "index": "36418",
+      "text": "in",
+      "lemma": "in",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36424",
+      "rel": "MO"
+    },
+    {
+      "index": "36419",
+      "text": "diesem",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "dat|sg|neut",
+      "mother": "36420",
+      "rel": "NK"
+    },
+    {
+      "index": "36420",
+      "text": "Hause",
+      "lemma": "Haus",
+      "pos": "NN",
+      "morph": "dat|sg|neut",
+      "mother": "36418",
+      "rel": "NK"
+    },
+    {
+      "index": "36421",
+      "text": "eine",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "acc|sg|fem",
+      "mother": "36423",
+      "rel": "NK"
+    },
+    {
+      "index": "36422",
+      "text": "lange",
+      "lemma": "lang",
+      "pos": "ADJA",
+      "morph": "acc|sg|fem|pos",
+      "mother": "36423",
+      "rel": "NK"
+    },
+    {
+      "index": "36423",
+      "text": "Tradition",
+      "lemma": "Tradition",
+      "pos": "NN",
+      "morph": "acc|sg|fem",
+      "mother": "36424",
+      "rel": "OA"
+    },
+    {
+      "index": "36424",
+      "text": "hat",
+      "lemma": "haben",
+      "pos": "VAFIN",
+      "morph": "sg|3|pres|ind",
+      "mother": "36414",
+      "rel": "RC"
+    },
+    {
+      "index": "36425",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36424",
+      "rel": "CD"
+    },
+    {
+      "index": "36426",
+      "text": "an",
+      "lemma": "an",
+      "pos": "APPR",
+      "morph": "_",
+      "mother": "36438",
+      "rel": "OP"
+    },
+    {
+      "index": "36427",
+      "text": "der",
+      "lemma": "der",
+      "pos": "PRELS",
+      "morph": "dat|sg|fem",
+      "mother": "36426",
+      "rel": "NK"
+    },
+    {
+      "index": "36428",
+      "text": "sich",
+      "lemma": "sich",
+      "pos": "PRF",
+      "morph": "acc|sg|3",
+      "mother": "36438",
+      "rel": "OA"
+    },
+    {
+      "index": "36429",
+      "text": "auch",
+      "lemma": "auch",
+      "pos": "ADV",
+      "morph": "_",
+      "mother": "36431",
+      "rel": "MO"
+    },
+    {
+      "index": "36430",
+      "text": "langj\u00e4hrige",
+      "lemma": "langj\u00e4hrig",
+      "pos": "ADJA",
+      "morph": "acc|pl|masc|pos",
+      "mother": "36431",
+      "rel": "NK"
+    },
+    {
+      "index": "36431",
+      "text": "Abgeordnete",
+      "lemma": "abgeordneter",
+      "pos": "NN",
+      "morph": "acc|pl|masc",
+      "mother": "36439",
+      "rel": "SB"
+    },
+    {
+      "index": "36432",
+      "text": "dieses",
+      "lemma": "dieser",
+      "pos": "PDAT",
+      "morph": "gen|sg|neut",
+      "mother": "36433",
+      "rel": "NK"
+    },
+    {
+      "index": "36433",
+      "text": "Parlaments",
+      "lemma": "Parlament",
+      "pos": "NN",
+      "morph": "gen|sg|neut",
+      "mother": "36431",
+      "rel": "AG"
+    },
+    {
+      "index": "36434",
+      "text": "und",
+      "lemma": "und",
+      "pos": "KON",
+      "morph": "_",
+      "mother": "36431",
+      "rel": "CD"
+    },
+    {
+      "index": "36435",
+      "text": "ein",
+      "lemma": "ein",
+      "pos": "ART",
+      "morph": "nom|sg|masc",
+      "mother": "36437",
+      "rel": "NK"
+    },
+    {
+      "index": "36436",
+      "text": "fr\u00fcherer",
+      "lemma": "fr\u00fch",
+      "pos": "ADJA",
+      "morph": "nom|sg|masc|comp",
+      "mother": "36437",
+      "rel": "NK"
+    },
+    {
+      "index": "36437",
+      "text": "Pr\u00e4sident",
+      "lemma": "Pr\u00e4sident",
+      "pos": "NN",
+      "morph": "nom|sg|masc",
+      "mother": "36434",
+      "rel": "CJ"
+    },
+    {
+      "index": "36438",
+      "text": "beteiligt",
+      "lemma": "beteiligen",
+      "pos": "VVPP",
+      "morph": "_",
+      "mother": "36439",
+      "rel": "OC"
+    },
+    {
+      "index": "36439",
+      "text": "haben",
+      "lemma": "haben",
+      "pos": "VAFIN",
+      "morph": "pl|3|pres|ind",
+      "mother": "36425",
+      "rel": "CJ"
+    },
+    {
+      "index": "36440",
+      "text": ",",
+      "lemma": "--",
+      "pos": "$,",
+      "morph": "_",
+      "mother": "36439",
+      "rel": "--"
+    },
+    {
+      "index": "36441",
+      "text": "endg\u00fcltig",
+      "lemma": "endg\u00fcltig",
+      "pos": "ADJD",
+      "morph": "pos",
+      "mother": "36442",
+      "rel": "MO"
+    },
+    {
+      "index": "36442",
+      "text": "ausmerzen",
+      "lemma": "ausmerzen",
+      "pos": "VVINF",
+      "morph": "_",
+      "mother": "36409",
+      "rel": "OC"
+    },
+    {
+      "index": "36443",
+      "text": ".",
+      "lemma": "--",
+      "pos": "$.",
+      "morph": "_",
+      "mother": "36442",
+      "rel": "--"
+    }
+  ],
+  "sentences": [
+    [
+      0,
+      3
+    ],
+    [
+      3,
+      28
+    ],
+    [
+      28,
+      44
+    ],
+    [
+      44,
+      68
+    ],
+    [
+      68,
+      100
+    ],
+    [
+      100,
+      113
+    ],
+    [
+      113,
+      148
+    ],
+    [
+      148,
+      192
+    ],
+    [
+      192,
+      199
+    ],
+    [
+      199,
+      242
+    ]
+  ],
+  "anaphors": [
+    {
+      "id": "markable_2665",
+      "shellnoun": "false",
+      "align_unit": "empty",
+      "start": 196,
+      "end": 197,
+      "index": 0
+    }
+  ],
+  "antecedents": [],
+  "ref_instances": []
+}

@@ -1,0 +1,1882 @@
+{
+  "name": "t_98-04-01_49",
+  "lang": "en",
+  "tokens": [
+    {
+      "index": "2198",
+      "text": "Mr",
+      "lemma": "mr",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2197",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2199",
+      "text": "President",
+      "lemma": "president",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2198",
+      "rel": "APPO"
+    },
+    {
+      "index": "2200",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2198",
+      "rel": "P"
+    },
+    {
+      "index": "2201",
+      "text": "President-in-Office",
+      "lemma": "president-in-office",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2198",
+      "rel": "APPO"
+    },
+    {
+      "index": "2202",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2201",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2203",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2207",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2204",
+      "text": "Council",
+      "lemma": "council",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2207",
+      "rel": "NAME"
+    },
+    {
+      "index": "2205",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2207",
+      "rel": "P"
+    },
+    {
+      "index": "2206",
+      "text": "Commissioner",
+      "lemma": "commissioner",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2207",
+      "rel": "TITLE"
+    },
+    {
+      "index": "2207",
+      "text": "Pinheiro",
+      "lemma": "pinheiro",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2202",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2208",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2198",
+      "rel": "P"
+    },
+    {
+      "index": "2209",
+      "text": "I",
+      "lemma": "i",
+      "pos": "PRP",
+      "morph": "_",
+      "mother": "2210",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2210",
+      "text": "welcome",
+      "lemma": "welcome",
+      "pos": "VBP",
+      "morph": "_",
+      "mother": "2206",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2211",
+      "text": "this",
+      "lemma": "this",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2213",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2212",
+      "text": "excellent",
+      "lemma": "excellent",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2213",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2213",
+      "text": "report",
+      "lemma": "report",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2210",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2214",
+      "text": "by",
+      "lemma": "by",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2213",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2215",
+      "text": "Michel",
+      "lemma": "michel",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2216",
+      "rel": "NAME"
+    },
+    {
+      "index": "2216",
+      "text": "Rocard",
+      "lemma": "rocard",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2214",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2217",
+      "text": "on",
+      "lemma": "on",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2213",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2218",
+      "text": "a",
+      "lemma": "a",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2221",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2219",
+      "text": "new",
+      "lemma": "new",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2221",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2220",
+      "text": "cooperation",
+      "lemma": "cooperation",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2221",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2221",
+      "text": "agreement",
+      "lemma": "agreement",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2217",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2222",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2221",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2223",
+      "text": "replace",
+      "lemma": "replace",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2222",
+      "rel": "IM"
+    },
+    {
+      "index": "2224",
+      "text": "Lom\u00e9",
+      "lemma": "lom\u00e9",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2223",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2225",
+      "text": "4.",
+      "lemma": "4.",
+      "pos": "CD",
+      "morph": "_",
+      "mother": "2224",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2226",
+      "text": "The",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2227",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2227",
+      "text": "EU",
+      "lemma": "eu",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2230",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2228",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2227",
+      "rel": "COORD"
+    },
+    {
+      "index": "2229",
+      "text": "ACP",
+      "lemma": "acp",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2228",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2230",
+      "text": "must",
+      "lemma": "must",
+      "pos": "MD",
+      "morph": "_",
+      "mother": "2225",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2231",
+      "text": "reaffirm",
+      "lemma": "reaffirm",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2230",
+      "rel": "VC"
+    },
+    {
+      "index": "2232",
+      "text": "their",
+      "lemma": "their",
+      "pos": "PRP$",
+      "morph": "_",
+      "mother": "2233",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2233",
+      "text": "partnership",
+      "lemma": "partnership",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2231",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2234",
+      "text": "by",
+      "lemma": "by",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2231",
+      "rel": "MNR"
+    },
+    {
+      "index": "2235",
+      "text": "strengthening",
+      "lemma": "strengthen",
+      "pos": "VBG",
+      "morph": "_",
+      "mother": "2234",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2236",
+      "text": "democracy",
+      "lemma": "democracy",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2235",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2237",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2231",
+      "rel": "COORD"
+    },
+    {
+      "index": "2238",
+      "text": "respect",
+      "lemma": "respect",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2237",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2239",
+      "text": "for",
+      "lemma": "for",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2238",
+      "rel": "ADV"
+    },
+    {
+      "index": "2240",
+      "text": "human",
+      "lemma": "human",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2241",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2241",
+      "text": "rights",
+      "lemma": "right",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2239",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2242",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2241",
+      "rel": "P"
+    },
+    {
+      "index": "2243",
+      "text": "especially",
+      "lemma": "especially",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2241",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2244",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2245",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2245",
+      "text": "rights",
+      "lemma": "right",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2241",
+      "rel": "APPO"
+    },
+    {
+      "index": "2246",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2245",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2247",
+      "text": "women",
+      "lemma": "woman",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2246",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2248",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2230",
+      "rel": "P"
+    },
+    {
+      "index": "2249",
+      "text": "The",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2250",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2250",
+      "text": "fight",
+      "lemma": "fight",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2255",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2251",
+      "text": "against",
+      "lemma": "against",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2250",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2252",
+      "text": "poverty",
+      "lemma": "poverty",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2251",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2253",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2252",
+      "rel": "COORD"
+    },
+    {
+      "index": "2254",
+      "text": "illiteracy",
+      "lemma": "illiteracy",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2253",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2255",
+      "text": "must",
+      "lemma": "must",
+      "pos": "MD",
+      "morph": "_",
+      "mother": "2248",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2256",
+      "text": "form",
+      "lemma": "form",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2255",
+      "rel": "VC"
+    },
+    {
+      "index": "2257",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2258",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2258",
+      "text": "basis",
+      "lemma": "basis",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2256",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2259",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2258",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2260",
+      "text": "any",
+      "lemma": "any",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2262",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2261",
+      "text": "new",
+      "lemma": "new",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2262",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2262",
+      "text": "arrangements",
+      "lemma": "arrangement",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2259",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2263",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2255",
+      "rel": "COORD"
+    },
+    {
+      "index": "2264",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2266",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2265",
+      "text": "acquis",
+      "lemma": "acquis",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2266",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2266",
+      "text": "communautaire",
+      "lemma": "communautaire",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2267",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2267",
+      "text": "must",
+      "lemma": "must",
+      "pos": "MD",
+      "morph": "_",
+      "mother": "2263",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2268",
+      "text": "be",
+      "lemma": "be",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2267",
+      "rel": "VC"
+    },
+    {
+      "index": "2269",
+      "text": "built",
+      "lemma": "build",
+      "pos": "VBN",
+      "morph": "_",
+      "mother": "2268",
+      "rel": "VC"
+    },
+    {
+      "index": "2270",
+      "text": "upon",
+      "lemma": "upon",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2269",
+      "rel": "LOC"
+    },
+    {
+      "index": "2271",
+      "text": "in",
+      "lemma": "in",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2270",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2272",
+      "text": "political",
+      "lemma": "political",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2276",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2273",
+      "text": "economic",
+      "lemma": "economic",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2276",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2274",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2273",
+      "rel": "COORD"
+    },
+    {
+      "index": "2275",
+      "text": "financial",
+      "lemma": "financial",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2274",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2276",
+      "text": "terms",
+      "lemma": "terms",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2271",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2277",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2255",
+      "rel": "P"
+    },
+    {
+      "index": "2278",
+      "text": "In",
+      "lemma": "in",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2289",
+      "rel": "PRP"
+    },
+    {
+      "index": "2279",
+      "text": "order",
+      "lemma": "order",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2278",
+      "rel": "DEP"
+    },
+    {
+      "index": "2280",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2278",
+      "rel": "SUB"
+    },
+    {
+      "index": "2281",
+      "text": "ensure",
+      "lemma": "ensure",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2280",
+      "rel": "IM"
+    },
+    {
+      "index": "2282",
+      "text": "maximum",
+      "lemma": "maximum",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2283",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2283",
+      "text": "development",
+      "lemma": "development",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2281",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2284",
+      "text": "in",
+      "lemma": "in",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2283",
+      "rel": "LOC"
+    },
+    {
+      "index": "2285",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2287",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2286",
+      "text": "ACP",
+      "lemma": "acp",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2287",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2287",
+      "text": "regions",
+      "lemma": "region",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2284",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2288",
+      "text": "it",
+      "lemma": "it",
+      "pos": "PRP",
+      "morph": "_",
+      "mother": "2289",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2289",
+      "text": "is",
+      "lemma": "be",
+      "pos": "VBZ",
+      "morph": "_",
+      "mother": "2277",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2290",
+      "text": "essential",
+      "lemma": "essential",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2289",
+      "rel": "PRD"
+    },
+    {
+      "index": "2291",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2290",
+      "rel": "AMOD"
+    },
+    {
+      "index": "2292",
+      "text": "take",
+      "lemma": "take",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2291",
+      "rel": "IM"
+    },
+    {
+      "index": "2293",
+      "text": "on",
+      "lemma": "on",
+      "pos": "RP",
+      "morph": "_",
+      "mother": "2292",
+      "rel": "PRT"
+    },
+    {
+      "index": "2294",
+      "text": "board",
+      "lemma": "board",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2292",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2295",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2296",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2296",
+      "text": "question",
+      "lemma": "question",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2292",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2297",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2296",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2298",
+      "text": "peace",
+      "lemma": "peace",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2297",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2299",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2298",
+      "rel": "COORD"
+    },
+    {
+      "index": "2300",
+      "text": "security",
+      "lemma": "security",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2299",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2301",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2289",
+      "rel": "P"
+    },
+    {
+      "index": "2302",
+      "text": "The",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2303",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2303",
+      "text": "sale",
+      "lemma": "sale",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2304",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2303",
+      "rel": "COORD"
+    },
+    {
+      "index": "2305",
+      "text": "distribution",
+      "lemma": "distribution",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2304",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2306",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2303",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2307",
+      "text": "dangerous",
+      "lemma": "dangerous",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2308",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2308",
+      "text": "weapons",
+      "lemma": "weapon",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2306",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2309",
+      "text": "including",
+      "lemma": "include",
+      "pos": "VBG",
+      "morph": "_",
+      "mother": "2308",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2310",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "P"
+    },
+    {
+      "index": "2311",
+      "text": "in",
+      "lemma": "in",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "ADV"
+    },
+    {
+      "index": "2312",
+      "text": "particular",
+      "lemma": "particular",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2311",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2313",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "P"
+    },
+    {
+      "index": "2314",
+      "text": "landmines",
+      "lemma": "landmine",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2315",
+      "text": "must",
+      "lemma": "must",
+      "pos": "MD",
+      "morph": "_",
+      "mother": "2301",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2316",
+      "text": "cease",
+      "lemma": "cease",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "VC"
+    },
+    {
+      "index": "2317",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2315",
+      "rel": "P"
+    },
+    {
+      "index": "2318",
+      "text": "Peace",
+      "lemma": "peace",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2319",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2319",
+      "text": "is",
+      "lemma": "be",
+      "pos": "VBZ",
+      "morph": "_",
+      "mother": "2317",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2320",
+      "text": "a",
+      "lemma": "a",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2321",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2321",
+      "text": "prerequisite",
+      "lemma": "prerequisite",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2319",
+      "rel": "PRD"
+    },
+    {
+      "index": "2322",
+      "text": "for",
+      "lemma": "for",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2321",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2323",
+      "text": "development",
+      "lemma": "development",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2322",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2324",
+      "text": ";",
+      "lemma": ";",
+      "pos": ":",
+      "morph": "_",
+      "mother": "2319",
+      "rel": "P"
+    },
+    {
+      "index": "2325",
+      "text": "without",
+      "lemma": "without",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2329",
+      "rel": "ADV"
+    },
+    {
+      "index": "2326",
+      "text": "peace",
+      "lemma": "peace",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2325",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2327",
+      "text": "all",
+      "lemma": "all",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2328",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2328",
+      "text": "effort",
+      "lemma": "effort",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2329",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2329",
+      "text": "is",
+      "lemma": "be",
+      "pos": "VBZ",
+      "morph": "_",
+      "mother": "2319",
+      "rel": "COORD"
+    },
+    {
+      "index": "2330",
+      "text": "wasted",
+      "lemma": "waste",
+      "pos": "VBN",
+      "morph": "_",
+      "mother": "2329",
+      "rel": "VC"
+    },
+    {
+      "index": "2331",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2319",
+      "rel": "P"
+    },
+    {
+      "index": "2332",
+      "text": "It",
+      "lemma": "it",
+      "pos": "PRP",
+      "morph": "_",
+      "mother": "2333",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2333",
+      "text": "is",
+      "lemma": "be",
+      "pos": "VBZ",
+      "morph": "_",
+      "mother": "2331",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2334",
+      "text": "also",
+      "lemma": "also",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2333",
+      "rel": "ADV"
+    },
+    {
+      "index": "2335",
+      "text": "vitally",
+      "lemma": "vitally",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2336",
+      "rel": "AMOD"
+    },
+    {
+      "index": "2336",
+      "text": "important",
+      "lemma": "important",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2333",
+      "rel": "PRD"
+    },
+    {
+      "index": "2337",
+      "text": "that",
+      "lemma": "that",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2333",
+      "rel": "EXTR"
+    },
+    {
+      "index": "2338",
+      "text": "developing",
+      "lemma": "develop",
+      "pos": "VBG",
+      "morph": "_",
+      "mother": "2339",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2339",
+      "text": "countries",
+      "lemma": "country",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2340",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2340",
+      "text": "be",
+      "lemma": "be",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2337",
+      "rel": "SUB"
+    },
+    {
+      "index": "2341",
+      "text": "allowed",
+      "lemma": "allow",
+      "pos": "VBN",
+      "morph": "_",
+      "mother": "2340",
+      "rel": "VC"
+    },
+    {
+      "index": "2342",
+      "text": "fair",
+      "lemma": "fair",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2343",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2343",
+      "text": "access",
+      "lemma": "access",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2341",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2344",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2343",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2345",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2348",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2346",
+      "text": "world",
+      "lemma": "world",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2348",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2347",
+      "text": "market",
+      "lemma": "market",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2348",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2348",
+      "text": "place",
+      "lemma": "place",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2344",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2349",
+      "text": "within",
+      "lemma": "within",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2343",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2350",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2351",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2351",
+      "text": "WTO",
+      "lemma": "wto",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2349",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2352",
+      "text": ",",
+      "lemma": ",",
+      "pos": ",",
+      "morph": "_",
+      "mother": "2341",
+      "rel": "P"
+    },
+    {
+      "index": "2353",
+      "text": "thus",
+      "lemma": "thus",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2354",
+      "rel": "ADV"
+    },
+    {
+      "index": "2354",
+      "text": "helping",
+      "lemma": "help",
+      "pos": "VBG",
+      "morph": "_",
+      "mother": "2341",
+      "rel": "ADV"
+    },
+    {
+      "index": "2355",
+      "text": "them",
+      "lemma": "them",
+      "pos": "PRP",
+      "morph": "_",
+      "mother": "2354",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2356",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2354",
+      "rel": "OPRD"
+    },
+    {
+      "index": "2357",
+      "text": "achieve",
+      "lemma": "achieve",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2356",
+      "rel": "IM"
+    },
+    {
+      "index": "2358",
+      "text": "their",
+      "lemma": "their",
+      "pos": "PRP$",
+      "morph": "_",
+      "mother": "2360",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2359",
+      "text": "ultimate",
+      "lemma": "ultimate",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2360",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2360",
+      "text": "goal",
+      "lemma": "goal",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2357",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2361",
+      "text": "which",
+      "lemma": "which",
+      "pos": "WDT",
+      "morph": "_",
+      "mother": "2362",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2362",
+      "text": "is",
+      "lemma": "be",
+      "pos": "VBZ",
+      "morph": "_",
+      "mother": "2360",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2363",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2364",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2364",
+      "text": "eradication",
+      "lemma": "eradication",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2362",
+      "rel": "PRD"
+    },
+    {
+      "index": "2365",
+      "text": "of",
+      "lemma": "of",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2364",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2366",
+      "text": "misery",
+      "lemma": "misery",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2365",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2367",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2366",
+      "rel": "COORD"
+    },
+    {
+      "index": "2368",
+      "text": "poverty",
+      "lemma": "poverty",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2367",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2369",
+      "text": "in",
+      "lemma": "in",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2364",
+      "rel": "LOC"
+    },
+    {
+      "index": "2370",
+      "text": "these",
+      "lemma": "these",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2371",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2371",
+      "text": "regions",
+      "lemma": "region",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2369",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2372",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2333",
+      "rel": "P"
+    },
+    {
+      "index": "2373",
+      "text": "GATT",
+      "lemma": "gatt",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2377",
+      "rel": "SBJ"
+    },
+    {
+      "index": "2374",
+      "text": "and",
+      "lemma": "and",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2373",
+      "rel": "COORD"
+    },
+    {
+      "index": "2375",
+      "text": "the",
+      "lemma": "the",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2376",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2376",
+      "text": "WTO",
+      "lemma": "wto",
+      "pos": "NNP",
+      "morph": "_",
+      "mother": "2374",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2377",
+      "text": "have",
+      "lemma": "have",
+      "pos": "VBP",
+      "morph": "_",
+      "mother": "2372",
+      "rel": "ROOT"
+    },
+    {
+      "index": "2378",
+      "text": "done",
+      "lemma": "do",
+      "pos": "VBN",
+      "morph": "_",
+      "mother": "2377",
+      "rel": "VC"
+    },
+    {
+      "index": "2379",
+      "text": "little",
+      "lemma": "little",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2378",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2380",
+      "text": "or",
+      "lemma": "or",
+      "pos": "CC",
+      "morph": "_",
+      "mother": "2379",
+      "rel": "COORD"
+    },
+    {
+      "index": "2381",
+      "text": "nothing",
+      "lemma": "nothing",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2380",
+      "rel": "CONJ"
+    },
+    {
+      "index": "2382",
+      "text": "so",
+      "lemma": "so",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2378",
+      "rel": "TMP"
+    },
+    {
+      "index": "2383",
+      "text": "far",
+      "lemma": "far",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2382",
+      "rel": "AMOD"
+    },
+    {
+      "index": "2384",
+      "text": "to",
+      "lemma": "to",
+      "pos": "TO",
+      "morph": "_",
+      "mother": "2378",
+      "rel": "PRP"
+    },
+    {
+      "index": "2385",
+      "text": "make",
+      "lemma": "make",
+      "pos": "VB",
+      "morph": "_",
+      "mother": "2384",
+      "rel": "IM"
+    },
+    {
+      "index": "2386",
+      "text": "increased",
+      "lemma": "increase",
+      "pos": "VBN",
+      "morph": "_",
+      "mother": "2387",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2387",
+      "text": "trade",
+      "lemma": "trade",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2385",
+      "rel": "OBJ"
+    },
+    {
+      "index": "2388",
+      "text": "a",
+      "lemma": "a",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2389",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2389",
+      "text": "reality",
+      "lemma": "reality",
+      "pos": "NN",
+      "morph": "_",
+      "mother": "2385",
+      "rel": "OPRD"
+    },
+    {
+      "index": "2390",
+      "text": "for",
+      "lemma": "for",
+      "pos": "IN",
+      "morph": "_",
+      "mother": "2389",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2391",
+      "text": "these",
+      "lemma": "these",
+      "pos": "DT",
+      "morph": "_",
+      "mother": "2394",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2392",
+      "text": "very",
+      "lemma": "very",
+      "pos": "RB",
+      "morph": "_",
+      "mother": "2393",
+      "rel": "AMOD"
+    },
+    {
+      "index": "2393",
+      "text": "poor",
+      "lemma": "poor",
+      "pos": "JJ",
+      "morph": "_",
+      "mother": "2394",
+      "rel": "NMOD"
+    },
+    {
+      "index": "2394",
+      "text": "economies",
+      "lemma": "economy",
+      "pos": "NNS",
+      "morph": "_",
+      "mother": "2390",
+      "rel": "PMOD"
+    },
+    {
+      "index": "2395",
+      "text": ".",
+      "lemma": ".",
+      "pos": ".",
+      "morph": "_",
+      "mother": "2377",
+      "rel": "P"
+    }
+  ],
+  "sentences": [
+    [
+      0,
+      28
+    ],
+    [
+      28,
+      51
+    ],
+    [
+      51,
+      80
+    ],
+    [
+      80,
+      104
+    ],
+    [
+      104,
+      120
+    ],
+    [
+      120,
+      134
+    ],
+    [
+      134,
+      175
+    ],
+    [
+      175,
+      198
+    ]
+  ],
+  "anaphors": [
+    {
+      "id": "markable_2782",
+      "shellnoun": "false",
+      "align_unit": "set_11",
+      "start": 98,
+      "end": 99,
+      "index": 0
+    },
+    {
+      "id": "markable_2781",
+      "shellnoun": "false",
+      "align_unit": "set_10",
+      "start": 47,
+      "end": 48,
+      "index": 1
+    },
+    {
+      "id": "markable_2784",
+      "shellnoun": "true",
+      "align_unit": "set_13",
+      "content_phrase": "shellnoun-phrase:markable_2785",
+      "content": "given",
+      "start": 162,
+      "end": 163,
+      "index": 2
+    },
+    {
+      "id": "markable_2783",
+      "shellnoun": "false",
+      "align_unit": "set_12",
+      "start": 123,
+      "end": 124,
+      "index": 3
+    },
+    {
+      "id": "markable_2316",
+      "shellnoun": "false",
+      "align_unit": "set_9",
+      "start": 130,
+      "end": 131,
+      "index": 4
+    }
+  ],
+  "antecedents": [
+    {
+      "id": "markable_2785",
+      "nominal": "true",
+      "align_unit": "set_14",
+      "start": 165,
+      "end": 174,
+      "index": 0
+    }
+  ],
+  "ref_instances": [
+    {
+      "anaphor": 2,
+      "antecedent": 0
+    }
+  ]
+}
