@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customization>
+<rule pattern="{all}" style="italic=true" />
+<rule pattern="shellnoun={false}" style="foreground=magenta" />
+<rule pattern="shellnoun={true}" style="bold=true; foreground=green" />
+<rule pattern="shellnoun={undefined}" style="bold=true; foreground=red" />
+<rule pattern="shellnoun={unclear}" style="bold=true; foreground=blue" />
+</customization>

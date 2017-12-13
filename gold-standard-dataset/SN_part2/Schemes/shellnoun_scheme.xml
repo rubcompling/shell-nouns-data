@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotationscheme>
+<attribute id="shellnoun_level" name="shellnoun" type="nominal_button">
+<value id="shellnoun" name="undefined" />
+<value id="shellnoun" name="false" />
+<value id="shellnoun" name="true" next="content" />
+<value id="shellnoun" name="unclear" next="content" />
+</attribute>
+<attribute id="comment_field" name="comment" type="freetext">
+<value id="comment" name="" />
+</attribute>
+<attribute id="content" name="content" type="nominal_button">
+<value id="content" name="undefined" />
+<value id="content" name="given" next="content_phrase" />
+<value id="content" name="implicit" />
+<value id="content" name="external" />
+<value id="content" name="unclear" next="content_phrase" />
+</attribute>
+<attribute color="blue" id="content_phrase" name="Content_Phrase" style="lcurve" type="markable_pointer" width="2">
+<value id="phrase" name="not_set" />
+<value id="phrase" name="set" />
+</attribute>
+<attribute add_to_markableset_text="Add alignment" adopt_into_markableset_text="Add to this align unit" color="orange" id="align_unit" name="Align_Unit" remove_from_markableset_text="Remove alignment" style="straight" type="markable_set" width="2">
+<value id="align-set" name="Align_Unit" />
+</attribute>
+</annotationscheme>

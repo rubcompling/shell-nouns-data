@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotationscheme>
+<attribute id="nominal" name="nominal" type="nominal_button">
+<value id="nominal" name="false" />
+<value id="nominal" name="true" />
+</attribute>
+<attribute id="comment_field" name="comment" text="enter comments for difficult cases here" type="freetext">
+<value id="comment" name="" />
+</attribute>
+<attribute add_to_markableset_text="Add alignment" adopt_into_markableset_text="Add to this align unit" color="orange" id="align_unit" name="Align_Unit" remove_from_markableset_text="Remove alignment" style="straight" type="markable_set" width="2">
+<value id="align-set" name="Align_Unit" />
+</attribute>
+</annotationscheme>

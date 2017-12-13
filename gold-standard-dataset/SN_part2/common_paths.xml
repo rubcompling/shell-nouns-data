@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<!DOCTYPE common_paths>
+<common_paths>
+
+  <basedata_path>Basedata\</basedata_path>
+  <customization_path>Customizations\</customization_path>
+  <scheme_path>Schemes\</scheme_path>
+  <style_path>Styles\</style_path>
+  <markable_path>Markables\</markable_path>
+  <views>
+    <stylesheet>default_style.xsl</stylesheet>
+  </views>
+
+  <annotations>
+<level customization_file="europarl-turn_customization.xml" name="europarl-turn" schemefile="europarl-turn_scheme.xml">$_europarl-turn_level.xml</level>
+<level customization_file="sentence_customization.xml" name="sentence" schemefile="sentence_scheme.xml">$_sentence_level.xml</level>
+<level customization_file="shellnoun_customization.xml" name="shellnoun" schemefile="shellnoun_scheme.xml">$_shellnoun_level.xml</level>
+<level customization_file="shellnoun-phrase_customization.xml" name="shellnoun-phrase" schemefile="shellnoun-phrase_scheme.xml">$_shellnoun-phrase_level.xml</level>
+</annotations>
+
+</common_paths>
+
