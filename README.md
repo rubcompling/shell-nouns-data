@@ -1,6 +1,6 @@
 # German/English Parallel Shell Noun Corpus
 
-German/English parallel text from the [Europarl Corpus][europarl] with manually annotated shell noun complexes, as described in [Simonjetz & Roussel (2016)](simonjetz).
+German/English parallel text from the [Europarl Corpus][europarl] with manually annotated shell noun complexes, as described in [Simonjetz & Roussel (2016)][simonjetz].
 
 Annotations contain a series of noncontiguous turns (`turn`) from the Europarl corpus, grouped according to plenary session (`europarl_chunk`). The turns are presented in English/German pairs, with the language of a particular turn marked both in `turn_id` and in the `lang` attribute. The pairs were presented to annotators in random order, either German first or English first, in order to minimize bias towards one language or the other, and this is the order they occur in here as well.
 
